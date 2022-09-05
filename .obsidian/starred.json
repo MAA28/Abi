@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Stundenplan",
+      "path": "Stundenplan.md"
+    },
+    {
+      "type": "file",
+      "title": "Kurswahl",
+      "path": "Kurswahl.pdf"
+    },
+    {
+      "type": "file",
+      "title": "Raumplan",
+      "path": "Raumplan.pdf"
+    },
+    {
+      "type": "file",
+      "title": "Klausurenplan",
+      "path": "Klausurenplan.pdf"
+    }
+  ]
+}
