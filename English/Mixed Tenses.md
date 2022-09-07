@@ -1,4 +1,5 @@
-# Tenses
+# Mixed Tenses I
+## Tenses
 1. I usually **go** to school by bus.
 2. Yesterday morning I **got** up at 6:30.
 3. We needed some money so we **selled** our car.
@@ -24,7 +25,7 @@
 23. Last night I **read** a book.
 24. Last week my rabbit **ran** away.
 25. What **does** Peter **do** at the moment? He **has** a bath.
-# Translate!
+## Translate!
 | German                                                                 | English                                                            |
 | ---------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | Letzte Woche hat er bei seinem Freund geschlafen.                      | He had a sleep over at his friend's last week.                     |
@@ -34,3 +35,24 @@
 | Geht er gerne zur Schule? Nein, er geht nicht gerne zur Schule.        | Is he going to school? No, he doesnt go to school.                 |
 | Wirst du morgen bei Gerit übernachten? Ja, wir werden viel Spaß haben. | Will you sleep at Gerit's tomorrow? Yes, I will have a lot of fun. |
 | Warst du letzten Dienstag krank?                                       | Where you ill on Tuesday?                                          |
+# Mixed Tenses II
+## Tenses
+1. Correct
+2. Must be simple past
+3. no have
+4. simple past
+5. just left
+6. Correct
+7. wasn't at work
+8. Correct
+## Verbs
+1. Have you seen her?
+2. When I got home last night, I was very tired and I went straight to bed.
+3. George wasn't very well last week.
+4. The house was very quiet when I got home. Everybody had gone to bed.
+5. Mr Clark has worked in the bank for 15 years. Then he gave up.
+6. Molly lives in Dublin. She has lived there all her life.
+7. Did you go to the cinema last night? Yes, but it was a mistake. The film was awful.
+8. My grandfather died thrity years ago. I never met him.
+9. I don't know Carol's husband. I never met him.
+10. We were driving along the road when we saw a car which broke down, so we stopped to see if we could help.
