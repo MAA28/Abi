@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Philosophie/L'atomsphere.md",
+            "file": "Informatik/vigenere/Löser.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophie/L'atomsphere.md",
+                "file": "Informatik/vigenere/Löser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophie/L'atomsphere.md",
+                "file": "Informatik/vigenere/Löser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophie/L'atomsphere.md"
+                "file": "Informatik/vigenere/Löser.md"
               }
             }
           },
@@ -139,15 +139,15 @@
   },
   "active": "7584e996766de01d",
   "lastOpenFiles": [
-    "Philosophie/L'atomsphere.md",
+    "Geschichte/Amerikanische Revolution/Die Ausgangslage.pdf",
+    "Geschichte/Amerikanische Revolution/Die Nordamerikanischen Kolonien.pdf",
+    "Geschichte/Amerikanische Revolution/Untitled.md",
+    "Geschichte/AB_Die Nordamerikanischen Kolonien.pdf",
+    "Politik & Wirtschaft/Mitmachen in der Demokratie.md",
     "Politik & Wirtschaft/Einmisschen - engagieren - partizipieren.md",
-    "Politik & Wirtschaft/Untitled.md",
+    "Philosophie/L'atomsphere.md",
     "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Was ist Aufklärung - Zusammenfassung.md",
     "Physik/Weitere Untersuchung der elektrische Ladungen.md",
-    "Physik/Defintionen von Stromstärke.md",
-    "Physik/Aufbau und Funktion eines Bandgenerator.md",
-    "Physik/Elektrisches Feld.md",
-    "Geschichte/Amerikanische Revolution/Wessen Revolution.md",
-    "Stundenplan.md"
+    "Physik/Defintionen von Stromstärke.md"
   ]
 }
