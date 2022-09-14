@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Physik/Stärke eines elektrischen Feldes.md",
-            "mode": "preview",
+            "file": "Seminarfach/Was interessiert dich?.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 390.5
+    "width": 177.5
   },
   "right": {
     "id": "8c92690a48afae5a",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physik/Stärke eines elektrischen Feldes.md",
+                "file": "Seminarfach/Was interessiert dich?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physik/Stärke eines elektrischen Feldes.md",
+                "file": "Seminarfach/Was interessiert dich?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physik/Stärke eines elektrischen Feldes.md"
+                "file": "Seminarfach/Was interessiert dich?.md"
               }
             }
           },
@@ -139,6 +139,7 @@
   },
   "active": "7584e996766de01d",
   "lastOpenFiles": [
+    "Physik/Stärke eines elektrischen Feldes.md",
     "Informatik/vigenere/Löser.md",
     "Geschichte/Amerikanische Revolution/Die Ausgangslage.pdf",
     "Geschichte/Amerikanische Revolution/Die Nordamerikanischen Kolonien.pdf",
@@ -147,7 +148,6 @@
     "Politik & Wirtschaft/Mitmachen in der Demokratie.md",
     "Politik & Wirtschaft/Einmisschen - engagieren - partizipieren.md",
     "Philosophie/L'atomsphere.md",
-    "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Was ist Aufklärung - Zusammenfassung.md",
-    "Physik/Weitere Untersuchung der elektrische Ladungen.md"
+    "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Was ist Aufklärung - Zusammenfassung.md"
   ]
 }
