@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "7584e996766de01d",
+        "id": "f90298754d112945",
         "type": "leaf",
         "state": {
           "type": "pdf",
@@ -135,8 +135,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7584e996766de01d",
+  "active": "f90298754d112945",
   "lastOpenFiles": [
+    "Philosophie/Die Erschaffung Adams.pdf",
     "Philosophie/Die Inkompetenz wird zur Tretmühle.md",
     "Philosophie/Was ist der Mensch? – Mögliche Antworten formulieren.pdf",
     "Seminarfach/Was interessiert dich?.md",
@@ -145,7 +146,6 @@
     "Geschichte/Amerikanische Revolution/Die Ausgangslage.pdf",
     "Geschichte/Amerikanische Revolution/Die Nordamerikanischen Kolonien.pdf",
     "Geschichte/Amerikanische Revolution/Untitled.md",
-    "Geschichte/AB_Die Nordamerikanischen Kolonien.pdf",
-    "Politik & Wirtschaft/Mitmachen in der Demokratie.md"
+    "Geschichte/AB_Die Nordamerikanischen Kolonien.pdf"
   ]
 }
