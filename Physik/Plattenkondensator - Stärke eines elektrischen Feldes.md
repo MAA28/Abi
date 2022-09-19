@@ -22,3 +22,7 @@ Probeladung:
 |            |           |                  |
 |            |           |                  |
 <iframe src="https://www.desmos.com/calculator/jqx7xmo7bu?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
+Das Ladungskraftdiagram ist eine Ursprungsgrade, daraus folgt, dass $F$ und $Q$ propertional zueinander sind.
+
+$$F \propto Q$$
+Daher eignet sich $\dfrac{F}{Q}
