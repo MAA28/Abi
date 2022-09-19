@@ -19,3 +19,6 @@ Probeladung:
 | 204        | 2         | $+\dfrac{1}{2}Q$ |
 | 0.102      | 1         | $+\dfrac{1}{4}Q$ |
 | 0.056      | 0.55      | $+\dfrac{1}{8}Q$ |
+|            |           |                  |
+|            |           |                  |
+<iframe src="https://www.desmos.com/calculator/jqx7xmo7bu?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
