@@ -26,3 +26,6 @@ Das Ladungskraftdiagram ist eine Ursprungsgrade, daraus folgt, dass $F$ und $Q$ 
 
 $$F \propto Q$$
 Daher eignet sich $\dfrac{\overrightarrow{F}}{Q}$ um ein Homogenes Feld zu Charaktisierung geeignet und heißt $E$. Die Einheit von $\overrightarrow{E}$ ist $\dfrac{N}{C}$.  Dies ist für parktische Messung ungeeignet.
+$$\Delta W=F\Delta s$$
+$$\Delta W=E*q*\Delta s$$
+$$\Delta W=E*q*\Delta s$$
