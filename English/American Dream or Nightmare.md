@@ -17,4 +17,7 @@ date: 20.09.2022
 + corrupt police collaborating with mobsters
 + Horrible civil design
 + Progandizing the lie of "rags to riches"
-+ Great Depression runed the lifes of millions 
++ Great Depression runed the lifes of millions and centralizing capital even further
++ can counter crisis only with petite reformism
++ Striking workers are met with brutal force
++ 
