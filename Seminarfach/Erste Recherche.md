@@ -14,7 +14,9 @@
 # Effekte der Architektur auf Stress
 + Urban Health
 + Healing Design
-+ Architecture 
++ Architecture for Health
 + Leseliste
 	+ Heilsame Architektur: Raumqualitäten erleben, verstehen und entwerfen
 # Quantifizierung von Stress
++ Hans Selye in 1936: the non-specific response of the body to any demand for change
++ 
