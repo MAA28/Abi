@@ -15,8 +15,18 @@
 + Urban Health
 + Healing Design
 + Architecture for Health
++ The Center for Urban Designs and Mental Health (UD/MD)
++ Methoden um Mental Health zu unterstützen:
+	+ "Mind the GAPS"
+		+ **G**reen space and access to nature
+		+ **A**ctive space for exercise
+		+ **P**ro-social places to encourage positive social interaction
+		+ **S**afety in the city
+	+ Sleep
+	+ Transportation and connection
+	+ Economic stress and affordability in the city
+	+ air pollution
 + Leseliste
 	+ Heilsame Architektur: Raumqualitäten erleben, verstehen und entwerfen
 # Quantifizierung von Stress
 + Hans Selye in 1936: the non-specific response of the body to any demand for change
-+ 
