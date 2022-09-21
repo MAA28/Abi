@@ -7,11 +7,9 @@
         "id": "bf86c84bb697cd3f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "Politik & Wirtschaft/Nicht lineare Quellen.md",
-            "mode": "preview",
-            "source": false
+            "file": "Philosophie/Interview mit Richard Dawkins „Wir sind alle Cousins“.pdf"
           }
         }
       }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Politik & Wirtschaft/Nicht lineare Quellen.md",
+                "file": "Philosophie/Interview mit Richard Dawkins „Wir sind alle Cousins“.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Politik & Wirtschaft/Nicht lineare Quellen.md",
+                "file": "Philosophie/Interview mit Richard Dawkins „Wir sind alle Cousins“.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Politik & Wirtschaft/Nicht lineare Quellen.md"
+                "file": "Philosophie/Interview mit Richard Dawkins „Wir sind alle Cousins“.pdf"
               }
             }
           },
@@ -139,15 +137,15 @@
   },
   "active": "bf86c84bb697cd3f",
   "lastOpenFiles": [
-    "Politik & Wirtschaft/Mitmachen in der Demokratie.md",
+    "Philosophie/Charles Darwin - Natürliche Zuchtwahl oder Überleben des Passendsten.pdf",
+    "Philosophie/Wie funktioniert Evolution? – Darwins Schaben.pdf",
+    "Philosophie/Interview mit Richard Dawkins „Wir sind alle Cousins“.pdf",
+    "Stundenplan.md",
+    "Raumplan.pdf",
     "Politik & Wirtschaft/Nicht lineare Quellen.md",
+    "Politik & Wirtschaft/Mitmachen in der Demokratie.md",
     "Seminarfach/Erste Recherche.md",
     "Klausurenplan.pdf",
-    "Stundenplan.md",
-    "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Literarische Epochen erschließen - Die Romantik.pdf",
-    "Kurswahl.pdf",
-    "Raumplan.pdf",
-    "Physik/Beispiel zum elektrischen Potential.md",
-    "Seminarfach/Was interessiert dich?.md"
+    "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Literarische Epochen erschließen - Die Romantik.pdf"
   ]
 }
