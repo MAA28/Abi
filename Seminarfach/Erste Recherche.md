@@ -1,4 +1,5 @@
 # Sovietische Sanatoriums und deren Entspannungsmethoden
++ *sanare* "to heal, to make healthy"
 + spa and clinic
 + In Georgia, for example, there are magnetic sands which people believe can treat heart, blood, joint, and bone conditions
 + Kurortology
