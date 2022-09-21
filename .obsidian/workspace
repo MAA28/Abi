@@ -4,31 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3e29196e6124c779",
-        "type": "split",
-        "children": [
-          {
-            "id": "f90298754d112945",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Seminarfach/Erste Recherche.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4aab6afedddf0eb",
-            "type": "leaf",
-            "state": {
-              "type": "mindmap",
-              "state": {}
-            }
+        "id": "f90298754d112945",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Physik/Beispiel zum elektrischen Potential.md",
+            "mode": "source",
+            "source": false
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -92,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seminarfach/Erste Recherche.md",
+                "file": "Physik/Beispiel zum elektrischen Potential.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Seminarfach/Erste Recherche.md",
+                "file": "Physik/Beispiel zum elektrischen Potential.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Seminarfach/Erste Recherche.md"
+                "file": "Physik/Beispiel zum elektrischen Potential.md"
               }
             }
           },
@@ -154,6 +139,7 @@
   },
   "active": "f90298754d112945",
   "lastOpenFiles": [
+    "Seminarfach/Erste Recherche.md",
     "Seminarfach/Was interessiert dich?.md",
     "English/American Dream or Nightmare.md",
     "English/Idioms.md",
@@ -162,7 +148,6 @@
     "English/Travel.jpg",
     "English/The American Dream a definition.pdf",
     "Physik/Defintionen von Stromstärke.md",
-    "Physik/Aufbau und Funktion eines Bandgenerator.md",
-    "Stundenplan.md"
+    "Physik/Aufbau und Funktion eines Bandgenerator.md"
   ]
 }
