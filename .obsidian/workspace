@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "americ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,7 +137,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bf86c84bb697cd3f",
+  "active": "465a58ff3f4055e1",
   "lastOpenFiles": [
     "Klausurenplan.pdf",
     "Kurswahl.pdf",
