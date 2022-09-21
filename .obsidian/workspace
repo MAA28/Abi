@@ -4,14 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f90298754d112945",
+        "id": "9062d3ceba97e8e2",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "Physik/Beispiel zum elektrischen Potential.md",
-            "mode": "preview",
-            "source": false
+            "file": "Klausurenplan.pdf"
           }
         }
       }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physik/Beispiel zum elektrischen Potential.md",
+                "file": "Klausurenplan.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physik/Beispiel zum elektrischen Potential.md",
+                "file": "Klausurenplan.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physik/Beispiel zum elektrischen Potential.md"
+                "file": "Klausurenplan.pdf"
               }
             }
           },
@@ -137,17 +135,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f90298754d112945",
+  "active": "9062d3ceba97e8e2",
   "lastOpenFiles": [
+    "Raumplan.pdf",
+    "Klausurenplan.pdf",
+    "Physik/Beispiel zum elektrischen Potential.md",
     "Seminarfach/Erste Recherche.md",
     "Seminarfach/Was interessiert dich?.md",
     "English/American Dream or Nightmare.md",
     "English/Idioms.md",
     "Physik/Plattenkondensator - Stärke eines elektrischen Feldes.md",
     "English/Travel.pdf",
-    "English/Travel.jpg",
-    "English/The American Dream a definition.pdf",
-    "Physik/Defintionen von Stromstärke.md",
-    "Physik/Aufbau und Funktion eines Bandgenerator.md"
+    "English/Travel.jpg"
   ]
 }
