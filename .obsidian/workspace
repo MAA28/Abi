@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9062d3ceba97e8e2",
+        "id": "6b8fffda56aa9ed2",
         "type": "leaf",
         "state": {
           "type": "pdf",
           "state": {
-            "file": "Klausurenplan.pdf"
+            "file": "Kurswahl.pdf"
           }
         }
       }
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Klausurenplan.pdf",
+                "file": "Kurswahl.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Klausurenplan.pdf",
+                "file": "Kurswahl.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Klausurenplan.pdf"
+                "file": "Kurswahl.pdf"
               }
             }
           },
@@ -135,9 +135,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9062d3ceba97e8e2",
+  "active": "6b8fffda56aa9ed2",
   "lastOpenFiles": [
     "Raumplan.pdf",
+    "Kurswahl.pdf",
     "Klausurenplan.pdf",
     "Physik/Beispiel zum elektrischen Potential.md",
     "Seminarfach/Erste Recherche.md",
@@ -145,7 +146,6 @@
     "English/American Dream or Nightmare.md",
     "English/Idioms.md",
     "Physik/Plattenkondensator - Stärke eines elektrischen Feldes.md",
-    "English/Travel.pdf",
-    "English/Travel.jpg"
+    "English/Travel.pdf"
   ]
 }
