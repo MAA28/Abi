@@ -4,14 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "c614fc7f2c197d8c",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Literarische Epochen erschließen - Die Romantik.pdf"
+        "id": "e7d8cb1a90c28a19",
+        "type": "split",
+        "children": [
+          {
+            "id": "bf86c84bb697cd3f",
+            "type": "leaf",
+            "dimension": 28.57142857142857,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Seminarfach/Erste Recherche.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4b4494c1e0f8e73",
+            "type": "leaf",
+            "dimension": 71.42857142857143,
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -75,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Literarische Epochen erschließen - Die Romantik.pdf",
+                "file": "Seminarfach/Erste Recherche.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Literarische Epochen erschließen - Die Romantik.pdf",
+                "file": "Seminarfach/Erste Recherche.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Literarische Epochen erschließen - Die Romantik.pdf"
+                "file": "Seminarfach/Erste Recherche.md"
               }
             }
           },
@@ -135,10 +154,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c614fc7f2c197d8c",
+  "active": "bf86c84bb697cd3f",
   "lastOpenFiles": [
-    "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Literarische Epochen erschließen - Die Romantik.pdf",
     "Seminarfach/Erste Recherche.md",
+    "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Literarische Epochen erschließen - Die Romantik.pdf",
     "Kurswahl.pdf",
     "Raumplan.pdf",
     "Klausurenplan.pdf",
