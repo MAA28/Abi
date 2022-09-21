@@ -6,4 +6,5 @@ Betrachte einen Plattenkondensator $U=1000V$ auf einen Probekörper mit der Ladu
 > Wie groß ist der Plattenabstand $d$ und die Feldstärke $E$?
 
 $$E=\dfrac{U}{d}\Rightarrow d=\dfrac{U}{E}$$
-$|E|=\dfrac{F}{q}=\dfrac{5*10^{-4}N}{10^{-9} C}=5*10⁵ \dfrac{N}{C}$
+$$|E|=\dfrac{F}{q}=\dfrac{5*10^{-4}N}{10^{-9} C}=5*10⁵ \dfrac{N}{C}$$
+$$d=\dfrac{1000}{5*10^5}\dfrac{V}{\frac{N}{C}}=0.2*10^{-2}\dfrac{VC}{N}=0.2*10^{-2}m$$
