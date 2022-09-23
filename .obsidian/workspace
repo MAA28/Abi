@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Politik & Wirtschaft/Nicht lineare Quellen.md",
+            "file": "Physik/Beispiel zum elektrischen Potential.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Politik & Wirtschaft/Nicht lineare Quellen.md",
+                "file": "Physik/Beispiel zum elektrischen Potential.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Politik & Wirtschaft/Nicht lineare Quellen.md",
+                "file": "Physik/Beispiel zum elektrischen Potential.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Politik & Wirtschaft/Nicht lineare Quellen.md"
+                "file": "Physik/Beispiel zum elektrischen Potential.md"
               }
             }
           },
@@ -137,11 +137,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "465a58ff3f4055e1",
+  "active": "bf86c84bb697cd3f",
   "lastOpenFiles": [
+    "Politik & Wirtschaft/Nicht lineare Quellen.md",
     "Klausurenplan.pdf",
     "Kurswahl.pdf",
-    "Politik & Wirtschaft/Nicht lineare Quellen.md",
     "Philosophie/Interview mit Richard Dawkins „Wir sind alle Cousins“.pdf",
     "Philosophie/Charles Darwin - Natürliche Zuchtwahl oder Überleben des Passendsten.pdf",
     "Philosophie/Wie funktioniert Evolution? – Darwins Schaben.pdf",
