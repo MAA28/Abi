@@ -11,7 +11,9 @@ $$d=\dfrac{1000}{5*10^5}\dfrac{V}{\frac{N}{C}}=0.2*10^{-2}\dfrac{VC}{N}=0.2*10^{
 
 
 # Wie groß ist die Geschiwindigkeit
-$$d=6cm\ U=5400V\ m=0.5g\ q=5*10^{-9}C\ E=600J$$
-
-$$F=E*q=600J*5*10^{-9}C=3*10^{.6}N$$
+$$d=6cm\ U=5400V\ m=0.5g\ q=5*10^{-9}C$$
+$$E=\dfrac{U}{d}=\dfrac{5400V}{0.06m}=9*10^4J$$
+$$F=E*q=9*10^4J*5*10^{-9}C=4.5*10^{-4}N$$
+$$at=v$$
+$$s=\dfrac{1}{2}at^2\ |-\dfrac{1}{2}a$$
 
