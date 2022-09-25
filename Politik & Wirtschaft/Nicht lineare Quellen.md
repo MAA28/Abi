@@ -14,4 +14,6 @@ Einer der größten historischen Trends ist wohl, dass die Beteiligung bei Wahle
 Jede Form von politische Beteiligung wird vorallem von Deutschen im Alter 18-29 und von denen mit Hochschulabschluss praktiziert.
 
 # Hypothesen
-M1
+## M1
+Fälle in der Wahlbeteidigung sind produkt von zwei Phänomen: Entäuschung und Zufriedenheit - So lässt sich der Fall in der Wahlbeteidung in den Bundestagswahlöen seit 1972 bis 1990 erklären durch die gute Wirtschaftsleistung und die akzeptable verteilung dieses Reichtums durch die Soziale Marktwirtschaft. Der Anstieg in der Wahlbeteidung bei den Bundestagswahl der Ostdeutschen 1998 läst sich damit erklären, dass die Ostdeutschen glaubten sie könnten Kohn los werden und damit wirklich was verändern.
+## M2
