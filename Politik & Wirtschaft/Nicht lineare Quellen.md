@@ -14,3 +14,4 @@ Einer der größten historischen Trends ist wohl, dass die Beteiligung bei Wahle
 Jede Form von politische Beteiligung wird vorallem von Deutschen im Alter 18-29 und von denen mit Hochschulabschluss praktiziert.
 
 # Hypothesen
+M1
