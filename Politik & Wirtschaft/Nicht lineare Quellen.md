@@ -17,3 +17,4 @@ Jede Form von politische Beteiligung wird vorallem von Deutschen im Alter 18-29 
 ## M1
 Fälle in der Wahlbeteidigung sind produkt von zwei Phänomen: Entäuschung und Zufriedenheit - So lässt sich der Fall in der Wahlbeteidung in den Bundestagswahlöen seit 1972 bis 1990 erklären durch die gute Wirtschaftsleistung und die akzeptable verteilung dieses Reichtums durch die Soziale Marktwirtschaft. Der Anstieg in der Wahlbeteidung bei den Bundestagswahl der Ostdeutschen 1998 läst sich damit erklären, dass die Ostdeutschen glaubten sie könnten Kohn los werden und damit wirklich was verändern.
 ## M2
+Die Tatsache dass von 1990 bis 2017 die Anzahl der Parteimitgliedern der im Bundestag vertretenen Parteien sich fast halbiert hat, lässt sich mit einer reduzierung der Massentauglichkeit der Parteien erklären.
