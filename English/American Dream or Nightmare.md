@@ -27,4 +27,12 @@ date: 20.09.2022
 + bombed korea and vietnam into the stone age
 + Allowed General McCather to fight his lunatic war
 + McCathyism
-+ Slavery -> Segregation -> Redlining 
++ Slavery -> Segregation -> Redlining and Mass in prisoning
+	+ Fucking killed MLK
+	+ Assasinated Fred Hampton
++ Nepotistic and aristocratic politics (Nixon, Clinton, Biden)
++ Cuba
+	+ Provoked the Turkey/Cuban missle crisis 
+	+ Bay of Pigs
++ Illegal act of war (blockade) against cuba
++  
