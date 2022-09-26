@@ -7,10 +7,8 @@
         "id": "2686359ab55d5e55",
         "type": "leaf",
         "state": {
-          "type": "pdf",
-          "state": {
-            "file": "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Literarische Epochen erschließen - Die Romantik.pdf"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -59,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 177.5
+    "width": 315
   },
   "right": {
     "id": "8c92690a48afae5a",
@@ -75,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Literarische Epochen erschließen - Die Romantik.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Literarische Epochen erschließen - Die Romantik.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Literarische Epochen erschließen - Die Romantik.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -135,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2686359ab55d5e55",
+  "active": "465a58ff3f4055e1",
   "lastOpenFiles": [
+    "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/HA Novalis Fragemente.pdf",
+    "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Literarische Epochen erschließen - Die Romantik.pdf",
+    "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Novalis Fragmente.md",
+    "Klausurenplan.pdf",
     "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Vergleich Romantik und Aufklärung.md",
     "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Was ist Aufklärung.md",
-    "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/HA Novalis Fragemente.pdf",
-    "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Untitled.md",
     "Physik/Beispiel zum elektrischen Potential.md",
     "Stundenplan.md",
     "Raumplan.pdf",
-    "Physik/Defintionen von Stromstärke.md",
-    "Physik/Elektrisches Feld.md",
-    "Physik/Weitere Untersuchung der elektrische Ladungen.md"
+    "Physik/Defintionen von Stromstärke.md"
   ]
 }
