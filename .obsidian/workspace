@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Stundenplan.md",
+            "file": "Physik/Beispiel zum elektrischen Potential.md",
             "mode": "preview",
             "source": false
           }
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stundenplan.md",
+                "file": "Physik/Beispiel zum elektrischen Potential.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stundenplan.md",
+                "file": "Physik/Beispiel zum elektrischen Potential.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stundenplan.md"
+                "file": "Physik/Beispiel zum elektrischen Potential.md"
               }
             }
           },
@@ -140,6 +139,7 @@
   },
   "active": "2686359ab55d5e55",
   "lastOpenFiles": [
+    "Stundenplan.md",
     "Raumplan.pdf",
     "Physik/Beispiel zum elektrischen Potential.md",
     "Physik/Defintionen von Stromstärke.md",
@@ -148,7 +148,6 @@
     "Physik/Plattenkondensator - Stärke eines elektrischen Feldes.md",
     "Politik & Wirtschaft/Funktion der Parteien.md",
     "Politik & Wirtschaft/Nicht lineare Quellen.md",
-    "Klausurenplan.pdf",
-    "Kurswahl.pdf"
+    "Klausurenplan.pdf"
   ]
 }
