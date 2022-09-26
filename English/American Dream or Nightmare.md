@@ -20,4 +20,7 @@ date: 20.09.2022
 + Great Depression runed the lifes of millions and centralizing capital even further
 + can counter crisis only with petite reformism
 + Striking workers are met with brutal force
++ war machine/military industrial complex
++ only started to fight the nazis when their capital and military intrests were at risk
++ Unnecearilly bombed the japanese civilians
 + 
