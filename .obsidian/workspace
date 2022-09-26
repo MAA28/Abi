@@ -9,7 +9,7 @@
         "state": {
           "type": "pdf",
           "state": {
-            "file": "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/HA Novalis Fragemente.pdf"
+            "file": "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Literarische Epochen erschließen - Die Romantik.pdf"
           }
         }
       }
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/HA Novalis Fragemente.pdf",
+                "file": "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Literarische Epochen erschließen - Die Romantik.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/HA Novalis Fragemente.pdf",
+                "file": "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Literarische Epochen erschließen - Die Romantik.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/HA Novalis Fragemente.pdf"
+                "file": "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Literarische Epochen erschließen - Die Romantik.pdf"
               }
             }
           },
@@ -138,14 +138,14 @@
   "active": "2686359ab55d5e55",
   "lastOpenFiles": [
     "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Vergleich Romantik und Aufklärung.md",
-    "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Untitled.md",
+    "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Was ist Aufklärung.md",
     "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/HA Novalis Fragemente.pdf",
+    "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Untitled.md",
     "Physik/Beispiel zum elektrischen Potential.md",
     "Stundenplan.md",
     "Raumplan.pdf",
     "Physik/Defintionen von Stromstärke.md",
     "Physik/Elektrisches Feld.md",
-    "Physik/Weitere Untersuchung der elektrische Ladungen.md",
-    "Physik/Plattenkondensator - Stärke eines elektrischen Feldes.md"
+    "Physik/Weitere Untersuchung der elektrische Ladungen.md"
   ]
 }
