@@ -23,4 +23,8 @@ date: 20.09.2022
 + war machine/military industrial complex
 + only started to fight the nazis when their capital and military intrests were at risk
 + Unnecearilly bombed the japanese civilians
-+ 
++ Builds organasiations that facilitate and obfuscate their imperialism (NATO, IMF)
++ bombed korea and vietnam into the stone age
++ Allowed General McCather to fight his lunatic war
++ McCathyism
++ Slavery -> Segregation -> Redlining 
