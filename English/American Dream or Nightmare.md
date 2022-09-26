@@ -34,5 +34,6 @@ date: 20.09.2022
 + Cuba
 	+ Provoked the Turkey/Cuban missle crisis 
 	+ Bay of Pigs
-+ Illegal act of war (blockade) against cuba
-+  
+	+ Illegal act of war (blockade) against cuba
++  Sabotates elections everywhere
++ Builds a cult of personality around their leaders (Kennedy)
