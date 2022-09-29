@@ -7,11 +7,9 @@
         "id": "2686359ab55d5e55",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "English/American Dream or Nightmare.md",
-            "mode": "source",
-            "source": false
+            "file": "Klausurenplan.pdf"
           }
         }
       }
@@ -61,8 +59,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315,
-    "collapsed": true
+    "width": 315
   },
   "right": {
     "id": "8c92690a48afae5a",
@@ -78,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/American Dream or Nightmare.md",
+                "file": "Klausurenplan.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/American Dream or Nightmare.md",
+                "file": "Klausurenplan.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/American Dream or Nightmare.md"
+                "file": "Klausurenplan.pdf"
               }
             }
           },
@@ -140,6 +137,8 @@
   },
   "active": "2686359ab55d5e55",
   "lastOpenFiles": [
+    "Physik/Beispiel zum elektrischen Potential.md",
+    "English/American Dream or Nightmare.md",
     "Stundenplan.md",
     "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/HA Novalis Fragemente.pdf",
     "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Novalis Fragmente.md",
@@ -147,8 +146,6 @@
     "Klausurenplan.pdf",
     "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Vergleich Romantik und Aufklärung.md",
     "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Was ist Aufklärung.md",
-    "Physik/Beispiel zum elektrischen Potential.md",
-    "Raumplan.pdf",
-    "Physik/Defintionen von Stromstärke.md"
+    "Raumplan.pdf"
   ]
 }
