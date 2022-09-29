@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "English/Translation.md",
-            "mode": "preview",
+            "file": "English/American Dream or Nightmare.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Translation.md",
+                "file": "English/American Dream or Nightmare.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/Translation.md",
+                "file": "English/American Dream or Nightmare.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Translation.md"
+                "file": "English/American Dream or Nightmare.md"
               }
             }
           },
@@ -139,6 +139,7 @@
   },
   "active": "2686359ab55d5e55",
   "lastOpenFiles": [
+    "English/Translation.md",
     "Klausurenplan.pdf",
     "Physik/Beispiel zum elektrischen Potential.md",
     "English/American Dream or Nightmare.md",
@@ -147,7 +148,6 @@
     "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Novalis Fragmente.md",
     "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Literarische Epochen erschließen - Die Romantik.pdf",
     "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Vergleich Romantik und Aufklärung.md",
-    "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Was ist Aufklärung.md",
-    "Raumplan.pdf"
+    "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Was ist Aufklärung.md"
   ]
 }

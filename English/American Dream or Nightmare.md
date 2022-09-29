@@ -37,3 +37,4 @@ date: 20.09.2022
 	+ Illegal act of war (blockade) against cuba
 +  Sabotates elections everywhere
 + Builds a cult of personality around their leaders (Kennedy)
++ 
