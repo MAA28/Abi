@@ -4,31 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "bdbe872f4572cd39",
-        "type": "split",
-        "children": [
-          {
-            "id": "2686359ab55d5e55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Seminarfach/MIndmap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "983cdf03bbd58bbc",
-            "type": "leaf",
-            "state": {
-              "type": "mindmap",
-              "state": {}
-            }
+        "id": "2686359ab55d5e55",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "English/American immigration history .pdf"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -92,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seminarfach/MIndmap.md",
+                "file": "English/American immigration history .pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Seminarfach/MIndmap.md",
+                "file": "English/American immigration history .pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Seminarfach/MIndmap.md"
+                "file": "English/American immigration history .pdf"
               }
             }
           },
@@ -154,6 +137,8 @@
   },
   "active": "2686359ab55d5e55",
   "lastOpenFiles": [
+    "English/American immigration history worksheet.pdf",
+    "Seminarfach/MIndmap.md",
     "English/American Dream or Nightmare.md",
     "English/Translation.md",
     "Klausurenplan.pdf",
@@ -161,8 +146,6 @@
     "Stundenplan.md",
     "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/HA Novalis Fragemente.pdf",
     "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Novalis Fragmente.md",
-    "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Literarische Epochen erschließen - Die Romantik.pdf",
-    "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Vergleich Romantik und Aufklärung.md",
-    "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Was ist Aufklärung.md"
+    "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Literarische Epochen erschließen - Die Romantik.pdf"
   ]
 }
