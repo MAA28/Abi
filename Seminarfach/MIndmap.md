@@ -9,7 +9,8 @@
 		+ Teure Anwälte mit mehr Zeit
 		+ Privat Detektiven
 	+ Aspekt 2: Gesetz welche Klassengesellschaft festlegen
-		+ 
+		+ Schwarzfahren
+		+ "Armut hindert Menschen an der Wahrnehmung ihrer Rechte." - Deutsche Insitut für Menschen Rechte
 		+ Systematisch
 			+ Privateigentum
 			+ Mieter und Vermieter
