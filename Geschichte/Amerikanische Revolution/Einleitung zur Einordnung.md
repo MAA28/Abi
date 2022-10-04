@@ -1,0 +1,1 @@
+Das Bild "Bostoner Bürger verhalten sich feindlich gegenüber britischer Soldaten 1774" ordnet sich in den historischen Kontext ein. Das primäre Thema des Bildes ist der Konflikt zwischen amerikanischen Zivilisten und britischen Soldaten. Jedoch zeigt es auch kleinere Details wie zum Beispiel die Krähne welche zeigen das der Hafen elementar für Boston war.
