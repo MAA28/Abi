@@ -7,11 +7,9 @@
         "id": "2686359ab55d5e55",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "Geschichte/Amerikanische Revolution/Einleitung zur Einordnung.md",
-            "mode": "source",
-            "source": false
+            "file": "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/HA Novalis Fragemente.pdf"
           }
         }
       }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geschichte/Amerikanische Revolution/Einleitung zur Einordnung.md",
+                "file": "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/HA Novalis Fragemente.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geschichte/Amerikanische Revolution/Einleitung zur Einordnung.md",
+                "file": "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/HA Novalis Fragemente.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geschichte/Amerikanische Revolution/Einleitung zur Einordnung.md"
+                "file": "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/HA Novalis Fragemente.pdf"
               }
             }
           },
@@ -139,15 +137,15 @@
   },
   "active": "2686359ab55d5e55",
   "lastOpenFiles": [
+    "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Darstellungsweise romantischer Literatur.md",
+    "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/HA Novalis Fragemente.pdf",
+    "Stundenplan.md",
+    "Raumplan.pdf",
+    "Geschichte/Amerikanische Revolution/Einleitung zur Einordnung.md",
     "English/American immigration history .pdf",
     "English/American immigration history worksheet.pdf",
     "Seminarfach/MIndmap.md",
     "English/American Dream or Nightmare.md",
-    "English/Translation.md",
-    "Klausurenplan.pdf",
-    "Physik/Beispiel zum elektrischen Potential.md",
-    "Stundenplan.md",
-    "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/HA Novalis Fragemente.pdf",
-    "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Novalis Fragmente.md"
+    "English/Translation.md"
   ]
 }
