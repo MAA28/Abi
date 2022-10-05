@@ -1,3 +1,1 @@
-| Schülerbild spricht an | Schülerbild spricht nicht an |
-| ---------------------- | ---------------------------- |
-|                        | Freie Gründung          |
+Laut Artikel 21 des GG ist die Aufgabe der Parteien bei der "politischen Willensbildung des Volkes" mit zuwirken und Laut dem § 2 des Parteiengesetzes sollen sie "an der Vertretung des Volkes \[...\] mit wirken", keiner dieser Aspekte wird in dem Schülerbild klar dargestellt. 
