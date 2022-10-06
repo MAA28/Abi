@@ -1,1 +1,1 @@
-Aus neurobiologischer Sicht ist der ensch ein teilweise autonomes Wesen: Im Affekt handelt der Mensch vorbestimmt, wenn der Mensch aber länger Zeit hat um eine Entscheidung zu treffen 
+Aus neurobiologischer Sicht ist der ensch ein teilweise autonomes Wesen: Im Affekt handelt der Mensch vorbestimmt vom limbischen System (vielleicht kann er diese Entscheidungen auch noch vetoen), wenn der Mensch aber länger Zeit hat um eine Entscheidung zu treffen ist es ihm mögich diese Bewusst zu entscheiden. 
