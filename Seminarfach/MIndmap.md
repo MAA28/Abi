@@ -1,4 +1,4 @@
-# Imperialismus
+# Themenbrainstorming
 + Deutscher Imperialismus: Ungleicher Austausch
 	+ https://academic.oup.com/cje/article-abstract/42/4/1043/4768311?redirectedFrom=fulltext
 + Wassergerechtigkeit in Deutschland
@@ -22,3 +22,5 @@
 			+ Lina
 			+ Denis - Roter Aufbau
 			+ Nordulf
+# Klassenjustiz: Benachteiligung vor Gesetz
++ "Alle Menschen sind vor dem Gesetz gleich.", GG, Artikel 3, Absatz 1

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Politik & Wirtschaft/Funktion der Parteien.md",
-            "mode": "preview",
+            "file": "Seminarfach/MIndmap.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Politik & Wirtschaft/Funktion der Parteien.md",
+                "file": "Seminarfach/MIndmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Politik & Wirtschaft/Funktion der Parteien.md",
+                "file": "Seminarfach/MIndmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Politik & Wirtschaft/Funktion der Parteien.md"
+                "file": "Seminarfach/MIndmap.md"
               }
             }
           },
@@ -139,15 +139,15 @@
   },
   "active": "2686359ab55d5e55",
   "lastOpenFiles": [
-    "Philosophie/Der Mensch ist aus neurobiologischer Sicht....md",
+    "Seminarfach/Was interessiert dich?.md",
+    "Seminarfach/Erste Recherche.md",
     "Politik & Wirtschaft/Funktion der Parteien.md",
+    "Philosophie/Der Mensch ist aus neurobiologischer Sicht....md",
     "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/HA Novalis Fragemente.pdf",
     "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Darstellungsweise romantischer Literatur.md",
     "Stundenplan.md",
     "Raumplan.pdf",
     "Geschichte/Amerikanische Revolution/Einleitung zur Einordnung.md",
-    "English/American immigration history .pdf",
-    "English/American immigration history worksheet.pdf",
-    "Seminarfach/MIndmap.md"
+    "English/American immigration history .pdf"
   ]
 }
