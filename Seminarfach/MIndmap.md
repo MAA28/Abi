@@ -22,5 +22,9 @@
 			+ Lina
 			+ Denis - Roter Aufbau
 			+ Nordulf
-# Klassenjustiz: Benachteiligung vor Gesetz
-+ "Alle Menschen sind vor dem Gesetz gleich.", GG, Artikel 3, Absatz 1
+# Klassenjustiz in der USAa
++ Komplexe Situation, in der es nicht genug ist einzelne Gesetze zu analysiere
+	+  hundereten Angesetzen
+	+ rassistische Polizeikontrollen
+	+ fast keiner Klassenmobilität
++ 
