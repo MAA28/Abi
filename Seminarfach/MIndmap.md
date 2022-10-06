@@ -23,11 +23,21 @@
 			+ Denis - Roter Aufbau
 			+ Nordulf
 # Klassenjustiz in der USAa
+## Geschichte
+![[Pasted image 20221006164057.png]]
+1. 
+
+## Notes
 + Komplexe Situation, in der es nicht genug ist einzelne Gesetze zu analysiere
 	+  hundereten Angesetzen
 	+ rassistische Polizeikontrollen
 	+ fast keiner Klassenmobilität
 + Plea Bargains
-	+ Plea Bargains are often 
+	+ Was?
+		+ 
+	+ Keine gute Übersetzung 
+	+ Wieso?
+		+ Schneller (Pflichtverteidiger haben keine Zeit, aber dazu später mehr)
+		+ 
 	+ According to the Bureau of Justice Statistics (2005), in 2003 there were 75,573 cases disposed of in federal district court by trial or plea. Of these, about 95 percent were	disposed of by a guilty plea (Pastore and Maguire, 2003). ([[PleaBargainingResearchSummary.pdf]])
 	+ While there are no exact estimates of the proportion of cases that are through plea bargaining, scholars estimate that about 90 to 95 percent of both federal and state court cases are resolved through this process (Bureau of Justice Statistics, 2005; Flanagan and Maguire, 1990).
