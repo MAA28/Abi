@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Politik & Wirtschaft/Funktion der Parteien.md",
-            "mode": "preview",
+            "file": "Philosophie/Der Mensch ist aus neurobiologischer Sicht....md",
+            "mode": "source",
             "source": false
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Politik & Wirtschaft/Funktion der Parteien.md",
+                "file": "Philosophie/Der Mensch ist aus neurobiologischer Sicht....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Politik & Wirtschaft/Funktion der Parteien.md",
+                "file": "Philosophie/Der Mensch ist aus neurobiologischer Sicht....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Politik & Wirtschaft/Funktion der Parteien.md"
+                "file": "Philosophie/Der Mensch ist aus neurobiologischer Sicht....md"
               }
             }
           },
@@ -139,6 +139,7 @@
   },
   "active": "2686359ab55d5e55",
   "lastOpenFiles": [
+    "Politik & Wirtschaft/Funktion der Parteien.md",
     "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/HA Novalis Fragemente.pdf",
     "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Darstellungsweise romantischer Literatur.md",
     "Stundenplan.md",
@@ -147,7 +148,6 @@
     "English/American immigration history .pdf",
     "English/American immigration history worksheet.pdf",
     "Seminarfach/MIndmap.md",
-    "English/American Dream or Nightmare.md",
-    "English/Translation.md"
+    "English/American Dream or Nightmare.md"
   ]
 }

@@ -1,0 +1,1 @@
+Aus neurobiologischer Sicht ist der ensch ein teilweise autonomes Wesen: Im Affekt handelt der Mensch vorbestimmt, wenn der Mensch aber länger Zeit hat um eine Entscheidung zu treffen 
