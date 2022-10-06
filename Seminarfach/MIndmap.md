@@ -25,7 +25,12 @@
 # Klassenjustiz in der USAa
 ## Geschichte
 ![[Pasted image 20221006164057.png]]
-1. 
+1. Bei Jeff ist das Geld Knapp (Sozioökonomische Umstände)
+2. Es gab einen [Diebstahl](https://infotracer.com/infocenter/top-reasons-for-incarceration-in-the-u-s/) und es wurden Gegenstände im Wert von [1.616$](https://www.statista.com/statistics/252451/average-value-of-property-stolen-by-larceny-theft-in-the-us-by-type/) gestohlen
+3. Jeff wurde ausverschieden Indizien als Hauptverdächtigten identifiziert
+   + Polizei muss seine Quoten treffen
+4. 
+
 
 ## Notes
 + Komplexe Situation, in der es nicht genug ist einzelne Gesetze zu analysiere
