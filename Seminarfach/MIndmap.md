@@ -29,7 +29,11 @@
 2. Es gab einen [Diebstahl](https://infotracer.com/infocenter/top-reasons-for-incarceration-in-the-u-s/) und es wurden Gegenstände im Wert von [1.616$](https://www.statista.com/statistics/252451/average-value-of-property-stolen-by-larceny-theft-in-the-us-by-type/) gestohlen
 3. Jeff wurde ausverschieden Indizien als Hauptverdächtigten identifiziert
    + Polizei muss seine Quoten treffen
-4. 
+   + Außerdem will der Polizist XY eine Beförderung
+   + Ziel der Polizei ist nicht die Wahrheit sondern die Verhaftung
+4. Vehör
+   + Die Polizei ist [trainiert alle möglichen Sachen als indizien seiner Schuldigkeit zu interpretieren](https://theintercept.com/2020/08/12/blueleaks-law-enforcement-police-lie-detection/)
+   + 
 
 
 ## Notes
