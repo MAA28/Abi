@@ -33,7 +33,7 @@
    + Ziel der Polizei ist nicht die Wahrheit sondern die Verhaftung
 4. Vehör
    + Die Polizei ist [trainiert alle möglichen Sachen als indizien seiner Schuldigkeit zu interpretieren](https://theintercept.com/2020/08/12/blueleaks-law-enforcement-police-lie-detection/)
-   + Obwohl Jeff das recht hat still zu bleiben und/oder auf einen Anwalt herbei zu ziehem, geben rund [80% der US-Amerikaner in Situationen ähnlich zu der aktuellen die Rechte auf]()
+   + Obwohl Jeff das recht hat still zu bleiben und/oder auf einen Anwalt hat, gibt er und  [[dissertation.pdf|rund 80% der US-Amerikaner in ähnlichen Situationen ihre Miranda Rechte auf]]
 
 
 ## Notes
