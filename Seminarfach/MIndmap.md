@@ -42,9 +42,12 @@
       + Unfassbar Lange Verhöre
    +  Polygraphen, die nicht Funktionieren
 5. Kaution
-   + 38.5% der Insassen von New Jersey Jail in 2013 waren nur wegen ihrer Kaution im Knast
+   + 38.5% der Insassen von New Jersey Jail in 2013 waren nur wegen ihrer Kaution im Knast	
+   + Bail Bonds
+		+ in 18 Staaten kann praktisch jeder ein "Bounty Hunter" werden
    + [[2017-report-economic-well-being-us-households-201805.pdf|4/10 US-Amerikanern können keine überraschenden 400$ schultern]]
-   + 
+6. Plea Bargains
+	+ According to the Bureau of Justice Statistics (2005), in 2003 there were 75,573 cases disposed of in federal district court by trial or plea. Of these, about 95 percent were	disposed of by a guilty plea (Pastore and Maguire, 2003). ([[PleaBargainingResearchSummary.pdf]])
 ## Notes
 + Komplexe Situation, in der es nicht genug ist einzelne Gesetze zu analysiere
 	+  hundereten Angesetzen
