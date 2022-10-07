@@ -33,9 +33,18 @@
    + Ziel der Polizei ist nicht die Wahrheit sondern die Verhaftung
 4. Vehör
    + Die Polizei ist [trainiert alle möglichen Sachen als indizien seiner Schuldigkeit zu interpretieren](https://theintercept.com/2020/08/12/blueleaks-law-enforcement-police-lie-detection/)
+      + Polizei darf über Beweise lügen
    + Obwohl Jeff das recht hat still zu bleiben und/oder auf einen Anwalt hat, gibt er und  [[dissertation.pdf|rund 80% der US-Amerikaner in ähnlichen Situationen ihre Miranda Rechte auf]]
-
-
+   + Wie gesteht man eine Tat die man nicht begangen hat?
+      + [[Garrett_101-395.pdf|A total of ninety-four percent, or sixty-two of sixty-six false confessions by DNA exonerees to date, were contaminated by such allegedly 67 “inside” information.]]
+      + [[Age and Mental Status of Exonerated Defendants Who Falsely Confess Table.pdf|Hauptsächlich gestehen junge und geistische kranke Menschen zu Taten die sie nicht begangen haben]]
+      + Außerdem muss in nur 30 Staaten das ganze Verhör aufgenommen werden und in den Restlichen kann es sein, dass die Juroren nie zu hören kriegen was im Vehör passiert ist.
+      + Unfassbar Lange Verhöre
+   +  Polygraphen, die nicht Funktionieren
+5. Kaution
+   + 38.5% der Insassen von New Jersey Jail in 2013 waren nur wegen ihrer Kaution im Knast
+   + [[2017-report-economic-well-being-us-households-201805.pdf|4/10 US-Amerikanern können keine überraschenden 400$ schultern]]
+   + 
 ## Notes
 + Komplexe Situation, in der es nicht genug ist einzelne Gesetze zu analysiere
 	+  hundereten Angesetzen
