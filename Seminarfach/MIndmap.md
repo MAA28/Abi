@@ -22,7 +22,7 @@
 			+ Lina
 			+ Denis - Roter Aufbau
 			+ Nordulf
-# Klassenjustiz in der USAa
+# Klassenjustiz in der USA
 ## Geschichte
 ![[Pasted image 20221006164057.png]]
 1. Bei Jeff ist das Geld Knapp (Sozioökonomische Umstände)
