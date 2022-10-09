@@ -14,16 +14,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "0da2bff8cb59a861",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "Seminarfach/dissertation.pdf"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -149,15 +139,15 @@
   },
   "active": "2686359ab55d5e55",
   "lastOpenFiles": [
-    "Seminarfach/dissertation.pdf",
+    "Seminarfach/Garrett_101-395.pdf",
     "Seminarfach/MIndmap.md",
+    "Seminarfach/dissertation.pdf",
     "Seminarfach/PleaBargainingResearchSummary.pdf",
     "Seminarfach/Was interessiert dich?.md",
     "Seminarfach/Erste Recherche.md",
     "Politik & Wirtschaft/Funktion der Parteien.md",
     "Philosophie/Der Mensch ist aus neurobiologischer Sicht....md",
     "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/HA Novalis Fragemente.pdf",
-    "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Darstellungsweise romantischer Literatur.md",
-    "Stundenplan.md"
+    "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Darstellungsweise romantischer Literatur.md"
   ]
 }
