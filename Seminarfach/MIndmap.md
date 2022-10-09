@@ -35,6 +35,7 @@
    + Die Polizei ist [trainiert alle möglichen Sachen als indizien seiner Schuldigkeit zu interpretieren](https://theintercept.com/2020/08/12/blueleaks-law-enforcement-police-lie-detection/)
       + Polizei darf über Beweise lügen
    + Obwohl Jeff das recht hat still zu bleiben und/oder auf einen Anwalt hat, gibt er und  [[dissertation.pdf|rund 80% der US-Amerikaner in ähnlichen Situationen ihre Miranda Rechte auf]]
+	   + Rund 50% der 
    + Wie gesteht man eine Tat die man nicht begangen hat?
       + [[Garrett_101-395.pdf|A total of ninety-four percent, or sixty-two of sixty-six false confessions by DNA exonerees to date, were contaminated by such allegedly 67 “inside” information.]]
       + [[Age and Mental Status of Exonerated Defendants Who Falsely Confess Table.pdf|Hauptsächlich gestehen junge und geistische kranke Menschen zu Taten die sie nicht begangen haben]]
