@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Politik & Wirtschaft/Funktion der Parteien.md",
-            "mode": "source",
+            "file": "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Sachtextanalyse Fragmente.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Politik & Wirtschaft/Funktion der Parteien.md",
+                "file": "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Sachtextanalyse Fragmente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Politik & Wirtschaft/Funktion der Parteien.md",
+                "file": "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Sachtextanalyse Fragmente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Politik & Wirtschaft/Funktion der Parteien.md"
+                "file": "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Sachtextanalyse Fragmente.md"
               }
             }
           },
@@ -139,15 +139,15 @@
   },
   "active": "2686359ab55d5e55",
   "lastOpenFiles": [
+    "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/HA Novalis Fragemente.pdf",
+    "Politik & Wirtschaft/Funktion der Parteien.md",
     "Stundenplan.md",
     "Klausurenplan.pdf",
-    "Politik & Wirtschaft/Funktion der Parteien.md",
     "Raumplan.pdf",
     "Seminarfach/MIndmap.md",
     "Kurswahl.pdf",
     "Seminarfach/Pasted image 20221006164057.png",
     "Seminarfach/Garrett_101-395.pdf",
-    "Seminarfach/dissertation.pdf",
-    "Seminarfach/PleaBargainingResearchSummary.pdf"
+    "Seminarfach/dissertation.pdf"
   ]
 }
