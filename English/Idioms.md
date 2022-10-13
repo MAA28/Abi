@@ -6,3 +6,6 @@
 | 22-09-20           | The Queen had been considered a tower of strength.                         | Fels in der Brandung                    |
 | 22-09-20           | The fact that she was supposed to ne Queen scared the daylight out of her. | Hat ihr Angst und Schrecken eingefahren |
 | 22-09-20           | The Royal Family tries to keep her emtions at bay in public.               | Im Zaum halten                          |
+| 22-10-13           | shame spiral                                                               | sich immer weiter schämen               |
+| 22-10-13           | to keep someone at arms length                                             | sich jemanden vom Leibe halten          |
+| 22-10-13           | to barke up the wrong tree                                                 | auf dem Holzweg sein                    |

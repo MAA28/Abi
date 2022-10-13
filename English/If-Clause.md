@@ -1,6 +1,6 @@
 # I
-If we dont prepare the test test well, we wll start writing vocabular
+If we *don't prepare the* test test well, we *will start* writing vocabulary tests.
 # II
-If we had prepared the test well, we wouldn't start writing vocabulary tests.
+If we *didn't prepare* the test well, we *would start* writing vocabulary tests.
 # III
-If we ha
+If we *hadn't prepared* the test, well we *would have started* to write vocabulary tests.
