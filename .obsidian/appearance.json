@@ -2,5 +2,6 @@
   "theme": "moonstone",
   "cssTheme": "Yin and Yang",
   "translucency": false,
-  "accentColor": ""
+  "accentColor": "",
+  "nativeMenus": true
 }

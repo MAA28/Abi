@@ -9,7 +9,7 @@ date: 20.09.2022
 + Slavery has abolished  
 + West, Midwest, Americans prime producers  
 + No poor peasants  
-+ Agribusiness  Whole new world  
++ Agribusiness -> Whole new world  
 + Living conditions improve more cause farmers  
 + Cole, soil and steel share the whole market (capitalism)  
 + Attracted new immigrants to America  

@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "f5d4402d0e426673",
+    "type": "split",
+    "children": [
+      {
+        "id": "376f6efbbed7eb16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2686359ab55d5e55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/Idioms.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d9942dddbc47928",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "e1b609d53a26bf09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stundenplan.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cd43bc6308113173",
+    "type": "split",
+    "children": [
+      {
+        "id": "059661198f57ad5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "465a58ff3f4055e1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5cf1d5d5a0764b53",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dfdef674ddb1c36e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 315
+  },
+  "right": {
+    "id": "8c92690a48afae5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f52b9f1544c4091",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8eba2b9e86ebd48c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Stundenplan.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d582118fe1d05ceb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Stundenplan.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2ca3f1841f279c84",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3cf1a37a46d0555e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Stundenplan.md"
+              }
+            }
+          },
+          {
+            "id": "20606ada45393a0f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "e1b609d53a26bf09",
+  "lastOpenFiles": [
+    "Kurswahl.pdf",
+    "Klausurenplan.pdf",
+    "English/American Dream or Nightmare.md",
+    "English/Idioms.md",
+    "English/American immigration history .pdf",
+    "English/If-Clause.md",
+    "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Sachtextanalyse Fragmente.md",
+    "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/HA Novalis Fragemente.pdf",
+    "Politik & Wirtschaft/Funktion der Parteien.md",
+    "Stundenplan.md"
+  ]
+}
