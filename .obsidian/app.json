@@ -1,7 +1,7 @@
 {
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "vimMode": true,
+  "vimMode": false,
   "showLineNumber": true,
   "pdfExportSettings": {
     "pageSize": "Letter",
@@ -9,5 +9,10 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "readableLineLength": true
+  "readableLineLength": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "de",
+    "en-US"
+  ]
 }
