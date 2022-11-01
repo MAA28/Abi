@@ -1,0 +1,1 @@
+Die Parteien entstehen entlang der Widersprüche der Bevölkerung. Diese Widersprüche können Klassenwidersprüche (arbeitende Klasse, besitzende Klasse), kulturelle Widersprüche (Staat, Kirche) oder "postmaterialistische" Widersprüche (Materialismus, Postmaterialismus) sein. Diese haben sich über 
