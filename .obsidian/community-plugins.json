@@ -1,9 +1,9 @@
 [
   "obsidian-git",
-  "table-editor-obsidian",
   "better-word-count",
   "dataview",
   "obsidian-mind-map",
   "obsidian-charts",
-  "obsidian-outliner"
+  "obsidian-outliner",
+  "table-editor-obsidian"
 ]
