@@ -1,9 +1,3 @@
 [
-  "table-editor-obsidian",
-  "obsidian-git",
-  "dataview",
-  "obsidian-charts",
-  "obsidian-outliner",
-  "obsidian-mind-map",
-  "better-word-count"
+  "obsidian-git"
 ]
