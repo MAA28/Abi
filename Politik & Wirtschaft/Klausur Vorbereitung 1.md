@@ -16,5 +16,7 @@
 + Die Wahlbeteiligung fällt, wenn die Menschen glauben nichts verändern zu können/müssen
 # Institutionalisierte Formen der Partizipation vs Nicht-institutionalisierte
 > S.57
-# Engerer  und weiterer Politikbegriff
+# Politikbegriff
 > S. 9 Rand
++ Enger Politikbegriff
+	+ 
