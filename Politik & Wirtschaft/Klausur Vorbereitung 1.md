@@ -27,7 +27,7 @@
 				+ Gewalt gegen Person
 				+ Gewalt gegen Sachen
 # Rolle der Parteien in der Demokratie
-> S. 60-61
+> S.60-61
 ## Parteiengesetz
 +  Was ist eine Partei?
 	+ Parteien sind Vereinigungen von Bürgern
@@ -69,7 +69,7 @@
 + Die Wahlbeteiligung steigt, wenn die Menschen glauben etwas verändern zu können/müssen
 + Die Wahlbeteiligung fällt, wenn die Menschen glauben nichts verändern zu können/müssen
 # Politikbegriff
-> S. 9 Rand
+> S.9 Rand
 + Enger Politikbegriff
 	+ Meinungsbildungs- und Entscheidungsprozesse
 	+ Beispiele

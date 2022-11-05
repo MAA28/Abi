@@ -4,64 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "278dc19299b5190c",
-        "type": "split",
+        "id": "84c7c834c96fe939",
+        "type": "tabs",
         "children": [
           {
-            "id": "84c7c834c96fe939",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a7d788a3b16bd272",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Geschichte/Amerikanische Revolution/Boston Massacare.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "de1cdb5a0a4551d3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Politik & Wirtschaft/Klausur Vorbereitung 1.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "f10073f0a16585a3",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
+            "id": "a7d788a3b16bd272",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geschichte/Amerikanische Revolution/Boston Massacare.md",
+                "mode": "source",
+                "source": false
               }
-            ],
-            "currentTab": 1
+            }
           },
           {
-            "id": "7583ab84b12e6165",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "aa8500d3f1da7dd6",
-                "type": "leaf",
-                "state": {
-                  "type": "mindmap",
-                  "state": {}
-                }
+            "id": "de1cdb5a0a4551d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Politik & Wirtschaft/Klausur Vorbereitung 1.md",
+                "mode": "source",
+                "source": true
               }
-            ]
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
