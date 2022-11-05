@@ -12,4 +12,9 @@
 ## Entwicklung politischer Beteiligung
 > S.56-57
 # Wahlbeteiligung
++ Die Wahlbeteiligung steigt, wenn die Menschen glauben etwas verändern zu können/müssen
++ Die Wahlbeteiligung fällt, wenn die Menschen glauben nichts verändern zu können/müssen
 # Institutionalisierte Formen der Partizipation vs Nicht-institutionalisierte
+> S.57
+# Engerer  und weiterer Politikbegriff
+> S. 9 Rand
