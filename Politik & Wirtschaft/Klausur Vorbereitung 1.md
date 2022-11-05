@@ -35,14 +35,31 @@
 	+ eines Landes auf die politische Willensbildung Einfluss nehmen
 + versuchen Vertreten das Volk im deutschen Bundestag oder einem Landtag
 ## Stellung der Parteien (GG)
-+ Ihre Gründung ist frei
-+ 
++ Zentrale Bedeutung für das demokratische System der BRD
++ Besondere Schutz- bzw. Bestandsgarantien
+	+ Ihre Gründung ist frei
+	+ Darf nur durch das BVerfG verboten werden
+		+ Verfassungswidrigkeit muss festgestellt werden
+			+ eine verfassungsfeindliche Gesinnung
+			+ ein aggressiv-kämpferisches Vorgehen gegen die demokratische Ordnung
+		+ Muss seit 2017 außerdem in Größe und Schlagkraft dazu fähig sein die Demokratie zu gefährden
+		+ 8 Parteienverbotsverfahren -> 2 davon erfolgreich
+			+ Sozialistische Reichspartei (SRP)
+			+ Kommunistische Partei Deutschlands (KPD)
 ## Aufgabe der Parteien
++ Auswahlfunktion
+	+ 
++ Vermittlungsfunktion
++ Interessenausgleichsfunktion
++ Legitimierungsfunktion
 ## Wofür stehen die Parteien inhaltlich?
 > S.60-61
 ## Cleavage-Theorie
 ## Entwicklung politischer Beteiligung
 > S.56-57
++ Gesamtzahl der Mitglieder der im Deutschen Bundestag vertretenen Parteien
++ 1990 -> 2.409.626
++ 2017 -> 1.228.028
 # Wahlbeteiligung
 + Die Wahlbeteiligung steigt, wenn die Menschen glauben etwas verändern zu können/müssen
 + Die Wahlbeteiligung fällt, wenn die Menschen glauben nichts verändern zu können/müssen
