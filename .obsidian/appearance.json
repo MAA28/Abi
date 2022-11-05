@@ -3,5 +3,6 @@
   "cssTheme": "Atom",
   "translucency": false,
   "accentColor": "",
-  "nativeMenus": true
+  "nativeMenus": true,
+  "baseFontSize": 17
 }
