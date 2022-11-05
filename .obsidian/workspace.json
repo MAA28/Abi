@@ -34,6 +34,14 @@
                     "source": true
                   }
                 }
+              },
+              {
+                "id": "f10073f0a16585a3",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
               }
             ],
             "currentTab": 1
@@ -173,8 +181,8 @@
   },
   "active": "de1cdb5a0a4551d3",
   "lastOpenFiles": [
-    "Geschichte/Amerikanische Revolution/Boston Massacare.md",
     "Politik & Wirtschaft/Klausur Vorbereitung 1.md",
+    "Geschichte/Amerikanische Revolution/Boston Massacare.md",
     "Geschichte/Amerikanische Revolution/M2 Über die Ereignisse in Boston am 05. März 1770 Broadside.pdf",
     "Geschichte/Amerikanische Revolution/Einleitung zur Einordnung.md",
     "Geschichte/Amerikanische Revolution/Die Nordamerikanischen Kolonien.pdf",
