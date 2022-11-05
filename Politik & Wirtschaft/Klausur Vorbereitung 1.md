@@ -3,25 +3,40 @@
 + Partizipation: Teilhaben
 + Engagement: Verpflichtung
 ## Partizipationsformen
-+ Konventionell bzw. verfasst
++ Konventionell bzw. institutionalisiert
 	+ Staatsbürgerrolle
 		+ sich an Wahlen beteiligen
 	+ parteienorientierte Partizipation
 		+ in eine Partei eintreten aktiv mitarbeiten
-+ Unkonventionell bzw. unverfasst
++ Unkonventionell bzw. weniger/nicht institutionalisiert
 	+ legal
 		+ problemorientierte Partizipation
 			+ Mitarbeit in einer Bürgerinitiative
 			+ Teilnahme an einer genehmigten Demonstration
-			+ UNnterschriften sammeln
-			+ sich in Versammlungen bet
+			+ Unterschriften sammeln
+			+ sich in Versammlungen beteiligen
 	+ illegal
 		+ gewaltlos
+			+ ziviler Ungehorsam
+				+ Teilnahme an verbotenen Demonstrationen
+				+ Beteiligung an wilden Streiks
+				+ Hausbesetzung
+				+ Blockaden
 		+ gewaltsam
+			+ politische Gewalt
+				+ Gewalt gegen Person
+				+ Gewalt gegen Sachen
 # Rolle der Parteien in der Demokratie
 > S. 60-61
 ## Parteiengesetz
++  Was ist eine Partei?
+	+ Parteien sind Vereinigungen von Bürgern
+	+ für längere Zeit für den Bereich des Bundes
+	+ eines Landes auf die politische Willensbildung Einfluss nehmen
++ versuchen Vertreten das Volk im deutschen Bundestag oder einem Landtag
 ## Stellung der Parteien (GG)
++ Ihre Gründung ist frei
++ 
 ## Aufgabe der Parteien
 ## Wofür stehen die Parteien inhaltlich?
 > S.60-61
@@ -31,8 +46,6 @@
 # Wahlbeteiligung
 + Die Wahlbeteiligung steigt, wenn die Menschen glauben etwas verändern zu können/müssen
 + Die Wahlbeteiligung fällt, wenn die Menschen glauben nichts verändern zu können/müssen
-# Institutionalisierte Formen der Partizipation vs Nicht-institutionalisierte
-> S.57
 # Politikbegriff
 > S. 9 Rand
 + Enger Politikbegriff
