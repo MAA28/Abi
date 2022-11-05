@@ -48,13 +48,18 @@
 			+ Kommunistische Partei Deutschlands (KPD)
 ## Aufgabe der Parteien
 + Auswahlfunktion
-	+ 
+	+ Rekrutierung der politischen Elite
+	+ Patronageorganisation: die Ämter und Karrieren zu vergeben
 + Vermittlungsfunktion
+	+ Vertretung von Partikularinteressen
 + Interessenausgleichsfunktion
+	+ innerparteiliche Bemühung gegenläufige und widerstreitende Interessen verschiedener gesellschaftlicher Gruppen
+	+ eine eigene parteiliche Position formulieren
 + Legitimierungsfunktion
-## Wofür stehen die Parteien inhaltlich?
-> S.60-61
 ## Cleavage-Theorie
+> S.63
++ Parteien entstehen entlang Cleavages (Widersprüche)
++ 
 ## Entwicklung politischer Beteiligung
 > S.56-57
 + Gesamtzahl der Mitglieder der im Deutschen Bundestag vertretenen Parteien
