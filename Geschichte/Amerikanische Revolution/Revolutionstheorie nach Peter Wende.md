@@ -6,4 +6,4 @@
    + wenn radikale Veränderung nicht vor bestehenden Eigentumsverhältnissen halt macht, sondern auch die sozialen Strukturen erfasst, sodass die Revolution als Totalumwälzung einer bestehenden Gesellschaft definiert werden kann (Z. 44)
    + sozialen und politischen Legitimationsideologie
    1. Die Revolution ist gleichermaßen definiert durch die Art und Weise in der sie Veränderungen durchsetzt.
-      + 
+      + Gewalt die "von unten" und nicht entlang der Normen der bestehenden Ordnung
