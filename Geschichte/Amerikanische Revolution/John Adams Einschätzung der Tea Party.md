@@ -1,0 +1,1 @@
+"sie wird notwendigerweise so wichtige und dauerhafte Konsequenzen hervorrufen, dass ich sie als epochemachendes Ereignis betrachten muss" (Z.10 f. 17.12.1773)
