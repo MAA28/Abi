@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "84c7c834c96fe939",
+        "id": "41bb2dbfc5976c92",
         "type": "tabs",
         "children": [
           {
-            "id": "de1cdb5a0a4551d3",
+            "id": "52d54254511b6a72",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Important stages of the White Power Movement.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b3a0bcdc7b21399",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Sounds of the 17 Year Cicarda.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Sounds of the 17 Year Cicarda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/Sounds of the 17 Year Cicarda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "English/Sounds of the 17 Year Cicarda.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -150,9 +129,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2b3a0bcdc7b21399",
+  "active": "52d54254511b6a72",
   "lastOpenFiles": [
     "English/Important stages of the White Power Movement.md",
+    "English/Sounds of the 17 Year Cicarda.md",
     "English/American immigration history .pdf",
     "English/American immigration history worksheet.pdf",
     "Informatik/Moderne Symmetrische Verschlüsselungsverfahren.md",
@@ -160,7 +140,6 @@
     "Geschichte/Amerikanische Revolution/Boston Massacare.md",
     "Geschichte/Amerikanische Revolution/M2 Über die Ereignisse in Boston am 05. März 1770 Broadside.pdf",
     "Geschichte/Amerikanische Revolution/Einleitung zur Einordnung.md",
-    "Geschichte/Amerikanische Revolution/Die Nordamerikanischen Kolonien.pdf",
-    "Politik & Wirtschaft/Parteinenentstehung entlang gesellschaftlicher Konfliktlinien.md"
+    "Geschichte/Amerikanische Revolution/Die Nordamerikanischen Kolonien.pdf"
   ]
 }
