@@ -14,6 +14,6 @@
 Da XOR und die Vertauschung eindeutig umkehrbar sind muss man das Ergebnis "RQSZ":
 1. In ASCII umwandeln
 2. In Binär umwandeln
-3. XOR mit 00010111 00010110 nochmal anwenden
+3. XOR nochmal anwenden
 4. Den zweiten Block an vier Bits mit dem letzten tauschen
 5. Die 4 Bytes umwandeln als wären sie ein ASCII-Code

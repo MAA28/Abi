@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Politik & Wirtschaft/Klausur Vorbereitung 1.md",
-                "mode": "source",
+                "file": "Informatik/Moderne Symmetrische Verschlüsselungsverfahren.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Politik & Wirtschaft/Klausur Vorbereitung 1.md",
+                "file": "Informatik/Moderne Symmetrische Verschlüsselungsverfahren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Politik & Wirtschaft/Klausur Vorbereitung 1.md",
+                "file": "Informatik/Moderne Symmetrische Verschlüsselungsverfahren.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Politik & Wirtschaft/Klausur Vorbereitung 1.md"
+                "file": "Informatik/Moderne Symmetrische Verschlüsselungsverfahren.md"
               }
             }
           }
