@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7fa954aaf5942bc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Wozu dient Asymetrische Verschlüssulung und wie funktioniert sie?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geschichte/Amerikanische Revolution/Revolutionstheorie nach Peter Wende.md",
+                "file": "Informatik/Wozu dient Asymetrische Verschlüssulung und wie funktioniert sie?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geschichte/Amerikanische Revolution/Revolutionstheorie nach Peter Wende.md",
+                "file": "Informatik/Wozu dient Asymetrische Verschlüssulung und wie funktioniert sie?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geschichte/Amerikanische Revolution/Revolutionstheorie nach Peter Wende.md"
+                "file": "Informatik/Wozu dient Asymetrische Verschlüssulung und wie funktioniert sie?.md"
               }
             }
           }
@@ -137,8 +150,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "52d54254511b6a72",
+  "active": "7fa954aaf5942bc7",
   "lastOpenFiles": [
+    "Geschichte/Amerikanische Revolution/Revolutionstheorie nach Peter Wende.md",
     "English/Important stages of the White Power Movement.md",
     "English/Sounds of the 17 Year Cicarda.md",
     "English/American immigration history .pdf",
@@ -147,7 +161,6 @@
     "Politik & Wirtschaft/Klausur Vorbereitung 1.md",
     "Geschichte/Amerikanische Revolution/Boston Massacare.md",
     "Geschichte/Amerikanische Revolution/M2 Über die Ereignisse in Boston am 05. März 1770 Broadside.pdf",
-    "Geschichte/Amerikanische Revolution/Einleitung zur Einordnung.md",
-    "Geschichte/Amerikanische Revolution/Die Nordamerikanischen Kolonien.pdf"
+    "Geschichte/Amerikanische Revolution/Einleitung zur Einordnung.md"
   ]
 }
