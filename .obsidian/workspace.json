@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "240a621634e1e270",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geschichte/Amerikanische Revolution/Freund und Feind.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geschichte/Amerikanische Revolution/Entwicklungen in Kommunikation, Koordination und Meinungsbildung nach der Boston Tea Party.md",
+                "file": "Geschichte/Amerikanische Revolution/Freund und Feind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geschichte/Amerikanische Revolution/Entwicklungen in Kommunikation, Koordination und Meinungsbildung nach der Boston Tea Party.md",
+                "file": "Geschichte/Amerikanische Revolution/Freund und Feind.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geschichte/Amerikanische Revolution/Entwicklungen in Kommunikation, Koordination und Meinungsbildung nach der Boston Tea Party.md"
+                "file": "Geschichte/Amerikanische Revolution/Freund und Feind.md"
               }
             }
           }
@@ -137,10 +150,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "73d7b2902c0aa766",
+  "active": "240a621634e1e270",
   "lastOpenFiles": [
-    "Geschichte/Amerikanische Revolution/Revolutionstheorie nach Peter Wende.md",
     "Geschichte/Amerikanische Revolution/Entwicklungen in Kommunikation, Koordination und Meinungsbildung nach der Boston Tea Party.md",
+    "Geschichte/Amerikanische Revolution/Revolutionstheorie nach Peter Wende.md",
     "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Hausaufgabe 15.11.22.md",
     "English/Important stages of the White Power Movement.md",
     "English/Sounds of the 17 Year Cicarda.md",
