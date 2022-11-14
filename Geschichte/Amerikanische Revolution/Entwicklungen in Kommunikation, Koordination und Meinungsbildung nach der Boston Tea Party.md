@@ -20,4 +20,3 @@
 		+ Überwachung der Boykottmaßnahmen
 	+ Aufforderung an die Kolonien Milizen vergrößern und kampfbereit machen
 	+ Folge: britische Seeblockade
-+ 
