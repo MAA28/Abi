@@ -3,15 +3,31 @@
 ## Vergegenwärtigt euch (auch unter Bezug auf die beiden Zitate) noch einmal die Merkmale und Forderungen der Aufklärung sowie der Romantik.
 
 ## Nehmt vor diesem Hintergrund begründet Stellung zu unserer Leitfrage: „Ist die Romantik eine Gegenbewegung zur Aufklärung?“ Achtet dabei auf Gemeinsamkeiten und Unterschiede der Epochen. Notiert euch Stichpunkte!
-+ Aufklärung distanziert sich von Übernatürlichem / Romantik kehrt zurück zur Mystik
-+ 
+Merkmale und Forderungen der Aufklärung
+-   Der menschliche Verstand als höchstes Gut
+-   Gebrauch des Verstandes
+-   Emanzipation
+-   Gegen Unvernunft und Aberglaube
+-   Fordern eine bessere Bildung
+-   Und eine rationale Auffassung der Welt
+-   Weiter Menschenrechte
+-   Und persönliche Handlungsfreiheit
+Merkmale und Forderungen der Romantik
+-   Hinwendung zur Natur
+-   Mystik
+-   Kunst, Gedichte, Märchen
+-   Faszination des Unheimlichen
+-   Rückzug in Fanstasie- und Traumwelten
+-   Verwirrung und Chaos als was Schönes
+-   Emotionen
+-   Das Seelenleben
 #  Seht euch das folgende Info-Video an, um einen Eindruck der gesellschaftspolitischen Zustände zur Zeit des Vormärz zu bekommen: https://www.youtube.com/watch?v=6PmGgQwwP74 Notiert euch stichpunktartig, welche Aspekte zur Krise und damit zur Märzrevolution führten.
 + Von Wiener Kongress 1815 bis Revolution 1848
 + politische und gesellschaftliche Kriese
 	+ Französische Revolution
 	+ Fremdherrschaft Napoleons
 	+ Kulturnation (Bürger entwickeln ein Nationalbewusstsein)
-	+ Bildung der Bourgousie
+	+ Bildung der Bourgeoisie
 	+ nationale Burschenschaft treffen sich auf der Wartburg
 + Repression
 	+ Verbot der Burschenschaften
