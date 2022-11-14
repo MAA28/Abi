@@ -4,56 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "afadda2d59996920",
-        "type": "split",
+        "id": "a622a4b9c77aacbd",
+        "type": "tabs",
         "children": [
           {
-            "id": "a622a4b9c77aacbd",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "73d7b2902c0aa766",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Geschichte/Amerikanische Revolution/Entwicklungen in Kommunikation, Koordination und Meinungsbildung nach der Boston Tea Party.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "94aaff9f4e68097e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Geschichte/Amerikanische Revolution/Revolutionstheorie nach Peter Wende.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "73d7b2902c0aa766",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geschichte/Amerikanische Revolution/Entwicklungen in Kommunikation, Koordination und Meinungsbildung nach der Boston Tea Party.md",
+                "mode": "preview",
+                "source": false
               }
-            ],
-            "currentTab": 1
+            }
           },
           {
-            "id": "e389a4b268f4c7fd",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a4cc5347ed04a4e9",
-                "type": "leaf",
-                "state": {
-                  "type": "mindmap",
-                  "state": {}
-                }
+            "id": "94aaff9f4e68097e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geschichte/Amerikanische Revolution/Revolutionstheorie nach Peter Wende.md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
