@@ -4,35 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "a622a4b9c77aacbd",
-        "type": "tabs",
+        "id": "d6e928546f74357a",
+        "type": "split",
         "children": [
           {
-            "id": "73d7b2902c0aa766",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geschichte/Amerikanische Revolution/Entwicklungen in Kommunikation, Koordination und Meinungsbildung nach der Boston Tea Party.md",
-                "mode": "preview",
-                "source": false
+            "id": "a622a4b9c77aacbd",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "73d7b2902c0aa766",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Geschichte/Amerikanische Revolution/Entwicklungen in Kommunikation, Koordination und Meinungsbildung nach der Boston Tea Party.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "240a621634e1e270",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Geschichte/Amerikanische Revolution/Freund und Feind.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ],
+            "currentTab": 1
           },
           {
-            "id": "240a621634e1e270",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geschichte/Amerikanische Revolution/Freund und Feind.md",
-                "mode": "source",
-                "source": false
+            "id": "bbdcc7c66ee8316b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9ae30fec2e5581ea",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {}
+                }
               }
-            }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
