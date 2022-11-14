@@ -11,8 +11,12 @@
             "id": "73d7b2902c0aa766",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Geschichte/Amerikanische Revolution/Entwicklungen in Kommunikation, Koordination und Meinungsbildung nach der Boston Tea Party.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Geschichte/Amerikanische Revolution/Entwicklungen in Kommunikation, Koordination und Meinungsbildung nach der Boston Tea Party.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Geschichte/Amerikanische Revolution/Entwicklungen in Kommunikation, Koordination und Meinungsbildung nach der Boston Tea Party.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Geschichte/Amerikanische Revolution/Entwicklungen in Kommunikation, Koordination und Meinungsbildung nach der Boston Tea Party.md"
+              }
             }
           }
         ],
@@ -129,7 +137,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b0680ab473732a96",
+  "active": "73d7b2902c0aa766",
   "lastOpenFiles": [
     "Geschichte/Amerikanische Revolution/Revolutionstheorie nach Peter Wende.md",
     "English/Important stages of the White Power Movement.md",
