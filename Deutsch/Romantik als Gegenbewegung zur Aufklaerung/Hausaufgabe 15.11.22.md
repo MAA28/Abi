@@ -4,6 +4,7 @@
 
 ## Nehmt vor diesem Hintergrund begründet Stellung zu unserer Leitfrage: „Ist die Romantik eine Gegenbewegung zur Aufklärung?“ Achtet dabei auf Gemeinsamkeiten und Unterschiede der Epochen. Notiert euch Stichpunkte!
 + Aufklärung distanziert sich von Übernatürlichem / Romantik kehrt zurück zur Mystik
++ 
 #  Seht euch das folgende Info-Video an, um einen Eindruck der gesellschaftspolitischen Zustände zur Zeit des Vormärz zu bekommen: https://www.youtube.com/watch?v=6PmGgQwwP74 Notiert euch stichpunktartig, welche Aspekte zur Krise und damit zur Märzrevolution führten.
 + Von Wiener Kongress 1815 bis Revolution 1848
 + politische und gesellschaftliche Kriese
@@ -35,6 +36,14 @@
 	+ Pauperismus
 	+ Hungerrevolten
 	+ Schlesische Weber
-	+ 
++ Unter der Führung der bürgerlichen Vereine und Burschenschaften kämpfen die Bauern und Arbeiter gegen die Feudalen Strukturen. Die Basis der neuen Gesellschaft wird die kapitalistische Produktionsweise sein, ihre Überbau, der Liberalismus.
+# Lest euch im Deutschbuch auf S. 228 zunächst den kurzen Infotext durch, um Büchner und seinen Wirkkontext kennenzulernen.
+
+# Lest die im Jahre 1834 von Büchner verfasste Flugschrift ‚Der Hessische Landbote’ im Deutschbuch auf S. 228-229. 
+
+# Bearbeitet nun die folgende(n) Aufgabe(n) stichpunktartig:
+## Ermittelt die sozialen und politischen Ziele des Verfassers. Geht dabei von dem zentralen Aufruf „Friede den Hütten! Krieg den Palästen!“ aus.
+
+## Wie versucht Büchner, seine Leser:innen zu überzeugen? Analysiert dazu die Argumentationsstruktur des Textes und berücksichtigt auffällige sprachliche Merkmale.
 
 
