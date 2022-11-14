@@ -10,6 +10,31 @@
 	+ Französische Revolution
 	+ Fremdherrschaft Napoleons
 	+ Kulturnation (Bürger entwickeln ein Nationalbewusstsein)
+	+ Bildung der Bourgousie
+	+ nationale Burschenschaft treffen sich auf der Wartburg
++ Repression
+	+ Verbot der Burschenschaften
+	+ Zensur der Presse
+	+ Überwachung an Universitäten
+	+ Unterdrückung der Meinungsäußerung
+	+ Verbot des Turnens
+	+ 1832 Hambacher Fest
+		+ Ende der Fürstenherrschaft
+		+ Nationalstaat
+		+ Einheitliche Verfassung
++ Liberalismus als Überbau zur neuen Basis
+	+ Freiheit des Individuums
+	+ Menschenrechte
+	+ Selbstverwirklichung und Selbstverantwortung (Siehe Kant Zitat)
+	+ wirtschaftliche Freiheit
+	+ Fürsten schlagen zurück
+	+ Sport und Musik Vereine als politische Zelle
++ soziale Armut
+	+ 80% der Bevölkerung gehören zur Unterschicht (I guess Bauern und eine kleines Proletariat)
+	+  großes Bevölkerungswachstum
+	+ Pauperismus
+	+ Hungerrevolten
+	+ Schlesische Weber
 	+ 
 
 
