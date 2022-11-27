@@ -2,7 +2,11 @@ The character Ellery is makes it's first appearance in short story "Cicada", whi
 
 The character, whose full name is Ellery Cook (cf. I. 423), is a black (cf. II. 306) pubescent (cf. 385 f.) piano prodigy (cf. II. 85).  
 
-Ellery seem to be ahead of her peers, she for example does not feel disgusted by the crushed cicadas but seems to be interested (cf. ll. 24f). Next to her interest in Piano she also seems to be keen of science in school, citing her own science teacher (cf. ll. 26). Ellery goes on to win the competition and despite the euphoria she eyes the 500 dollars check instead of her first-place award (cf. ll. 430f.). Ellery is not excited for herself, but rather wants to finance a car for her family (cf. ll. 461f.). This shows two things, her selflessness and readiness to support her family and her young age, due to her not realising that she holds a saving check that will be worth 500 dollars in the future.
+Ellery is uncommonly mature for compared to her peers. This shows must strongly in her objective of winning the 500$ price money instead of the first-place award (cf. II. 430 f.). Additionally her interest in the natural sciences, demonstrated by her handling of the crushed cicadas (cf. II. 24 f.) and behavior in school (cf. II. 26), show a great deal of maturity.
+
+*Ellery seem to be ahead of her peers, she for example does not feel disgusted by the crushed cicadas but seems to be interested (cf. ll. 24f). Next to her interest in Piano she also seems to be keen of science in school, citing her own science teacher (cf. ll. 26). Ellery goes on to win the competition and despite the euphoria she eyes the 500 dollars check instead of her first-place award (cf. ll. 430f.). Ellery is not excited for herself, but rather wants to finance a car for her family (cf. ll. 461f.). This shows two things, her selflessness and readiness to support her family and her young age, due to her not realising that she holds a saving check that will be worth 500 dollars in the future.*
+
+The Cooks don't seem to be very well off. An example of that is that the families car is so old that they had to driven to the competition Ellery was participating in by Ms. Anita
 
 We learn that Ellery and her family have not had the easiest time and do not appear to be wealthy. It is stated that they have not had a car for a long time, hence why they are chauffeured to the piano competition by Ms. Anita (cf. ll. 63f.).
 
