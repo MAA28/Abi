@@ -1,4 +1,4 @@
-public class collatz_conjecture {
+public class CollatzConjecture {
     public static void main(String args[]) {
         
     }
