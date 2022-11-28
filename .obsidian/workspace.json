@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Cicada - Character Analysis Ellery.md",
-                "mode": "source",
+                "file": "Stundenplan.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Cicada - Character Analysis Ellery.md",
+                "file": "Stundenplan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/Cicada - Character Analysis Ellery.md",
+                "file": "Stundenplan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Cicada - Character Analysis Ellery.md"
+                "file": "Stundenplan.md"
               }
             }
           }
@@ -139,15 +139,15 @@
   },
   "active": "7d8a6985e4473d0a",
   "lastOpenFiles": [
-    "Pasted image 20221127110218.png",
+    "Kurswahl.pdf",
     "English/Cicada - Character Analysis Ellery.md",
+    "Pasted image 20221127110218.png",
     "English/HOW TO QUOTE.pdf",
     "Geschichte/Amerikanische Revolution/Freund und Feind.md",
     "Geschichte/Amerikanische Revolution/Entwicklungen in Kommunikation, Koordination und Meinungsbildung nach der Boston Tea Party.md",
     "Geschichte/Amerikanische Revolution/Revolutionstheorie nach Peter Wende.md",
     "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Hausaufgabe 15.11.22.md",
     "English/Important stages of the White Power Movement.md",
-    "English/Sounds of the 17 Year Cicarda.md",
-    "English/American immigration history .pdf"
+    "English/Sounds of the 17 Year Cicarda.md"
   ]
 }
