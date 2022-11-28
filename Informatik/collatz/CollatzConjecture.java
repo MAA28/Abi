@@ -1,14 +1,10 @@
 public class CollatzConjecture {
     public static void main(String args[]) {
-        int n = i;
-        System.out.println("Collatz for " + i);
+        int n = -1;
         do {
             System.out.println(n);
             n = collatz(n);
         } while (n != 1);
-            System.out.println("-------");
-        }
-        
     }
     
     public static int collatz(int n) {
