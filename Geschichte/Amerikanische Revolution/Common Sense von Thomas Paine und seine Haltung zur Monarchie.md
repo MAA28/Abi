@@ -8,7 +8,7 @@
 + Unabhängig von GB
 	+ Eigene Wirtschaftliche Interessen
 	+ Eigene Regierung
-+ Handel mit allen
++ Handel mit allen in Europa
 	+ Neutralität in Europa
 	+ Kein Spielstein GBs sein
 # Vergleich: Argumentation Paines - Rechtsauffassung der Verfasser des Stempelsteuerprotests
@@ -24,9 +24,9 @@
 	<tr>
 		<td>
 			<ul>
-				<li> Wirtschaft --> </li>
-				<li> Ziel --> </li>
-				<li> Gesetzgebung / Politik --> </li>
+				<li> Wirtschaft --> Handelsbeschränkung und Abgaben belasten, werden nicht akzeptiert</li>
+				<li> Ziel --> Unabhängigkeit von GB, auch mit Gewalt </li>
+				<li> Gesetzgebung / Politik --> Amerikanische Kolonien bestimmen alle ihre Angelegenheiten selbständig und wählen ein Parlament, Kolonien verlassen B. E. und formen Amerika, Unabhängigkeit</li>
 			</ul>
 		</td>
 		<td>
@@ -38,8 +38,3 @@
 		</td>
 	</tr>
 </table>
-| A     | B   |
-| ----- | --- |
-| Arg 1 | Arg    |
-| Arg 2 |     |
-|       |     |
