@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stundenplan.md",
+                "file": "English/Sounds of the 17 Year Cicarda.md",
                 "mode": "preview",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cc65e00363902932",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stundenplan.md",
+                "file": "English/Sounds of the 17 Year Cicarda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stundenplan.md",
+                "file": "English/Sounds of the 17 Year Cicarda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stundenplan.md"
+                "file": "English/Sounds of the 17 Year Cicarda.md"
               }
             }
           }
@@ -139,15 +140,15 @@
   },
   "active": "7d8a6985e4473d0a",
   "lastOpenFiles": [
-    "Kurswahl.pdf",
     "English/Cicada - Character Analysis Ellery.md",
+    "Stundenplan.md",
+    "Kurswahl.pdf",
     "Pasted image 20221127110218.png",
     "English/HOW TO QUOTE.pdf",
     "Geschichte/Amerikanische Revolution/Freund und Feind.md",
     "Geschichte/Amerikanische Revolution/Entwicklungen in Kommunikation, Koordination und Meinungsbildung nach der Boston Tea Party.md",
     "Geschichte/Amerikanische Revolution/Revolutionstheorie nach Peter Wende.md",
     "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Hausaufgabe 15.11.22.md",
-    "English/Important stages of the White Power Movement.md",
-    "English/Sounds of the 17 Year Cicarda.md"
+    "English/Important stages of the White Power Movement.md"
   ]
 }
