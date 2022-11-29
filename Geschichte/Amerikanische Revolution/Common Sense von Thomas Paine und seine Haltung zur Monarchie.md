@@ -17,6 +17,29 @@
 		<td>
 			Argumentation Paines
 		</td>
-		
+		<td>
+			Rechtsauffassung der Verfasser des Stempelsteuerprotests
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<ul>
+				<li> Wirtschaft --> </li>
+				<li> Ziel --> </li>
+				<li> Gesetzgebung / Politik --> </li>
+			</ul>
+		</td>
+		<td>
+			<ul>
+				<li> Wirtschaft --> Handelsbeschränkung und Abgaben belasten, werden aber akzeptiert</li>
+				<li> Ziel --> freundschaftliche, gewinnbringender Verkehr mit GB </li>
+				<li> Gesetzgebung / Politik --> Amerikanische Kolonien sollen innere Angelegenheiten selbst regeln können, "No taxation without representation", Kolonien bleiben Teil des Britisch Empire</li>
+			</ul>
+		</td>
 	</tr>
 </table>
+| A     | B   |
+| ----- | --- |
+| Arg 1 | Arg    |
+| Arg 2 |     |
+|       |     |
