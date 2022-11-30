@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "694c238c27cce8c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Politik & Wirtschaft/Parteienreformvorschläge von Hanno Burmester.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "cc65e00363902932",
@@ -99,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geschichte/Amerikanische Revolution/Common Sense von Thomas Paine und seine Haltung zur Monarchie.md",
+                "file": "Politik & Wirtschaft/Parteienreformvorschläge von Hanno Burmester.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geschichte/Amerikanische Revolution/Common Sense von Thomas Paine und seine Haltung zur Monarchie.md",
+                "file": "Politik & Wirtschaft/Parteienreformvorschläge von Hanno Burmester.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geschichte/Amerikanische Revolution/Common Sense von Thomas Paine und seine Haltung zur Monarchie.md"
+                "file": "Politik & Wirtschaft/Parteienreformvorschläge von Hanno Burmester.md"
               }
             }
           }
@@ -151,7 +162,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "aadb66d8fa6aae4b",
+  "active": "694c238c27cce8c3",
   "lastOpenFiles": [
     "Geschichte/Amerikanische Revolution/Common Sense von Thomas Paine und seine Haltung zur Monarchie.md",
     "English/Sounds of the 17 Year Cicarda.md",
