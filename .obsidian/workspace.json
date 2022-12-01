@@ -8,55 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7d8a6985e4473d0a",
+            "id": "04cfd5f2f3053abc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "English/Sounds of the 17 Year Cicarda.md",
-                "mode": "preview",
-                "source": false
+                "file": "Geschichte/Amerikanische Revolution/M6 Common Sense _ Wirkung.pdf"
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "99c44c3631c53f7d",
+        "type": "tabs",
+        "children": [
           {
-            "id": "aadb66d8fa6aae4b",
+            "id": "59b3d3db8626af86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geschichte/Amerikanische Revolution/Common Sense von Thomas Paine und seine Haltung zur Monarchie.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "694c238c27cce8c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Politik & Wirtschaft/Parteienreformvorschläge von Hanno Burmester.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba05bb951e879a38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Politik & Wirtschaft/Berurteilung der Durchsetzungschancen der Verbände DUH und des  Automobilverbands.md",
-                "mode": "preview",
+                "file": "Geschichte/Amerikanische Revolution/Reaction auf Common Sense.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cc65e00363902932",
@@ -122,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Politik & Wirtschaft/Berurteilung der Durchsetzungschancen der Verbände DUH und des  Automobilverbands.md",
+                "file": "Geschichte/Amerikanische Revolution/Reaction auf Common Sense.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Politik & Wirtschaft/Berurteilung der Durchsetzungschancen der Verbände DUH und des  Automobilverbands.md",
+                "file": "Geschichte/Amerikanische Revolution/Reaction auf Common Sense.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Politik & Wirtschaft/Berurteilung der Durchsetzungschancen der Verbände DUH und des  Automobilverbands.md"
+                "file": "Geschichte/Amerikanische Revolution/Reaction auf Common Sense.md"
               }
             }
           }
@@ -174,8 +154,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ba05bb951e879a38",
+  "active": "59b3d3db8626af86",
   "lastOpenFiles": [
+    "Geschichte/Amerikanische Revolution/M6 Common Sense _ Wirkung.pdf",
+    "Politik & Wirtschaft/Berurteilung der Durchsetzungschancen der Verbände DUH und des  Automobilverbands.md",
     "Politik & Wirtschaft/Parteienreformvorschläge von Hanno Burmester.md",
     "Geschichte/Amerikanische Revolution/Common Sense von Thomas Paine und seine Haltung zur Monarchie.md",
     "English/Sounds of the 17 Year Cicarda.md",
@@ -183,8 +165,6 @@
     "Stundenplan.md",
     "Kurswahl.pdf",
     "Pasted image 20221127110218.png",
-    "English/HOW TO QUOTE.pdf",
-    "Geschichte/Amerikanische Revolution/Freund und Feind.md",
-    "Geschichte/Amerikanische Revolution/Entwicklungen in Kommunikation, Koordination und Meinungsbildung nach der Boston Tea Party.md"
+    "English/HOW TO QUOTE.pdf"
   ]
 }
