@@ -1,4 +1,4 @@
-In dem Artikel "Agil, vielfältig, innovativ: Fünf Zukunftsimpulse für politische Parteien", welcher 2015 verfasst wurde, beschreibt Hanno Burmester fünf Möglichkeiten die Mitgliederzahlen und die volksnahe der Parteien zu stärken. Diese werde ich im Folgenden aus der Perspektive eines organisierten Jugendlichen aus dem linken Spektrum beurteilen.
+In dem Artikel "Agil, vielfältig, innovativ: Fünf Zukunftsimpulse für politische Parteien", welcher 2015 verfasst wurde, beschreibt Hanno Burmester fünf Möglichkeiten die Mitgliederzahlen und die volksnahe der Parteien zu stärken. Diese werde ich im Folgenden aus der Perspektive eines politisch organisierten Jugendlichen aus dem linken Spektrum beurteilen.
 
 Die erste von Burmester vorgeschlagene Reform sind die "verschieden Mitgliedschaftsmodelle". Die Konkretisierung der vor bestehenden Lage hat sich erfahrungsgemäß als sehr sinnvoll erwiesen, so ist es möglich diese Mitglieder die sich auf einen bestimmten Schwerpunkt konzentrieren nicht mit für sie irrelevante Themen abzulenken. Allerdings könnte eine zu starke sektionierung der Parteiarbeit auch zu Machtverhältnissen führen, die die Mitglieder entmächtigen. 
 Burmester schlägt dazu auch vor, dass die AGs sich vor Allem Online treffen sollen. In der Pandemie haben sich VK allerdings als äußerst anstrengendes und ineffizientes Mittel erwiesen, wenn die AG physisch regelmäßig zusammen kommen kann ist, ist dies deutlich besser.
@@ -9,5 +9,9 @@ Der folgende Vorschlag betitelt er mit "Engagierten-Agentur", welcher aus der Pe
 
 Der letze Vorschlag den Burmester macht "Vor-Ort-Initiativen" ist eine Versuch die vorigen zwei Strategien zu implementieren. Hier findet sich auch wieder einer der Gründe, wegen welchen die bürgerlichen Parteien die Massenlinie nicht anwenden. Sie brauchen heute nicht mehr Mitglieder als sie schon haben: Wenn die Wahlergebnisse gut sind, die Mitglieder die sich über die Politik der Spitze beschweren wenig und die Gelder für den nächsten Wahlkampf ausreichen sind die Spitzen der Parteien zufrieden.  
 
+---
+# *Kritik*
++ Nur eine Perspektive
++ Nicht sachlich genug
 
 
