@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ba05bb951e879a38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Politik & Wirtschaft/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "cc65e00363902932",
@@ -111,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Politik & Wirtschaft/Parteienreformvorschläge von Hanno Burmester.md",
+                "file": "Politik & Wirtschaft/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Politik & Wirtschaft/Parteienreformvorschläge von Hanno Burmester.md",
+                "file": "Politik & Wirtschaft/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Politik & Wirtschaft/Parteienreformvorschläge von Hanno Burmester.md"
+                "file": "Politik & Wirtschaft/Untitled.md"
               }
             }
           }
@@ -163,8 +174,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "694c238c27cce8c3",
+  "active": "ba05bb951e879a38",
   "lastOpenFiles": [
+    "Politik & Wirtschaft/Parteienreformvorschläge von Hanno Burmester.md",
     "Geschichte/Amerikanische Revolution/Common Sense von Thomas Paine und seine Haltung zur Monarchie.md",
     "English/Sounds of the 17 Year Cicarda.md",
     "English/Cicada - Character Analysis Ellery.md",
@@ -173,7 +185,6 @@
     "Pasted image 20221127110218.png",
     "English/HOW TO QUOTE.pdf",
     "Geschichte/Amerikanische Revolution/Freund und Feind.md",
-    "Geschichte/Amerikanische Revolution/Entwicklungen in Kommunikation, Koordination und Meinungsbildung nach der Boston Tea Party.md",
-    "Geschichte/Amerikanische Revolution/Revolutionstheorie nach Peter Wende.md"
+    "Geschichte/Amerikanische Revolution/Entwicklungen in Kommunikation, Koordination und Meinungsbildung nach der Boston Tea Party.md"
   ]
 }
