@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Politik & Wirtschaft/Funktion von Interessenverbänden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Politik & Wirtschaft/Funktion von Interessenverbänden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Politik & Wirtschaft/Funktion von Interessenverbänden.md"
-              }
+              "state": {}
             }
           },
           {
@@ -144,8 +140,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "7a7d007ee42a259d",
+  "active": "b0680ab473732a96",
   "lastOpenFiles": [
+    "Politik & Wirtschaft/Funktion von Interessenverbänden.md",
     "Geschichte/Amerikanische Revolution/Reaction auf Common Sense.md",
     "Geschichte/Amerikanische Revolution/M6 Common Sense _ Wirkung.pdf",
     "Politik & Wirtschaft/Berurteilung der Durchsetzungschancen der Verbände DUH und des  Automobilverbands.md",
@@ -154,7 +151,6 @@
     "English/Sounds of the 17 Year Cicarda.md",
     "English/Cicada - Character Analysis Ellery.md",
     "Stundenplan.md",
-    "Kurswahl.pdf",
-    "Pasted image 20221127110218.png"
+    "Kurswahl.pdf"
   ]
 }
