@@ -19,5 +19,3 @@ Mithilfe dieses Funktionsquatettes können Verbände eine enorme Schlagkraft err
 + Reinfolge sollte relativer formuliert werden
 + Inhaltlich wurde die Vermittlungsfunktion missverstanden
 + Mehr von außen
-
-Sehr gute einleitung mit den gesetzen
