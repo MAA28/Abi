@@ -14,4 +14,10 @@ Mithilfe dieses Funktionsquatettes können Verbände eine enorme Schlagkraft err
 
 # Kritik
 + Zu viel Einleitung
-+ Letzter Absatz ist nicht so richtig da in der Aufgabenstellung 
++ Letzter Absatz ist nicht so richtig da in der Aufgabenstellung
++ Mehr AFB 2, weniger AFB 1
++ Reinfolge sollte relativer formuliert werden
++ Inhaltlich wurde die Vermittlungsfunktion missverstanden
++ Mehr von außen
+
+Sehr gute einleitung mit den gesetzen
