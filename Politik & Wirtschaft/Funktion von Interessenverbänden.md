@@ -11,3 +11,7 @@ Nur gibt es häufig Gruppen mit gegensätzlichen Interessen, hier greift die Ver
 Doch es gibt auch kooperative Partnerschaften zwischen Verbänden und anderen Organisationen, z. B. wenn es das Expertenwissen der Mitglieder eines Verbandes geboten ist. Dies Beschreiben Hofmann, Dose und Wolf als Informationsfunktion.
 
 Mithilfe dieses Funktionsquatettes können Verbände eine enorme Schlagkraft erreichen. Doch Thomas von Winter und Ulrich Willems warnen vor möglicher "Manipulation und Machtasymmetrie" in dem Klappentext ihres Buches "Interessenverbände in Deutschland".
+
+# Kritik
++ Zu viel Einleitung
++ Letzter Absatz ist nicht so richtig da in der Aufgabenstellung 
