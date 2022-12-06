@@ -2,7 +2,7 @@ The character Ellery is makes it's first appearance in short story "Cicada", whi
 
 The character, whose full name is Ellery Cook (cf. I. 423), is a black (cf. II. 306) pubescent (cf. 385 f.) piano prodigy (cf. II. 85).  
 
-Ellery is uncommonly mature for compared to her peers. This shows must strongly in her objective of winning the 500$ price money instead of the first-place award (cf. II. 430 f.). Additionally her interest in the natural sciences, demonstrated by her handling of the crushed cicadas (cf. II. 24 f.) and behavior in school (cf. II. 26), show a great deal of maturity.
+Ellery is uncommonly mature for compared to her peers. This shows must strongly in her objective of winning the 500$ price money instead of the first-place award (cf. II. 430 f.). Additionally her interest in the natural sciences, demonstrated by her handling of the crushed cicadas (cf. II. 24 f.) and behavior in school (cf. II. 26), show a great deal of maturity. 
 
 The Cooks don't seem to be very well off. An example of that is that the families car is so old that they had to driven to the competition Ellery was participating in by Ms. Anita (cf. II. 63f.).
 
