@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5b7f8717dc58ecd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/Afro-textured hair.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cc65e00363902932",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/P. E. E. Methode for the Cicada story.md",
+                "file": "English/Afro-textured hair.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/P. E. E. Methode for the Cicada story.md",
+                "file": "English/Afro-textured hair.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/P. E. E. Methode for the Cicada story.md"
+                "file": "English/Afro-textured hair.md"
               }
             }
           },
@@ -146,8 +158,9 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "e7ea13339166d489",
+  "active": "5b7f8717dc58ecd9",
   "lastOpenFiles": [
+    "English/P. E. E. Methode for the Cicada story.md",
     "English/Cicada - Character Analysis Ellery.md",
     "Politik & Wirtschaft/Funktion von Interessenverbänden.md",
     "Politik & Wirtschaft/Interessenverbände - genauso legitim und notwendig wie politische Parteien.md",
@@ -156,7 +169,6 @@
     "Politik & Wirtschaft/Berurteilung der Durchsetzungschancen der Verbände DUH und des  Automobilverbands.md",
     "Politik & Wirtschaft/Parteienreformvorschläge von Hanno Burmester.md",
     "Geschichte/Amerikanische Revolution/Common Sense von Thomas Paine und seine Haltung zur Monarchie.md",
-    "English/Sounds of the 17 Year Cicarda.md",
-    "Stundenplan.md"
+    "English/Sounds of the 17 Year Cicarda.md"
   ]
 }
