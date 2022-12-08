@@ -4,21 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "99c44c3631c53f7d",
+        "id": "3225354490217d36",
         "type": "tabs",
         "children": [
-          {
-            "id": "e7ea13339166d489",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/P. E. E. Methode for the Cicada story.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
           {
             "id": "5b7f8717dc58ecd9",
             "type": "leaf",
@@ -26,13 +14,12 @@
               "type": "markdown",
               "state": {
                 "file": "English/Afro-textured hair.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
