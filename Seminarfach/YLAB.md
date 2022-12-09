@@ -5,3 +5,4 @@
 # Fragestellung
 + Wie sieht eine handlungsorientierte Facharbeit aus?
 + "Imperialismus als höchstes Stadium des Kapitalismus: Überprüfen der Thesen aus Kapitel xyz in der BRD 2022"
+	+ 
