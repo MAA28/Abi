@@ -5,4 +5,6 @@
 # Fragestellung
 + Wie sieht eine handlungsorientierte Facharbeit aus?
 + "Imperialismus als höchstes Stadium des Kapitalismus: Überprüfen der Thesen aus Kapitel xyz in der BRD 2022"
-	+ 
+	+ Schlüssel-Passagen
+	+ Wirtschaft exemplarisch auswerten
+	+ Historische nicht Vergleichbarkeit -> auch auf Aspekte die anders sind fokosieren
