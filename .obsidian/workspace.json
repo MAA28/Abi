@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Afro-textured hair.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd2382490a91f22b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Seminarfach/YLAB.md",
+                "file": "Geschichte/Amerikanische Revolution/Aufbau der Unabhänigkeitserklärung.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seminarfach/YLAB.md",
+                "file": "Geschichte/Amerikanische Revolution/Aufbau der Unabhänigkeitserklärung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Seminarfach/YLAB.md",
+                "file": "Geschichte/Amerikanische Revolution/Aufbau der Unabhänigkeitserklärung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Seminarfach/YLAB.md"
+                "file": "Geschichte/Amerikanische Revolution/Aufbau der Unabhänigkeitserklärung.md"
               }
             }
           },
@@ -158,17 +145,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "bd2382490a91f22b",
+  "active": "5b7f8717dc58ecd9",
   "lastOpenFiles": [
     "English/Afro-textured hair.md",
+    "Geschichte/Amerikanische Revolution/Buchner S. 65_66 Unabhängigkeitserklärung.pdf",
+    "Geschichte/Amerikanische Revolution/Aufbau der Unabhänigkeitserklärung.md",
+    "Geschichte/Amerikanische Revolution/Boston Massacare.md",
+    "Seminarfach/YLAB.md",
     "English/P. E. E. Methode for the Cicada story.md",
     "English/Cicada - Character Analysis Ellery.md",
     "Politik & Wirtschaft/Funktion von Interessenverbänden.md",
     "Politik & Wirtschaft/Interessenverbände - genauso legitim und notwendig wie politische Parteien.md",
-    "Geschichte/Amerikanische Revolution/Reaction auf Common Sense.md",
-    "Geschichte/Amerikanische Revolution/M6 Common Sense _ Wirkung.pdf",
-    "Politik & Wirtschaft/Berurteilung der Durchsetzungschancen der Verbände DUH und des  Automobilverbands.md",
-    "Politik & Wirtschaft/Parteienreformvorschläge von Hanno Burmester.md",
-    "Geschichte/Amerikanische Revolution/Common Sense von Thomas Paine und seine Haltung zur Monarchie.md"
+    "Geschichte/Amerikanische Revolution/Reaction auf Common Sense.md"
   ]
 }
