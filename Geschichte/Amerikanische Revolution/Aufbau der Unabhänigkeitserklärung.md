@@ -23,5 +23,9 @@ Der letzte Abschnitt beschreibt die Konsequenzen, welche die Kolonisten aus ihre
 
 ## Gesellschaftsvertrag nach Hobbes
 Zum Vermeiden der "natürlichen Kämpfe" braucht es einen absoluten Anführer.
-
-## 
+Textstelle: Z.13-14
+## Widerstandsrecht nach Locke
+Wenn diese Autorität "ungerecht" handelt, hat das Volk das Recht diese zu ersetzen.
+Textstelle: Z. 13, Z. 23-29
+## Thomas Paine
+Textstelle die ganzen Beschwerden usw.
