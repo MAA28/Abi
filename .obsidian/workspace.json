@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Cicada - Character Analysis Ellery.md",
+                "file": "Geschichte/Amerikanische Revolution/Aufbau der Unabhänigkeitserklärung.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cc65e00363902932",
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Cicada - Character Analysis Ellery.md",
+                "file": "Geschichte/Amerikanische Revolution/Aufbau der Unabhänigkeitserklärung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/Cicada - Character Analysis Ellery.md",
+                "file": "Geschichte/Amerikanische Revolution/Aufbau der Unabhänigkeitserklärung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Cicada - Character Analysis Ellery.md"
+                "file": "Geschichte/Amerikanische Revolution/Aufbau der Unabhänigkeitserklärung.md"
               }
             }
           },
@@ -159,12 +157,12 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "b0680ab473732a96",
+  "active": "5b7f8717dc58ecd9",
   "lastOpenFiles": [
+    "Geschichte/Amerikanische Revolution/Unabhängigkeitserklärung.pdf",
     "English/Cicada - Character Analysis Ellery.md",
     "English/Traveling in the US.md",
     "English/Important stages of the White Power Movement.md",
-    "Geschichte/Amerikanische Revolution/Buchner S. 65_66 Unabhängigkeitserklärung.pdf",
     "Geschichte/Amerikanische Revolution/Aufbau der Unabhänigkeitserklärung.md",
     "English/Afro-textured hair.md",
     "Geschichte/Amerikanische Revolution/Boston Massacare.md",
