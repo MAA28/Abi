@@ -11,3 +11,14 @@ Darauf folgt ein Abschnitt, welcher den Zweck hat das letzte von ihnen aufgezäh
 Nach einer kurzen Überleitung listet die Unabhängigkeitserklärung nun 18 Beschwerden der Kolonisten auf. Hier mit soll demonstriert werden, dass die Herrschaft des Königs die Rechte, welche sie vorher definiert haben, verletzt haben soll, um ihre Unabhängigkeit zu legitimieren.
 
 Der letzte Abschnitt beschreibt die Konsequenzen, welche die Kolonisten aus ihrer wahrgenommen Misshandlung ziehen.
+# Beschreiben Sie das Verhältnis zwischen dem englischen König und den Kongressteilnehmern.
+## Mitglieder des Komitee of five
+| Mitglied    | Staat         |
+| ----------- | ------------- |
+| Jefferson   | Virginia      |
+| Adams       | Massachusetts |
+| Franklin    | Pennsylvania  |
+| Livingstone | New York      |
+| Sherman     | Connecticut   |
+
+## Gesellschaftsvertrag nach Hobbs
