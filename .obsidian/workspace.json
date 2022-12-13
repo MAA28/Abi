@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cc65e00363902932",
@@ -158,7 +159,7 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "2dd3cef34b99482b",
+  "active": "b0680ab473732a96",
   "lastOpenFiles": [
     "English/Cicada - Character Analysis Ellery.md",
     "English/Traveling in the US.md",
