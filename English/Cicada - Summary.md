@@ -1,0 +1,1 @@
+In the short story "Cicada" by Camille Acker, she deals with the struggles of the black community in the USA 
