@@ -11,8 +11,12 @@
             "id": "5b7f8717dc58ecd9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "English/Cicada - Character Analysis Ellery.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ellery",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "English/Cicada - Character Analysis Ellery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "English/Cicada - Character Analysis Ellery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "English/Cicada - Character Analysis Ellery.md"
+              }
             }
           },
           {
@@ -137,8 +146,9 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "b0680ab473732a96",
+  "active": "5b7f8717dc58ecd9",
   "lastOpenFiles": [
+    "English/Traveling in the US.md",
     "English/Important stages of the White Power Movement.md",
     "Geschichte/Amerikanische Revolution/Buchner S. 65_66 Unabhängigkeitserklärung.pdf",
     "Geschichte/Amerikanische Revolution/Aufbau der Unabhänigkeitserklärung.md",
@@ -147,7 +157,6 @@
     "Seminarfach/YLAB.md",
     "English/P. E. E. Methode for the Cicada story.md",
     "English/Cicada - Character Analysis Ellery.md",
-    "Politik & Wirtschaft/Funktion von Interessenverbänden.md",
-    "Politik & Wirtschaft/Interessenverbände - genauso legitim und notwendig wie politische Parteien.md"
+    "Politik & Wirtschaft/Funktion von Interessenverbänden.md"
   ]
 }
