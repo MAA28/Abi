@@ -21,4 +21,7 @@ Der letzte Abschnitt beschreibt die Konsequenzen, welche die Kolonisten aus ihre
 | Livingstone | New York      |
 | Sherman     | Connecticut   |
 
-## Gesellschaftsvertrag nach Hobbs
+## Gesellschaftsvertrag nach Hobbes
+Zum Vermeiden der "natürlichen Kämpfe" braucht es einen absoluten Anführer.
+
+## 
