@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dcd3176b8a4d3bee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geschichte/Amerikanische Revolution/Die entfernte Passage der Unabhängigkeitserklärung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geschichte/Amerikanische Revolution/Aufbau der Unabhänigkeitserklärung.md",
+                "file": "Geschichte/Amerikanische Revolution/Die entfernte Passage der Unabhängigkeitserklärung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geschichte/Amerikanische Revolution/Aufbau der Unabhänigkeitserklärung.md",
+                "file": "Geschichte/Amerikanische Revolution/Die entfernte Passage der Unabhängigkeitserklärung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geschichte/Amerikanische Revolution/Aufbau der Unabhänigkeitserklärung.md"
+                "file": "Geschichte/Amerikanische Revolution/Die entfernte Passage der Unabhängigkeitserklärung.md"
               }
             }
           },
@@ -145,10 +158,10 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "be850abc3f88537e",
+  "active": "dcd3176b8a4d3bee",
   "lastOpenFiles": [
-    "Stundenplan.md",
     "Geschichte/Amerikanische Revolution/Aufbau der Unabhänigkeitserklärung.md",
+    "Stundenplan.md",
     "Deutsch/Materialismus und Idealismus.md",
     "Geschichte/Amerikanische Revolution/Unabhängigkeitserklärung.pdf",
     "English/Cicada - Character Analysis Ellery.md",
