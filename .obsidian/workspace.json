@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3225354490217d36",
+        "id": "0ce6a634133a18a5",
         "type": "tabs",
         "children": [
           {
-            "id": "5b7f8717dc58ecd9",
+            "id": "be850abc3f88537e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geschichte/Amerikanische Revolution/Aufbau der Unabhänigkeitserklärung.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de4d1040d5b304c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deutsch/Materialismus und Idealismus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2dd3cef34b99482b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Cicada - Summary.md",
+                "file": "Stundenplan.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deutsch/Materialismus und Idealismus.md",
+                "file": "Stundenplan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deutsch/Materialismus und Idealismus.md",
+                "file": "Stundenplan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deutsch/Materialismus und Idealismus.md"
+                "file": "Stundenplan.md"
               }
             }
           },
@@ -170,9 +145,10 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "de4d1040d5b304c2",
+  "active": "be850abc3f88537e",
   "lastOpenFiles": [
     "Geschichte/Amerikanische Revolution/Aufbau der Unabhänigkeitserklärung.md",
+    "Deutsch/Materialismus und Idealismus.md",
     "Geschichte/Amerikanische Revolution/Unabhängigkeitserklärung.pdf",
     "English/Cicada - Character Analysis Ellery.md",
     "English/Traveling in the US.md",
@@ -180,7 +156,6 @@
     "English/Afro-textured hair.md",
     "Geschichte/Amerikanische Revolution/Boston Massacare.md",
     "Seminarfach/YLAB.md",
-    "English/P. E. E. Methode for the Cicada story.md",
-    "Politik & Wirtschaft/Funktion von Interessenverbänden.md"
+    "English/P. E. E. Methode for the Cicada story.md"
   ]
 }
