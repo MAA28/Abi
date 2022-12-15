@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stundenplan.md",
+                "file": "Geschichte/Amerikanische Revolution/Aufbau der Unabhänigkeitserklärung.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stundenplan.md",
+                "file": "Geschichte/Amerikanische Revolution/Aufbau der Unabhänigkeitserklärung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stundenplan.md",
+                "file": "Geschichte/Amerikanische Revolution/Aufbau der Unabhänigkeitserklärung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stundenplan.md"
+                "file": "Geschichte/Amerikanische Revolution/Aufbau der Unabhänigkeitserklärung.md"
               }
             }
           },
@@ -147,6 +147,7 @@
   },
   "active": "be850abc3f88537e",
   "lastOpenFiles": [
+    "Stundenplan.md",
     "Geschichte/Amerikanische Revolution/Aufbau der Unabhänigkeitserklärung.md",
     "Deutsch/Materialismus und Idealismus.md",
     "Geschichte/Amerikanische Revolution/Unabhängigkeitserklärung.pdf",
@@ -155,7 +156,6 @@
     "English/Important stages of the White Power Movement.md",
     "English/Afro-textured hair.md",
     "Geschichte/Amerikanische Revolution/Boston Massacare.md",
-    "Seminarfach/YLAB.md",
-    "English/P. E. E. Methode for the Cicada story.md"
+    "Seminarfach/YLAB.md"
   ]
 }
