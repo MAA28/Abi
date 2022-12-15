@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e84eb5a6c0d7093b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geschichte/Amerikanische Revolution/Umgang mit den Sklaven in der USA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geschichte/Amerikanische Revolution/Die entfernte Passage der Unabhängigkeitserklärung.md",
+                "file": "Geschichte/Amerikanische Revolution/Umgang mit den Sklaven in der USA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geschichte/Amerikanische Revolution/Die entfernte Passage der Unabhängigkeitserklärung.md",
+                "file": "Geschichte/Amerikanische Revolution/Umgang mit den Sklaven in der USA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geschichte/Amerikanische Revolution/Die entfernte Passage der Unabhängigkeitserklärung.md"
+                "file": "Geschichte/Amerikanische Revolution/Umgang mit den Sklaven in der USA.md"
               }
             }
           },
@@ -158,8 +170,9 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "dcd3176b8a4d3bee",
+  "active": "e84eb5a6c0d7093b",
   "lastOpenFiles": [
+    "Geschichte/Amerikanische Revolution/Die entfernte Passage der Unabhängigkeitserklärung.md",
     "Geschichte/Amerikanische Revolution/Aufbau der Unabhänigkeitserklärung.md",
     "Stundenplan.md",
     "Deutsch/Materialismus und Idealismus.md",
@@ -168,7 +181,6 @@
     "English/Traveling in the US.md",
     "English/Important stages of the White Power Movement.md",
     "English/Afro-textured hair.md",
-    "Geschichte/Amerikanische Revolution/Boston Massacare.md",
-    "Seminarfach/YLAB.md"
+    "Geschichte/Amerikanische Revolution/Boston Massacare.md"
   ]
 }
