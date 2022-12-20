@@ -18,7 +18,11 @@
 + Carleston, Süd-Carolina, Zug nach Süden, Niederlage gegen Französische Flotte
 
 +
-+ 3.9.1783
++ Oktober 1781
++ Kapitulation bei York Town
+
++
++ 3.9.1783 Frieden von Paris
 + Souveränität der Kolonien, Gebiet zwischen Appalachen und Mississippi abgetreten, 80-100 Tausend Loyalisten vertrieben, 70% der Stellungen waren verloren
 ```
 # Amerikanische Perspektive
@@ -58,7 +62,7 @@
 + Niederlande Bündnis
 
 +
-+ 3.9.1783
++ 3.9.1783 Frieden von Paris
 + Souveränität der Kolonien, Gebiet zwischen Appalachen und Mississippi abgetreten, 80-100 Tausend Loyalisten vertrieben, 70% der Stellungen waren verloren
 ```
 
