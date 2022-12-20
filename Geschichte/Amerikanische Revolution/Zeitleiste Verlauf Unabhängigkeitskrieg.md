@@ -39,7 +39,7 @@
 
 +
 + Dezember 1776
-+ insgeheime Französische Unterstützung, Überfall bei Delaware zur Moral der Armee
++ insgeheime Französische Unterstützung, Überfall der hessischen Truppen am Delaware zur Moral der Kontinental Armee
 
 +
 + 1777
@@ -47,7 +47,7 @@
 
 +
 + Winter 1777/1778
-+ Winterquartier Valley Forge
++ Winterquartier Valley Forge, Washington mit den Preußen bildet die Kontinetal Armee aus 
 
 +
 + 6. Februar 1778
@@ -55,14 +55,18 @@
 
 +
 + Ende 1778
-+ Spanien Büdnnis
++ Spanien Bündnis
 
 +
 + 1780
 + Niederlande Bündnis
 
 +
++ Oktober 1781
++ Kapitulation bei York Town
+
++
 + 3.9.1783 Frieden von Paris
-+ Souveränität der Kolonien, Gebiet zwischen Appalachen und Mississippi abgetreten, 80-100 Tausend Loyalisten vertrieben, 70% der Stellungen waren verloren
++ Souveränität der Kolonien, Gebiet zwischen Appalachen und Mississippi abgetreten, 80-100 Tausend Loyalisten vertrieben, 70% der Stellungen waren verloren, 
 ```
 
