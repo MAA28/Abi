@@ -67,6 +67,6 @@
 
 +
 + 3.9.1783 Frieden von Paris
-+ Souveränität der Kolonien, Gebiet zwischen Appalachen und Mississippi abgetreten, 80-100 Tausend Loyalisten vertrieben, 70% der Stellungen waren verloren, 
++ Souveränität der Kolonien, Gebiet zwischen Appalachen und Mississippi abgetreten, 80-100 Tausend Loyalisten vertrieben, 70% der Stellungen waren verloren
 ```
 
