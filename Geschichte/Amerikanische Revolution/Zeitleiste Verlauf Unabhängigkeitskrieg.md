@@ -1,6 +1,6 @@
 # Britische Perspektive
 ```timeline
-[line-5, body-3]
+[line-2, body-3]
 + 
 + 1775
 + Dominierten den Krieg aber keine Großen Erfolge
@@ -17,10 +17,13 @@
 + 1780
 + Carleston, Süd-Carolina, Zug nach Süden, Niederlage gegen Französische Flotte
 
++
++ 3.9.1783
++ Souveränität der Kolonien, Gebiet zwischen Appalachen und Mississippi abgetreten, 80-100 Tausend Loyalisten vertrieben, 70% der Stellungen waren verloren
 ```
 # Amerikanische Perspektive
 ```timeline
-[line-5, body-3]
+[line-2, body-3]
 
 +
 + 1775
@@ -56,5 +59,6 @@
 
 +
 + 3.9.1783
-+ Souveränität der Kolonien, Gebiet zwischen Appalachen und Mississippi abgetreten, 80-100 Taus
++ Souveränität der Kolonien, Gebiet zwischen Appalachen und Mississippi abgetreten, 80-100 Tausend Loyalisten vertrieben, 70% der Stellungen waren verloren
 ```
+
