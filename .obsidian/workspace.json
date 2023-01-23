@@ -26,9 +26,21 @@
                 "file": "Seminarfach/Expose/main.pdf"
               }
             }
+          },
+          {
+            "id": "22f4c88a728b35e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Politik & Wirtschaft/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seminarfach/Expose/main.pdf",
+                "file": "Politik & Wirtschaft/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Seminarfach/Expose/main.pdf",
+                "file": "Politik & Wirtschaft/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Seminarfach/Expose/main.pdf"
+                "file": "Politik & Wirtschaft/Untitled.md"
               }
             }
           },
@@ -165,8 +177,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4f90f343227966e6",
+  "active": "22f4c88a728b35e7",
   "lastOpenFiles": [
+    "Seminarfach/Expose/main.pdf",
     "Seminarfach/Expose/Exemplarische Datensammlung.md",
     "Untitled.canvas",
     "Geschichte/Amerikanische Revolution/Zeitleiste Verlauf Unabhängigkeitskrieg.md",
@@ -175,7 +188,6 @@
     "Geschichte/Amerikanische Revolution/Boston Massacare.md",
     "English/Cicada - Summary.md",
     "Geschichte/Amerikanische Revolution/Aufbau der Unabhänigkeitserklärung.md",
-    "Geschichte/Amerikanische Revolution/Die entfernte Passage der Unabhängigkeitserklärung.md",
-    "Geschichte/Amerikanische Revolution/Umgang mit den Sklaven in der USA.md"
+    "Geschichte/Amerikanische Revolution/Die entfernte Passage der Unabhängigkeitserklärung.md"
   ]
 }
