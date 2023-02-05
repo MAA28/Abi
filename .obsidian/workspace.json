@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Politik & Wirtschaft/Untitled.md",
+                "file": "Politik & Wirtschaft/Sachurteil - Rolle der Medien in einer Demokratie.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cc65e00363902932",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Politik & Wirtschaft/Untitled.md",
+                "file": "Politik & Wirtschaft/Sachurteil - Rolle der Medien in einer Demokratie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Politik & Wirtschaft/Untitled.md",
+                "file": "Politik & Wirtschaft/Sachurteil - Rolle der Medien in einer Demokratie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Politik & Wirtschaft/Untitled.md"
+                "file": "Politik & Wirtschaft/Sachurteil - Rolle der Medien in einer Demokratie.md"
               }
             }
           },
