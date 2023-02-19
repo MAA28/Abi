@@ -1,0 +1,1 @@
+Stelle die Zusammenhänge zwischen 3-Bit-Zahlen graphisch da, welche die Maximale Hamming-Distanz zu einander haben.
