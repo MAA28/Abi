@@ -1,2 +1,7 @@
 # Quellenkritik Q2
 Bei dem vorliegenden Text handelt es sich vermutlich um einen Bericht des des venezianischen Kaufmannssohnes Marco Polo. Marco Polo bereiste im ende des 11. Jahrhunderts das Mongolische Weltreich als Gesandter und Beamter des Kahns. Der Text ist vermutlich an europäische Handelsleute und die europäische Aristokraten und Kleriker gerichtet, da zu seiner Zeit kaum sonst jemand die Lesen konnte. Wichtig ist zu bemerken, dass die Entstehungsgeschichte dieses Berichts nicht gerade als seriös bezeichnet werden kann: Marco Polo lies seine Erfahrungen erst einige Jahre nach seinen Reisen von einem anderen Gefangen, welcher ansonsten vor allem fiktive Geschichten verfasst hat, in der Gefängniszelle in der er war niederschreiben. Jedoch steht in den vorliegenden Teilen nichts komplett absurdes weshalb ich den eher glaubwürdig einstufen würde, wobei das Reichtum der Leute möglicherweise etwas übertrieben ist um den Kahn in dessen Anstellung Marco sich befand zu erfreuen.
+# Kulturbegegnungen 
+## d) Überprüfe inwieweit sich die von Bitterli bzw. Burke genannten Formen der Kulturbegegnungen auf die Begegnungen in den Quellen Q1-Q5 anwenden lassen. Ist ein Modell besser geeignet? Wenn es deiner Meinung nach so ist, erkläre, woran das liegt.
+### Formen der Kulturbegegnungen nach Burke
+#### Machtverhältnis
+Bei den Begegnungen handelt es sich um "Gleich-zu-Gleich"-Machtverhältnissen, da in der Regel nur eine geringe Zahl an Handel
