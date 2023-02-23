@@ -3,9 +3,6 @@ Bei dem vorliegenden Text handelt es sich vermutlich um einen Bericht des des ve
 # Kulturbegegnungen 
 ## d) Überprüfe inwieweit sich die von Bitterli bzw. Burke genannten Formen der Kulturbegegnungen auf die Begegnungen in den Quellen Q1-Q5 anwenden lassen. Ist ein Modell besser geeignet? Wenn es deiner Meinung nach so ist, erkläre, woran das liegt.
 ### Formen der Kulturbegegnungen nach Burke
-#### Machtverhältnis
-Bei den Begegnungen handelt es sich um "Gleich-zu-Gleich"-Machtverhältnissen, da es sich bei allen nur um eine geringe Zahl an Handelsleuten, Gesandten oder Beamten handelt.
-#### Tradition
-Das Selbstbild der chinesischen Herrschenden ist eines der Überlegenheit, daher ist ihre eine Kultur die sich ungern Aneignet.
-#### Schauplatz
-Der Schauplatz ist eher eine Metropole als eine Grenzregion (vielleicht nicht zu treffend auf Shepo).
+Bei den Begegnungen handelt es sich um "Gleich-zu-Gleich"-Machtverhältnisse, da es sich bei allen nur um eine geringe Zahl an Handelsleuten, Gesandten oder Beamten handelt. In China ist das Selbstbild der Herrschenden eines der Überlegenheit, wodurch ihre Kultur sich ungern Aneignet. Der Schauplatz ist dabei eher eine Metropole als eine Grenzregion, auch wenn dies möglicherweise nicht auf Shepo zutrifft
+### Unterschiede der Kulturbegegnung nach Bitterli
+Die Unterschiede der Kulturbegegnungen, die Bitterli beschreibt, können auf verschiedene Weise nützlich sein. In den Berichten geht es immer um kurze Besuche von Entdeckern in archaischen Kulturen in Nachbarländern vor 1800. Die Entdecker wollen dabei weder die Kultur dauerhaft verändern noch zerstören.
