@@ -4,101 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "371aa75f6d9ffb42",
+        "id": "8da2ead15a8f09f3",
         "type": "tabs",
         "children": [
           {
-            "id": "e6e71e2240aab27d",
+            "id": "f200ebb4cd39398a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Politik & Wirtschaft/Ziele der Wirtschaftsordnung.md",
+                "file": "Deutsch/Barok.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "61cfe7cd3737641d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "a6c3353fbe20fc9f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "648bc024cd2de1a2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "ccf790b17dee575a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "ff6e9b3115266e6f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "619bddd8d9ad3bac",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "a0926e39d2965ebc",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.15"
-              }
-            }
-          },
-          {
-            "id": "d999595aeb0195b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9221ea3be84640cb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Deutsch/Barok.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Deutsch/Barok.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Deutsch/Barok.md"
               }
             }
           },
@@ -235,10 +156,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d999595aeb0195b2",
+  "active": "f200ebb4cd39398a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Politik & Wirtschaft/Ziele der Wirtschaftsordnung.md",
+    "conflict-files-obsidian-git.md",
     "Deutsch/Barok.md",
     "Politik & Wirtschaft/Sachurteil - Rolle der Medien in einer Demokratie.md",
     "Seminarfach/Expose/main.pdf",
