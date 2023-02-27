@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deutsch/Barok.md",
+                "file": "Deutsch/Gedichtanalyse/Barok.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6298397bf1b7397",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Materialismus und Idealismus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ddbc99e43b99369",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deutsch/Gedichtanalyse/Formale Analysemethoden.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f9c2f195c9333284",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deutsch/Barok.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deutsch/Barok.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deutsch/Barok.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -156,11 +193,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f200ebb4cd39398a",
+  "active": "f9c2f195c9333284",
   "lastOpenFiles": [
-    "Politik & Wirtschaft/Ziele der Wirtschaftsordnung.md",
+    "Deutsch/Gedichtanalyse/Formale Analysemethoden.md",
     "conflict-files-obsidian-git.md",
-    "Deutsch/Barok.md",
+    "Deutsch/Gedichtanalyse/Barok.md",
+    "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Marie - Drama vs Film.md",
+    "Deutsch/Gedichtanalyse",
+    "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Materialismus und Idealismus.md",
+    "Geschichte/China/Zeit des großen Wegs vs Zeit der Sitten und des Rechts.md",
+    "Geschichte/China/Begegnungen zwischen Europäern anderen Völkern Chinas.pdf",
+    "Geschichte/China/Begegnungen zwischen Europäern anderen Völkern Chinas.md",
+    "Politik & Wirtschaft/Ziele der Wirtschaftsordnung.md",
     "Politik & Wirtschaft/Sachurteil - Rolle der Medien in einer Demokratie.md",
     "Seminarfach/Expose/main.pdf",
     "Seminarfach/Expose/Exemplarische Datensammlung.md",
