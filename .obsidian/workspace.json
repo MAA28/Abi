@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Geschichte/China/Begegnungen zwischen Europäern anderen Völkern Chinas.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cc65e00363902932",
