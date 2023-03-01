@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cc65e00363902932",
@@ -157,21 +156,32 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "30e870c4d78b958d",
+  "active": "b0680ab473732a96",
   "lastOpenFiles": [
+    "Seminarfach/Facharbeit/main.py",
+    "Seminarfach/Facharbeit/Kraftwerksliste_2022.xlsx",
+    "Seminarfach/Facharbeit/Hatte Lenin doch Recht?.odt",
+    "Seminarfach/Facharbeit/Fragebogen.docx",
+    "Seminarfach/Präsentation/dissertation.pdf",
+    "Seminarfach/Präsentation/YLAB.md",
+    "Seminarfach/Präsentation/Präsentation.pptx",
+    "Seminarfach/Präsentation/Präsentation.pdf",
+    "Seminarfach/Präsentation/PleaBargainingResearchSummary.pdf",
+    "Seminarfach/Präsentation/Pasted image 20221006164057.png",
+    "Seminarfach/Präsentation/MIndmap.md",
+    "Seminarfach/Präsentation/Garrett_101-395.pdf",
+    "Seminarfach/Präsentation/Age and Mental Status of Exonerated Defendants Who Falsely Confess Table.pdf",
+    "Seminarfach/Präsentation/2017-report-economic-well-being-us-households-201805.pdf",
+    "Seminarfach/Expose/Exemplarische Datensammlung.md",
     "Deutsch/Gedichtanalyse/Barok.md",
     "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Materialismus und Idealismus.md",
-    "Geschichte/China/Begegnungen zwischen Europäern anderen Völkern Chinas.pdf",
     "Geschichte/China/Begegnungen zwischen Europäern anderen Völkern Chinas.md",
     "Geschichte/China/Zeit des großen Wegs vs Zeit der Sitten und des Rechts.md",
     "Deutsch/Gedichtanalyse/Formale Analysemethoden.md",
     "conflict-files-obsidian-git.md",
     "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Marie - Drama vs Film.md",
-    "Deutsch/Gedichtanalyse",
     "Politik & Wirtschaft/Ziele der Wirtschaftsordnung.md",
     "Politik & Wirtschaft/Sachurteil - Rolle der Medien in einer Demokratie.md",
-    "Seminarfach/Expose/main.pdf",
-    "Seminarfach/Expose/Exemplarische Datensammlung.md",
     "Untitled.canvas",
     "Geschichte/Amerikanische Revolution/Zeitleiste Verlauf Unabhängigkeitskrieg.md",
     "Stundenplan.md",
