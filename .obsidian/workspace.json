@@ -11,10 +11,8 @@
             "id": "30e870c4d78b958d",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2010.png"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -29,7 +27,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2012-2022.png"
+                "file": "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2011.png"
               }
             }
           }
@@ -83,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 712.5
   },
   "right": {
     "id": "cc65e00363902932",
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2012-2022.png",
+                "file": "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2011.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2012-2022.png",
+                "file": "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2011.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2012-2022.png"
+                "file": "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2011.png"
               }
             }
           },
@@ -174,6 +172,9 @@
   "lastOpenFiles": [
     "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2010.png",
     "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2012-2022.png",
+    "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2011.png",
+    "Seminarfach/Facharbeit/lu54823p4ol.tmp",
+    "Seminarfach/Facharbeit/lu54823p4em.tmp",
     "Seminarfach/Facharbeit/lu54823p08n.tmp",
     "Seminarfach/Facharbeit/lu54823ozvs.tmp",
     "Seminarfach/Facharbeit/lu54823ozj4.tmp",
@@ -183,8 +184,6 @@
     "Seminarfach/Facharbeit/lu3127xf14.tmp",
     "Seminarfach/Facharbeit/lu18506dg1.tmp",
     "Geschichte/China/Begegnungen zwischen Europäern anderen Völkern Chinas.md",
-    "Seminarfach/Facharbeit/main.py",
-    "Seminarfach/Facharbeit/Kraftwerksliste_2022.xlsx",
     "Seminarfach/Präsentation/YLAB.md",
     "Seminarfach/Präsentation/Pasted image 20221006164057.png",
     "Seminarfach/Präsentation/MIndmap.md",
