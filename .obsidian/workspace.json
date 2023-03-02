@@ -11,20 +11,6 @@
             "id": "30e870c4d78b958d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "9c98bd207c326b6f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "972921987249aab1",
-            "type": "leaf",
-            "state": {
               "type": "image",
               "state": {
                 "file": "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2011.png"
@@ -81,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 712.5
+    "width": 200
   },
   "right": {
     "id": "cc65e00363902932",
@@ -168,26 +154,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "972921987249aab1",
+  "active": "30e870c4d78b958d",
   "lastOpenFiles": [
-    "Seminarfach/Facharbeit/lu71614c4yo.tmp",
-    "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2010.png",
-    "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2012-2022.png",
-    "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2011.png",
-    "Seminarfach/Facharbeit/lu54823p4ol.tmp",
-    "Seminarfach/Facharbeit/lu54823p4em.tmp",
-    "Seminarfach/Facharbeit/lu54823p08n.tmp",
-    "Seminarfach/Facharbeit/lu54823ozvs.tmp",
-    "Seminarfach/Facharbeit/lu54823ozj4.tmp",
     "Seminarfach/Facharbeit/Kraftwerksliste2022.pdf",
-    "Seminarfach/Facharbeit/lu3127xjb8.tmp",
-    "Seminarfach/Facharbeit/lu3127xj9b.tmp",
-    "Seminarfach/Facharbeit/lu3127xf14.tmp",
-    "Seminarfach/Facharbeit/lu18506dg1.tmp",
+    "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2012-2022.png",
     "Geschichte/China/Begegnungen zwischen Europäern anderen Völkern Chinas.md",
+    "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2011.png",
+    "Seminarfach/Facharbeit/main.py",
+    "Seminarfach/Facharbeit/Kraftwerksliste_2022.xlsx",
+    "Seminarfach/Facharbeit/Hatte Lenin doch Recht?.odt",
+    "Seminarfach/Facharbeit/Fragebogen.docx",
+    "Seminarfach/Präsentation/dissertation.pdf",
     "Seminarfach/Präsentation/YLAB.md",
+    "Seminarfach/Präsentation/Präsentation.pptx",
+    "Seminarfach/Präsentation/Präsentation.pdf",
+    "Seminarfach/Präsentation/PleaBargainingResearchSummary.pdf",
     "Seminarfach/Präsentation/Pasted image 20221006164057.png",
     "Seminarfach/Präsentation/MIndmap.md",
+    "Seminarfach/Präsentation/Garrett_101-395.pdf",
+    "Seminarfach/Präsentation/Age and Mental Status of Exonerated Defendants Who Falsely Confess Table.pdf",
     "Seminarfach/Expose/Exemplarische Datensammlung.md",
     "Deutsch/Gedichtanalyse/Barok.md",
     "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Materialismus und Idealismus.md",
