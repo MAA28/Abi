@@ -18,6 +18,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "7d1f30126e86f857",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfbf2db020d8e361",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2012-2022.png"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cc65e00363902932",
@@ -156,10 +173,10 @@
   },
   "active": "30e870c4d78b958d",
   "lastOpenFiles": [
-    "Seminarfach/Facharbeit/Kraftwerksliste2022.pdf",
     "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2012-2022.png",
-    "Geschichte/China/Begegnungen zwischen Europäern anderen Völkern Chinas.md",
     "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2011.png",
+    "Seminarfach/Facharbeit/Kraftwerksliste2022.pdf",
+    "Geschichte/China/Begegnungen zwischen Europäern anderen Völkern Chinas.md",
     "Seminarfach/Facharbeit/main.py",
     "Seminarfach/Facharbeit/Kraftwerksliste_2022.xlsx",
     "Seminarfach/Facharbeit/Hatte Lenin doch Recht?.odt",
@@ -172,7 +189,6 @@
     "Seminarfach/Präsentation/Pasted image 20221006164057.png",
     "Seminarfach/Präsentation/MIndmap.md",
     "Seminarfach/Präsentation/Garrett_101-395.pdf",
-    "Seminarfach/Präsentation/Age and Mental Status of Exonerated Defendants Who Falsely Confess Table.pdf",
     "Seminarfach/Expose/Exemplarische Datensammlung.md",
     "Deutsch/Gedichtanalyse/Barok.md",
     "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Materialismus und Idealismus.md",
