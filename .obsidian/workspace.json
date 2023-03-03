@@ -16,8 +16,19 @@
                 "file": "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2011.png"
               }
             }
+          },
+          {
+            "id": "c1e4495e7b569f92",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "7d1f30126e86f857",
@@ -171,7 +182,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "30e870c4d78b958d",
+  "active": "c1e4495e7b569f92",
   "lastOpenFiles": [
     "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2012-2022.png",
     "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2011.png",
