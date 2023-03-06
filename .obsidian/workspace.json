@@ -4,35 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "9f77ac80d960471a",
+        "id": "a62cf4e1e400f0e5",
         "type": "tabs",
         "children": [
           {
-            "id": "349f0a3d150b0b34",
+            "id": "30e870c4d78b958d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Politik & Wirtschaft/Planwirtschaft und Marktwirtschaft.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "9c98bd207c326b6f",
+        "type": "tabs",
+        "children": [
           {
-            "id": "53941f9260608d4b",
+            "id": "972921987249aab1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Philosophie/Der Mensch ist ein Prothesengott geworden.md",
-                "mode": "source",
-                "source": false
+                "file": "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2011.png"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 712.5
   },
   "right": {
     "id": "cc65e00363902932",
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophie/Der Mensch ist ein Prothesengott geworden.md",
+                "file": "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2011.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophie/Der Mensch ist ein Prothesengott geworden.md",
+                "file": "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2011.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophie/Der Mensch ist ein Prothesengott geworden.md"
+                "file": "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2011.png"
               }
             }
           },
@@ -170,26 +168,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "53941f9260608d4b",
+  "active": "972921987249aab1",
   "lastOpenFiles": [
     "Politik & Wirtschaft/Planwirtschaft und Marktwirtschaft.md",
     "Philosophie/Der Mensch ist ein Prothesengott geworden.md",
+    "Seminarfach/Facharbeit/lu71614c4yo.tmp",
+    "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2010.png",
     "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2012-2022.png",
     "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2011.png",
+    "Seminarfach/Facharbeit/lu54823p4ol.tmp",
+    "Seminarfach/Facharbeit/lu54823p4em.tmp",
+    "Seminarfach/Facharbeit/lu54823p08n.tmp",
+    "Seminarfach/Facharbeit/lu54823ozvs.tmp",
+    "Seminarfach/Facharbeit/lu54823ozj4.tmp",
     "Seminarfach/Facharbeit/Kraftwerksliste2022.pdf",
+    "Seminarfach/Facharbeit/lu3127xjb8.tmp",
+    "Seminarfach/Facharbeit/lu3127xj9b.tmp",
+    "Seminarfach/Facharbeit/lu3127xf14.tmp",
     "Geschichte/China/Begegnungen zwischen Europäern anderen Völkern Chinas.md",
-    "Seminarfach/Facharbeit/main.py",
-    "Seminarfach/Facharbeit/Kraftwerksliste_2022.xlsx",
-    "Seminarfach/Facharbeit/Hatte Lenin doch Recht?.odt",
-    "Seminarfach/Facharbeit/Fragebogen.docx",
-    "Seminarfach/Präsentation/dissertation.pdf",
     "Seminarfach/Präsentation/YLAB.md",
-    "Seminarfach/Präsentation/Präsentation.pptx",
-    "Seminarfach/Präsentation/Präsentation.pdf",
-    "Seminarfach/Präsentation/PleaBargainingResearchSummary.pdf",
     "Seminarfach/Präsentation/Pasted image 20221006164057.png",
     "Seminarfach/Präsentation/MIndmap.md",
-    "Seminarfach/Präsentation/Garrett_101-395.pdf",
     "Seminarfach/Expose/Exemplarische Datensammlung.md",
     "Deutsch/Gedichtanalyse/Barok.md",
     "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Materialismus und Idealismus.md",
