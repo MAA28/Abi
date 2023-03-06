@@ -4,43 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a62cf4e1e400f0e5",
+        "id": "9f77ac80d960471a",
         "type": "tabs",
         "children": [
           {
-            "id": "30e870c4d78b958d",
+            "id": "349f0a3d150b0b34",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2011.png"
-              }
-            }
-          },
-          {
-            "id": "c1e4495e7b569f92",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "7d1f30126e86f857",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cfbf2db020d8e361",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2012-2022.png"
+                "file": "Politik & Wirtschaft/Planwirtschaft und Marktwirtschaft.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -94,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cc65e00363902932",
@@ -111,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2011.png",
+                "file": "Politik & Wirtschaft/Planwirtschaft und Marktwirtschaft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2011.png",
+                "file": "Politik & Wirtschaft/Planwirtschaft und Marktwirtschaft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2011.png"
+                "file": "Politik & Wirtschaft/Planwirtschaft und Marktwirtschaft.md"
               }
             }
           },
@@ -182,8 +156,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c1e4495e7b569f92",
+  "active": "349f0a3d150b0b34",
   "lastOpenFiles": [
+    "Politik & Wirtschaft/Planwirtschaft und Marktwirtschaft.md",
     "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2012-2022.png",
     "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2011.png",
     "Seminarfach/Facharbeit/Kraftwerksliste2022.pdf",
