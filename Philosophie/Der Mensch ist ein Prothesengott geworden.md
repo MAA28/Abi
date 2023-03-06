@@ -1,0 +1,1 @@
+Der Mensch hat so viele Wege gefunden seine biologischen "Schwächen" durch "Prothesen" (Technik usw.)  zu überkommen und sich auf ein göttliches Level hinaus zu entwickeln. "Jede hinreichend fortschrittliche Technologie ist von Magie nicht zu unterscheiden."

@@ -1,0 +1,1 @@
+Adam Smith behauptet, dass in einer Marktwirtschaft Menschen frei nach ihrem Eigennutzen handeln und damit angeblich durch eine unsichtbare Hand dazu gebracht werden im Gemeinwohl zuhandeln.
