@@ -6,4 +6,4 @@ Don't retell the plot! (No: He says... and then she says...)
 Be as concise as possible, be as detailed as necessary!
 A reader who does not know the original text needs to understand it by reading your summary.
 # Excerpt from Kiley Reid
-Emira and Brair gets approched by he security guards. They are questioned by the guard probably due to Emiras dark skin tone about their were-abouts. A elderly women starts looking at the interaction scepticaly. 
+Emira and Brair gets approched by he security guards. They are questioned by the guard probably due to Emiras dark skin tone about their were-abouts. A elderly women starts looking at the interaction sceptically. The situation seems quite uncomftable to Emira.
