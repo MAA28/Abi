@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9f77ac80d960471a",
+        "id": "8a0a9370304e1cf5",
         "type": "tabs",
         "children": [
           {
-            "id": "349f0a3d150b0b34",
+            "id": "71948ef4fbfdf38f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Politik & Wirtschaft/Planwirtschaft und Marktwirtschaft.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53941f9260608d4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Philosophie/Der Mensch ist ein Prothesengott geworden.md",
+                "file": "English/Exams/Summary.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cc65e00363902932",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophie/Der Mensch ist ein Prothesengott geworden.md",
+                "file": "English/Exams/Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophie/Der Mensch ist ein Prothesengott geworden.md",
+                "file": "English/Exams/Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophie/Der Mensch ist ein Prothesengott geworden.md"
+                "file": "English/Exams/Summary.md"
               }
             }
           },
@@ -170,8 +156,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "53941f9260608d4b",
+  "active": "71948ef4fbfdf38f",
   "lastOpenFiles": [
+    "English/Exams",
+    "English/Exams/Summary.md",
     "Politik & Wirtschaft/Planwirtschaft und Marktwirtschaft.md",
     "Philosophie/Der Mensch ist ein Prothesengott geworden.md",
     "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2012-2022.png",
