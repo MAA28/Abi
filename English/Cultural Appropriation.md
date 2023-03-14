@@ -5,7 +5,8 @@
 # What is cultural appropriation?
 +  A member of a majority group profiting financially or socially from the culture of a minority group.
 + Appreciation is referencing the original creators and being acustom with the historical context
-+ When 
++ Using a culture while not understanding it
++ 
 
 # Write down arguments why white people should not wear costumes from other cultures.
 
