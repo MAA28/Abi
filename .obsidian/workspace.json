@@ -30,8 +30,19 @@
                 "file": "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2011.png"
               }
             }
+          },
+          {
+            "id": "c069e19ca7ae8dc9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,7 +179,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "972921987249aab1",
+  "active": "c069e19ca7ae8dc9",
   "lastOpenFiles": [
     "Politik & Wirtschaft/Planwirtschaft und Marktwirtschaft.md",
     "Philosophie/Der Mensch ist ein Prothesengott geworden.md",
