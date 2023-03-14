@@ -13,5 +13,5 @@
 | 23-02-16           | to not be the sharpest knife in the drawer                                 | nicht die hellste Kerze auf der Torte   |
 | 23-02-16           | to be in a quandary                                                        | sich in der Zwickmühle                  |
 | 23-03-14           | out of his league                                                          | Eine Nummer zu gross sein               |
-| 23-03-14           | across the board                                                           | durch die Bank                      |
-| 23-03-14           | this is a long shot                                                        |                                         |
+| 23-03-14           | across the board                                                           | durch die Bank                          |
+| 23-03-14           | this is a long shot                                                        | ein hoffnungsloser Fall                 |
