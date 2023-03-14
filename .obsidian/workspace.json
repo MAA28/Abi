@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6d381d7ed0a4d257",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Idioms.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/Idioms.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Idioms.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -156,22 +169,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ca418e8566875775",
+  "active": "6d381d7ed0a4d257",
   "lastOpenFiles": [
     "English/Idioms.md",
+    "conflict-files-obsidian-git.md",
+    "Informatik/Huffman Codierung.odt",
+    "English/Exams/Summary.md",
+    "English/Exams",
     "Klausurenplan.pdf",
     "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2011- Pareto.png",
-    "English/Exams/Summary.md",
     "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2011.png",
     "Seminarfach/Facharbeit/Kraftwerksliste2022.pdf",
     "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2012-2022- Pareto.png",
     "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2012-2022.png",
     "Seminarfach/Facharbeit/Gewinnentwicklung.png",
-    "conflict-files-obsidian-git.md",
     "Seminarfach/Facharbeit/Hatte Lenin doch Recht?.docx",
     "Seminarfach/Facharbeit/Anlagebetreiber nach Leistung im Jahresvergleich.png",
     "Stundenplan.md",
-    "English/Exams",
     "Politik & Wirtschaft/Planwirtschaft und Marktwirtschaft.md",
     "Philosophie/Der Mensch ist ein Prothesengott geworden.md",
     "Geschichte/China/Begegnungen zwischen Europäern anderen Völkern Chinas.md",
@@ -181,7 +195,6 @@
     "Seminarfach/Facharbeit/Fragebogen.docx",
     "Seminarfach/Präsentation/dissertation.pdf",
     "Seminarfach/Präsentation/YLAB.md",
-    "Seminarfach/Präsentation/Präsentation.pptx",
     "Seminarfach/Präsentation/Pasted image 20221006164057.png",
     "Seminarfach/Präsentation/MIndmap.md",
     "Seminarfach/Expose/Exemplarische Datensammlung.md",
