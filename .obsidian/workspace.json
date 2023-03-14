@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6a0f72170c47b3f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/Idioms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cc65e00363902932",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Exams/Summary.md",
+                "file": "English/Idioms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/Exams/Summary.md",
+                "file": "English/Idioms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Exams/Summary.md"
+                "file": "English/Idioms.md"
               }
             }
           },
@@ -157,10 +169,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "71948ef4fbfdf38f",
+  "active": "6a0f72170c47b3f0",
   "lastOpenFiles": [
-    "Stundenplan.md",
+    "conflict-files-obsidian-git.md",
     "English/Exams/Summary.md",
+    "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2012-2022- Pareto.png",
+    "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2011- Pareto.png",
+    "Seminarfach/Facharbeit/Hatte Lenin doch Recht?.docx",
+    "Seminarfach/Facharbeit/Gewinnentwicklung.png",
+    "Seminarfach/Facharbeit/Anlagebetreiber nach Leistung im Jahresvergleich.png",
+    "Stundenplan.md",
     "English/Exams",
     "Politik & Wirtschaft/Planwirtschaft und Marktwirtschaft.md",
     "Philosophie/Der Mensch ist ein Prothesengott geworden.md",
@@ -176,7 +194,6 @@
     "Seminarfach/Präsentation/YLAB.md",
     "Seminarfach/Präsentation/Präsentation.pptx",
     "Seminarfach/Präsentation/Präsentation.pdf",
-    "Seminarfach/Präsentation/PleaBargainingResearchSummary.pdf",
     "Seminarfach/Präsentation/Pasted image 20221006164057.png",
     "Seminarfach/Präsentation/MIndmap.md",
     "Seminarfach/Expose/Exemplarische Datensammlung.md",
@@ -184,7 +201,6 @@
     "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Materialismus und Idealismus.md",
     "Geschichte/China/Zeit des großen Wegs vs Zeit der Sitten und des Rechts.md",
     "Deutsch/Gedichtanalyse/Formale Analysemethoden.md",
-    "conflict-files-obsidian-git.md",
     "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Marie - Drama vs Film.md",
     "Politik & Wirtschaft/Ziele der Wirtschaftsordnung.md",
     "Politik & Wirtschaft/Sachurteil - Rolle der Medien in einer Demokratie.md",

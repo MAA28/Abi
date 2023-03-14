@@ -9,6 +9,9 @@
 | 22-10-13           | shame spiral                                                               | sich immer weiter schämen               |
 | 22-10-13           | to keep someone at arms length                                             | sich jemanden vom Leibe halten          |
 | 22-10-13           | to barke up the wrong tree                                                 | auf dem Holzweg sein                    |
-| 23-02-16           | a kick in the teeth                                                        | wie ein Schlag ins Gesicht                                        |
-| 23-02-16           | to not be the sharpest knife in the drawer                                 | nicht die hellste Kerze auf der Torte              |
-| 23-02-16           | to be in a quandary                                                        | sich in der Zwickmühle                                         |
+| 23-02-16           | a kick in the teeth                                                        | wie ein Schlag ins Gesicht              |
+| 23-02-16           | to not be the sharpest knife in the drawer                                 | nicht die hellste Kerze auf der Torte   |
+| 23-02-16           | to be in a quandary                                                        | sich in der Zwickmühle                  |
+| 23-03-14           | out of his league                                                          | Eine Nummer zu gross sein               |
+| 23-03-14           | across the board                                                           | durch die Bank                      |
+| 23-03-14           | this is a long shot                                                        |                                         |
