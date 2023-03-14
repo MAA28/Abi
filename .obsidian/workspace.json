@@ -25,15 +25,25 @@
               "state": {
                 "file": "Untitled.canvas",
                 "viewState": {
-                  "x": 980.3648195787534,
-                  "y": 407.1872056859337,
+                  "x": 735.1048397396866,
+                  "y": 382.5007209575401,
                   "zoom": -0.2488687007276702
                 }
               }
             }
+          },
+          {
+            "id": "c3b41be374623db9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-03-14 16.51.06.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Excalidraw/Drawing 2023-03-14 16.51.06.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Excalidraw/Drawing 2023-03-14 16.51.06.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Excalidraw/Drawing 2023-03-14 16.51.06.excalidraw.md"
               }
             }
           },
@@ -167,12 +177,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c069e19ca7ae8dc9",
+  "active": "c3b41be374623db9",
   "lastOpenFiles": [
     "Untitled.canvas",
+    "Excalidraw/Drawing 2023-03-14 16.51.06.excalidraw.md",
+    "Excalidraw",
     "Noten.md",
     "Informatik/Huffman Codierung.odt",
     "English/Exams/Summary.md",
@@ -190,7 +203,6 @@
     "Seminarfach/Facharbeit/lu54823ozvs.tmp",
     "Seminarfach/Facharbeit/lu54823ozj4.tmp",
     "Seminarfach/Facharbeit/Kraftwerksliste2022.pdf",
-    "Seminarfach/Facharbeit/lu3127xjb8.tmp",
     "Geschichte/China/Begegnungen zwischen Europäern anderen Völkern Chinas.md",
     "Seminarfach/Präsentation/YLAB.md",
     "Seminarfach/Präsentation/Pasted image 20221006164057.png",
