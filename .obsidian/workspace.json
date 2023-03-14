@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e4a9641daa11f075",
+        "id": "43d8a4b37826d5e3",
         "type": "tabs",
         "children": [
           {
-            "id": "ca418e8566875775",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Idioms.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c34efabeb3a06913",
+            "id": "91df1a08422ff83d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,10 +156,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c34efabeb3a06913",
+  "active": "91df1a08422ff83d",
   "lastOpenFiles": [
-    "English/Idioms.md",
+    "Untitled.canvas",
+    "Noten.md",
     "English/Cultural Appropriation.md",
+    "Untitled",
+    "English/Idioms.md",
     "conflict-files-obsidian-git.md",
     "Informatik/Huffman Codierung.odt",
     "English/Exams/Summary.md",
@@ -194,7 +184,6 @@
     "Seminarfach/Facharbeit/Kraftwerksliste_2022.xlsx",
     "Seminarfach/Facharbeit/Hatte Lenin doch Recht?.odt",
     "Seminarfach/Facharbeit/Fragebogen.docx",
-    "Seminarfach/Präsentation/dissertation.pdf",
     "Seminarfach/Präsentation/YLAB.md",
     "Seminarfach/Präsentation/Pasted image 20221006164057.png",
     "Seminarfach/Präsentation/MIndmap.md",
@@ -206,7 +195,6 @@
     "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Marie - Drama vs Film.md",
     "Politik & Wirtschaft/Ziele der Wirtschaftsordnung.md",
     "Politik & Wirtschaft/Sachurteil - Rolle der Medien in einer Demokratie.md",
-    "Untitled.canvas",
     "Geschichte/Amerikanische Revolution/Zeitleiste Verlauf Unabhängigkeitskrieg.md",
     "Seminarfach/Untitled.md"
   ]
