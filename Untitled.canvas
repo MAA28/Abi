@@ -1,9 +1,9 @@
 {
 	"nodes":[
 		{"type":"file","file":"Stundenplan.md","id":"ab400f43fe6f715b","x":-420,"y":-200,"width":880,"height":600},
-		{"type":"file","file":"Raumplan.pdf","id":"ff3b71351d813689","x":1203,"y":-258,"width":357,"height":238},
 		{"type":"file","file":"Kurswahl.pdf","id":"27241bde2b226e02","x":326,"y":597,"width":414,"height":343},
-		{"type":"file","file":"Noten.md","id":"bac0d1d652e739d7","x":832,"y":267,"width":400,"height":400}
+		{"type":"file","file":"Noten.md","id":"bac0d1d652e739d7","x":832,"y":267,"width":400,"height":400},
+		{"type":"file","file":"Raumplan.pdf","id":"ff3b71351d813689","x":675,"y":-319,"width":725,"height":519}
 	],
 	"edges":[
 		{"id":"b0db0bb497be1dd2","fromNode":"ab400f43fe6f715b","fromSide":"right","toNode":"ff3b71351d813689","toSide":"left"},

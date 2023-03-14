@@ -4,22 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "43d8a4b37826d5e3",
+        "id": "9c98bd207c326b6f",
         "type": "tabs",
         "children": [
           {
-            "id": "91df1a08422ff83d",
+            "id": "972921987249aab1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "English/Cultural Appropriation.md",
-                "mode": "source",
-                "source": false
+                "file": "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2011.png"
+              }
+            }
+          },
+          {
+            "id": "c069e19ca7ae8dc9",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 980.3648195787534,
+                  "y": 407.1872056859337,
+                  "zoom": -0.2488687007276702
+                }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 712.5
   },
   "right": {
     "id": "cc65e00363902932",
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Cultural Appropriation.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/Cultural Appropriation.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Cultural Appropriation.md"
+                "file": "Untitled.canvas"
               }
             }
           },
@@ -157,34 +170,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "91df1a08422ff83d",
+  "active": "c069e19ca7ae8dc9",
   "lastOpenFiles": [
     "Untitled.canvas",
-    "English/Cultural Appropriation.md",
     "Noten.md",
-    "Untitled",
-    "English/Idioms.md",
-    "conflict-files-obsidian-git.md",
     "Informatik/Huffman Codierung.odt",
     "English/Exams/Summary.md",
     "English/Exams",
-    "Klausurenplan.pdf",
-    "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2011- Pareto.png",
-    "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2011.png",
-    "Seminarfach/Facharbeit/Kraftwerksliste2022.pdf",
-    "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2012-2022- Pareto.png",
-    "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2012-2022.png",
-    "Seminarfach/Facharbeit/Gewinnentwicklung.png",
-    "Seminarfach/Facharbeit/Hatte Lenin doch Recht?.docx",
-    "Seminarfach/Facharbeit/Anlagebetreiber nach Leistung im Jahresvergleich.png",
-    "Stundenplan.md",
+    "English/Cultural Appropriation.md",
     "Politik & Wirtschaft/Planwirtschaft und Marktwirtschaft.md",
     "Philosophie/Der Mensch ist ein Prothesengott geworden.md",
+    "Seminarfach/Facharbeit/lu71614c4yo.tmp",
+    "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2010.png",
+    "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2012-2022.png",
+    "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2011.png",
+    "Seminarfach/Facharbeit/lu54823p4ol.tmp",
+    "Seminarfach/Facharbeit/lu54823p4em.tmp",
+    "Seminarfach/Facharbeit/lu54823p08n.tmp",
+    "Seminarfach/Facharbeit/lu54823ozvs.tmp",
+    "Seminarfach/Facharbeit/lu54823ozj4.tmp",
+    "Seminarfach/Facharbeit/Kraftwerksliste2022.pdf",
+    "Seminarfach/Facharbeit/lu3127xjb8.tmp",
     "Geschichte/China/Begegnungen zwischen Europäern anderen Völkern Chinas.md",
-    "Seminarfach/Facharbeit/main.py",
-    "Seminarfach/Facharbeit/Kraftwerksliste_2022.xlsx",
-    "Seminarfach/Facharbeit/Hatte Lenin doch Recht?.odt",
-    "Seminarfach/Facharbeit/Fragebogen.docx",
     "Seminarfach/Präsentation/YLAB.md",
     "Seminarfach/Präsentation/Pasted image 20221006164057.png",
     "Seminarfach/Präsentation/MIndmap.md",
@@ -193,10 +200,12 @@
     "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Materialismus und Idealismus.md",
     "Geschichte/China/Zeit des großen Wegs vs Zeit der Sitten und des Rechts.md",
     "Deutsch/Gedichtanalyse/Formale Analysemethoden.md",
+    "conflict-files-obsidian-git.md",
     "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Marie - Drama vs Film.md",
     "Politik & Wirtschaft/Ziele der Wirtschaftsordnung.md",
     "Politik & Wirtschaft/Sachurteil - Rolle der Medien in einer Demokratie.md",
     "Geschichte/Amerikanische Revolution/Zeitleiste Verlauf Unabhängigkeitskrieg.md",
+    "Stundenplan.md",
     "Seminarfach/Untitled.md"
   ]
 }
