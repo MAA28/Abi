@@ -36,9 +36,11 @@
             "id": "c3b41be374623db9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-14 16.51.06.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-03-14 16.51.06.excalidraw.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -183,8 +185,8 @@
   },
   "active": "c3b41be374623db9",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "Excalidraw/Drawing 2023-03-14 16.51.06.excalidraw.md",
+    "Untitled.canvas",
     "Excalidraw",
     "Noten.md",
     "Informatik/Huffman Codierung.odt",
