@@ -4,5 +4,5 @@
 	+ Gesundheitswesen
 	+ Aufwendungen für Bildung und Forschung
 	+ Schutz gegen wachsende Verschlechterung vieler Umweltbedingungen
-	+ Städtebauförderung
+	+ Städtaufbauförderung
 + Marktwirtschaftliche Prinzipien sozial angehaucht auch in Zukunft sichern
