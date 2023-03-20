@@ -4,22 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "aa10f56c80f1fef1",
-        "type": "tabs",
+        "id": "cf726de0da77580b",
+        "type": "split",
         "children": [
           {
-            "id": "269066e5b7d3e676",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Politik & Wirtschaft/Ziele der Sozialen Marktwirtschaft.md",
-                "mode": "source",
-                "source": false
+            "id": "aa10f56c80f1fef1",
+            "type": "tabs",
+            "dimension": 25.82322357019064,
+            "children": [
+              {
+                "id": "269066e5b7d3e676",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Politik & Wirtschaft/Ziele der Sozialen Marktwirtschaft.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "624ba68f8a6e795b",
+            "type": "tabs",
+            "dimension": 74.17677642980935,
+            "children": [
+              {
+                "id": "eb123acaf65e3363",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {}
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
