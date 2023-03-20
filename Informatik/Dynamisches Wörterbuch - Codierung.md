@@ -1,0 +1,2 @@
+Wir kodieren das Wort "ente":
+Bei jedem Buchstabe gucken wir in unser dynamisches Wörterbuch und gucken ob wir diesen Buchstaben und den Buchstaben davor schon in dem Wörterbuch haben. Wenn ja fügen wir den Index des Eintrags hinzu, wenn nicht fügen wir das Bigram in das Wörterbuch hinzu und speichern den Buchstaben einfach mit seinem ASCII-Code.  
