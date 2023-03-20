@@ -1,3 +1,5 @@
++ Markt ist dynamisch
++ soziale Fortschirtte neben Wirtschaftsinteresse
 + Gesellschaftspolitik um die Lebenszustände für alle zu verbessern
 	+ Erweiterung der Vermögensbildung
 	+ Verbesserung der Investitionen im Bereich Verkehr
