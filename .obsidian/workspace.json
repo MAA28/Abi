@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "eb3acd17162961ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Politik & Wirtschaft/Ziele der Sozialen Marktwirtschaft.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 237.5110321044922
   },
   "right": {
     "id": "cc65e00363902932",
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Dynamisches Wörterbuch - Codierung.md",
+                "file": "Politik & Wirtschaft/Ziele der Sozialen Marktwirtschaft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatik/Dynamisches Wörterbuch - Codierung.md",
+                "file": "Politik & Wirtschaft/Ziele der Sozialen Marktwirtschaft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Dynamisches Wörterbuch - Codierung.md"
+                "file": "Politik & Wirtschaft/Ziele der Sozialen Marktwirtschaft.md"
               }
             }
           },
@@ -170,10 +182,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b2851e554f23d1d6",
+  "active": "eb3acd17162961ea",
   "lastOpenFiles": [
-    "English/Violet - Character Analysis.md",
     "Informatik/Dynamisches Wörterbuch - Codierung.md",
+    "Politik & Wirtschaft/Ziele der Sozialen Marktwirtschaft.md",
+    "English/Violet - Character Analysis.md",
     "conflict-files-obsidian-git.md",
     "Deutsch/Gedichtanalyse/Abend - Gryphius.md",
     "Stundenplan.md",
