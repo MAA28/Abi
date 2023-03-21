@@ -4,7 +4,12 @@ Violet is a albinistic character from Nafissa Thompson-Spire's short story "Fati
 
 Violet posses a distinct appearance with green eyes, blond hair, a big chest, and a "bubble butt" (ll.141-143) this in addition to tallness of five feet eight inches (ca. 1.7 m) lead to her being compared to Pamela Anderson's. Nonetheless she has self-confidence, sociability, and a high self-esteem. An example of that would be her directness with the salesgirl in the store (ll.87). Her confidence shows that she doesn't care about what others think of her.
 
-Violet feels responsible for Fatima's transformation. She plans to teach her about her origin and teach her how to flirt better (ll.170, 328). Her ==telling== Fatima about her insecurities, shows the   Her honest and open character is evident from the fact that she trusts Fatima with everything, as seen when she tells her about her insecurities in great detail (ll.280 ff).
+Violet feels responsible for Fatima's transformation. She plans to teach her about her origin and teach her how to flirt better (ll.170, 328). Her ==telling== Fatima about her insecurities, shows her open and honest character. (ll.280 ff).
+_ihhhioi_ 
+| A   | B   | C   |
+| --- | --- | --- |
+| asd | asd | asd    |
+| --- | |  |
 
 Violet stands up against racism, as she can't stand the behavior of some "cocky" white people and their prejudices (ll.249f). In the passage where Fatima lies to her about not being free for the weekend, Violet shows her honesty and openness by believing her instantly without questioning anything she said (ll.412-424).
 
