@@ -1,0 +1,1 @@
+Ein Mensch bei dem so viele Teile ausgetauscht wurden, dass er eher Roboter als Mensch ist. Ein bisschen wie bei dem Schiff von Theseus. 
