@@ -1,0 +1,1 @@
+Eine Besonderheit des Klimawandels ist, dass die Verantwortung  
