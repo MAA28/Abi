@@ -1,1 +1,3 @@
-Eine Besonderheit des Klimawandels ist, dass das Problem einen hohen Grad an Kooperation unter den Nationen der Welt verlangt, welche jedoch unter den Herrschenden fast aller Nation auf starken Widerstand trifft. Wie zum Beispiel in Deutschland wo die Emissionsziele für 2020 und 2030, die sich die Herrschenden g
+Eine Besonderheit des Klimawandels ist, dass das Problem einen hohen Grad an Kooperation unter den Nationen der Welt verlangt, welche jedoch unter den Herrschenden fast aller Nation auf starken Widerstand trifft. Wie zum Beispiel in Deutschland wo die Emissionsziele für 2020 und 2030, die sich die Herrschenden gegeben haben nicht einmal das Notwendige maß an Reduktion anstreben und selbst diese Ziele werden wiederholt verfehlt.
+
+Der Klimawandel verlangt außerdem ein weit vorrausschauendes Handeln, welches in starkem Konflikt steht mit der 
