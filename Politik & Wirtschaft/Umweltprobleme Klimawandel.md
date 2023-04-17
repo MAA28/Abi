@@ -4,4 +4,4 @@ Der Klimawandel verlangt außerdem ein weit vorrausschauendes Handeln, welches i
 
 Ein weiteres Merkmal das immer wieder in dem Diskurs und den Handlungen um dieses Problem aufkommt ist, dass die schlimmsten und frühsten Konsequenzen des Klimawandels in jenen Region auftauchen, welche auch in vielen anderes Aspekten die Opfer der imperialistischen Industrienationen Europas und Nordamerikas  sind. Beispielsweise werden vermutlich, laut M1, vor Allem die Völker Nordafrikas und Lateinamerikas unter einem Mangel an landwirtschaftlichen Ressourcen leiden. Dazu kommt das in vergangenen Mangeln in den Wirtschaften des imperialistischen Kerns, Ressourcen aus gerade diesen Ländern Europa und Nordamerika importiert werden und so den Völkern Vorort lebensnotwendige Ressourcen entreißen.
 
-Was jedoch 
+Bei eindruckend ist jedoch in dieser Krise wie die Wissenschaftlichen Komitees selbst der imperialistischen Nationen im Angesicht der Lage in der sich der Planet und seine Umwelt befinden sehr politische und oft sogar radikale Forderungen stellen, teilweise sogar der kapitalistischen Produktionsweise die Hauptschuld an diesen Entwicklung  
