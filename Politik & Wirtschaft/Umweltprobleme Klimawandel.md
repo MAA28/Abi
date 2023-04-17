@@ -1,1 +1,1 @@
-Eine Besonderheit des Klimawandels ist, dass die Verantwortung  
+Eine Besonderheit des Klimawandels ist, dass das Problem einen hohen Grad an Kooperation unter den Nationen der Welt verlangt, welche jedoch unter den Herrschenden fast aller Nation auf starken Widerstand trifft. Wie zum Beispiel in Deutschland wo die Emissionsziele für 2020 und 2030, die sich die Herrschenden g
