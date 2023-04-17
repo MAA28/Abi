@@ -2,4 +2,4 @@ Eine Besonderheit des Klimawandels ist, dass das Problem einen hohen Grad an Koo
 
 Der Klimawandel verlangt außerdem ein weit vorrausschauendes Handeln, welches in starkem Konflikt steht mit dem die Welt dominierenden kapitalistischen Wirtschaftssystem, das versagt im Interesse großer Teile der Bevölkerung über lange Zeiträume zuplanen. Das ist bei weitem keine Besonderheit in diesem Wirtschaftssystem aber ein Merkmal, das viele der Dynamiken um diese Krise dominiert.
 
-Ein weiteres Merkmal das immer wieder in dem Diskurs und den Handlungen um dieses Problem aufkommt ist, dass die schlimmsten und frühsten Konsequenzen des Klimawandels in jenen Region auftauchen, welche auch in vielen anderes Aspekten die Opfer der imperialistischen Industrienationen Europas und Nordamerikas  
+Ein weiteres Merkmal das immer wieder in dem Diskurs und den Handlungen um dieses Problem aufkommt ist, dass die schlimmsten und frühsten Konsequenzen des Klimawandels in jenen Region auftauchen, welche auch in vielen anderes Aspekten die Opfer der imperialistischen Industrienationen Europas und Nordamerikas  sind. Beispielsweise werden, laut M1, vor Allem die Völker Nordafrikas  
