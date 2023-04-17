@@ -1,3 +1,4 @@
 Eine Besonderheit des Klimawandels ist, dass das Problem einen hohen Grad an Kooperation unter den Nationen der Welt verlangt, welche jedoch unter den Herrschenden fast aller Nation auf starken Widerstand trifft. Wie zum Beispiel in Deutschland wo die Emissionsziele für 2020 und 2030, die sich die Herrschenden gegeben haben nicht einmal das Notwendige maß an Reduktion anstreben und selbst diese Ziele werden wiederholt verfehlt.
 
-Der Klimawandel verlangt außerdem ein weit vorrausschauendes Handeln, welches in starkem Konflikt steht mit der 
+Der Klimawandel verlangt außerdem ein weit vorrausschauendes Handeln, welches in starkem Konflikt steht mit dem die Welt dominierenden kapitalistischen Wirtschaftssystem, das versagt im Interesse großer Teile der Bevölkerung über lange Zeiträume zuplanen. Das ist bei weitem keine Besonderheit in diesem Wirtschaftssystem aber ein Merkmal, das viele der Dynamiken um diese Krise dominiert.
+Ein
