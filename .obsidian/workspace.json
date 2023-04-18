@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f43f039a8c79226c",
+        "id": "73c5c4972dc19b97",
         "type": "tabs",
         "children": [
           {
-            "id": "dfcd157d13f5e5f6",
+            "id": "58e96f7a8cc72df9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Politik & Wirtschaft/Umweltprobleme Klimawandel.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cc65e00363902932",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Politik & Wirtschaft/Umweltprobleme Klimawandel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Politik & Wirtschaft/Umweltprobleme Klimawandel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Politik & Wirtschaft/Umweltprobleme Klimawandel.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,10 +149,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dfcd157d13f5e5f6",
+  "active": "58e96f7a8cc72df9",
   "lastOpenFiles": [
-    "English/Family Values.md",
     "Politik & Wirtschaft/Umweltprobleme Klimawandel.md",
+    "English/Family Values.md",
     "English/Working with participles - What is wrong here???.md",
     "English/Violet - Character Analysis.md",
     "Philosophie/Cyborg.md",
