@@ -23,8 +23,12 @@
             "id": "6c75a8d1271f88a2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Geschichte/Open door Policy.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -78,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cc65e00363902932",
@@ -94,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Geschichte/Open door Policy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Geschichte/Open door Policy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Geschichte/Open door Policy.md"
+              }
             }
           },
           {
@@ -164,6 +173,7 @@
   },
   "active": "6c75a8d1271f88a2",
   "lastOpenFiles": [
+    "Geschichte/Open door Policy.md",
     "Politik & Wirtschaft/Lösung zum Klimawandel.md",
     "Politik & Wirtschaft/Umweltprobleme Klimawandel.md",
     "English/Family Values.md",
@@ -207,7 +217,6 @@
     "Seminarfach/Präsentation/Pasted image 20221006164057.png",
     "Seminarfach/Präsentation/MIndmap.md",
     "Seminarfach/Expose/Exemplarische Datensammlung.md",
-    "Deutsch/Gedichtanalyse/Barok.md",
-    "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Materialismus und Idealismus.md"
+    "Deutsch/Gedichtanalyse/Barok.md"
   ]
 }
