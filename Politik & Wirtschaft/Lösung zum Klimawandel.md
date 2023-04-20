@@ -1,1 +1,1 @@
-Wieder und wieder haben die Herrschenden der Kapitalistischen Länder die Profitrate über die Gesundheit der Menschen und ihrer Umwelt. Es ist wahr das auch die realsozialistischen Staaten nicht mit ruhm bekleckert haben was die
+Wieder und wieder haben die Herrschenden der Kapitalistischen Länder die Profitrate über die Gesundheit der Menschen und ihrer Umwelt. Es ist wahr das auch die realsozialistischen Staaten nicht mit ruhm bekleckert haben was die Umwelt-Thematik angeht, aber sie haben vor Allem in den hochentwickelten 
