@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6c75a8d1271f88a2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Politik & Wirtschaft/Lösung zum Klimawandel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Politik & Wirtschaft/Lösung zum Klimawandel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Politik & Wirtschaft/Lösung zum Klimawandel.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,7 +162,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "58e96f7a8cc72df9",
+  "active": "6c75a8d1271f88a2",
   "lastOpenFiles": [
     "Politik & Wirtschaft/Lösung zum Klimawandel.md",
     "Politik & Wirtschaft/Umweltprobleme Klimawandel.md",
