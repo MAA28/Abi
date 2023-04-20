@@ -1,0 +1,1 @@
+Wieder und wieder haben die Herrschenden der Kapitalistischen Länder die Profitrate über die 
