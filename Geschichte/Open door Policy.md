@@ -5,3 +5,5 @@
 + Konkurrenz um China der europäschen Mächte und Japan beenden
 + Eigenen Marktanteil sichern
 + "informeller Imperialismus" -> Kontrolle über Wirtschaft und Politik durch Verträge (in der Regel ungleiche Verträge)
+# Karikatur
+Die US-amerikanische Karikatur "Uncle Sam öffnet die Tür nach China, und England und Russland schauen zu"
