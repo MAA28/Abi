@@ -7,4 +7,4 @@
 + *Interessenvertretung*
 + allumfassend
 # These
-__Der Realismus ist das Schaffen von Kunst aus der Gesamtheit des Lebens__. Dabei soll diese Kunst auch eben dieses Leben kreative und künstlerisch darstellen wie es ist.
+__Der Realismus ist das Schaffen von Kunst aus der Gesamtheit des Lebens__. Dabei soll diese Kunst auch eben dieses Leben künstlerisch und schön darstellen.
