@@ -3,8 +3,8 @@
 + Bildend
 + Beschränkt
 ## Was ist Realismus?
-+ Wiederspiegelung des wirklichen Lebens
++ Widerspiegelung des wirklichen Lebens
 + *Interessenvertretung*
 + allumfassend
 # These
-Der Realismus ist das Schaffen von Kunst aus der Gesamtheit des Lebens. Dabei soll diese Kunst
+__Der Realismus ist das Schaffen von Kunst aus der Gesamtheit des Lebens__. Dabei soll diese Kunst auch eben dieses Leben kreative und künstlerisch darstellen wie es ist.
