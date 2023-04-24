@@ -6,5 +6,5 @@
 + Wiederspiegelung des wirklichen Lebens
 + *Interessenvertretung*
 + allumfassend
-
 # These
+Der Realismus ist das Schaffen von Kunst aus der Gesamtheit des Lebens. Dabei soll diese Kunst
