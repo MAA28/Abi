@@ -30,6 +30,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "341ec13dca8e8dbf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -82,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cc65e00363902932",
@@ -172,8 +181,8 @@
   },
   "active": "abf09110d7f3cfcf",
   "lastOpenFiles": [
-    "Deutsch/Gedichtanalyse/Konspekt - Realismus.md",
     "Deutsch/Gedichtanalyse/Brücke am Tay.md",
+    "Deutsch/Gedichtanalyse/Konspekt - Realismus.md",
     "Politik & Wirtschaft/Lösung zum Klimawandel.md",
     "Geschichte/Open door Policy.md",
     "Politik & Wirtschaft/Umweltprobleme Klimawandel.md",
