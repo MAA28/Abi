@@ -31,9 +31,21 @@
                 }
               }
             }
+          },
+          {
+            "id": "3c1edba0e9c91191",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Politik & Wirtschaft/Zeitungsartikel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 712.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cc65e00363902932",
@@ -99,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Politik & Wirtschaft/Zeitungsartikel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Politik & Wirtschaft/Zeitungsartikel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Politik & Wirtschaft/Zeitungsartikel.md"
+              }
             }
           },
           {
@@ -167,8 +184,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b0680ab473732a96",
+  "active": "3c1edba0e9c91191",
   "lastOpenFiles": [
+    "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2011.png",
+    "Politik & Wirtschaft/Zeitungsartikel.md",
     "Excalidraw/Drawing 2023-03-14 16.51.06.excalidraw.md",
     "Untitled.canvas",
     "Excalidraw",
@@ -182,7 +201,6 @@
     "Seminarfach/Facharbeit/lu71614c4yo.tmp",
     "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2010.png",
     "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2012-2022.png",
-    "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2011.png",
     "Seminarfach/Facharbeit/lu54823p4ol.tmp",
     "Seminarfach/Facharbeit/lu54823p4em.tmp",
     "Seminarfach/Facharbeit/lu54823p08n.tmp",
