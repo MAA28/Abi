@@ -12,10 +12,6 @@ class Triangle {
 
   void draw() {
     if (subdivided) {
-      pushMatrix();
-      translate(origin.x, origin.y, origin.z);
-      
-      popMatrix();
       for (Triangle t : children)
         t.draw();
     } else {

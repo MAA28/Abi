@@ -8,6 +8,7 @@ void draw() {
   background(0);
   translate(width / 2, height / 2, 0.0);
   if (mousePressed) {
+    rotateY(radians(45));
      ortho();
   } else {
     rotateY(radians(frameCount / 2.0));
