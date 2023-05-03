@@ -5,4 +5,6 @@ Dagegen hat sich eine Bürgerinitiative organisiert und mit dem BUND, der eine �
 
 Der Bürgermeister Sönke Hartlef (CDU) wiederholt die Leier des Unternehmens: "Wir sind der Meinung, dass es notwendig ist das Kohlekraftwerk zu bauen." Von den Anwohnern verlangt er Verständnis und dass man an einem Strang zeihe. An das Unternehmen hat er keine Konkreten Forderungen, anstatt dessen erwähnt er die Abhängigkeit der Stadt auf die Steuergelder von dem Chemiekonzern.
 
-In einer öffentlichen Verhandlung konnten die Seiten zu keinem Verständnis kommen. Dow's Pressesprecher argumentierte: "Wir müssen auch an uns denken." Das der BUND darauf antwortete, dass der Bau des Kraftwerks "Kinder, Menschen, Tiere und die Umwelt" bedrohen würde, schien weder das Unternehmen noch den Bürgermeister besonders zu interessieren.   
+In einer Bürgerversammlung zu dem Thema konnten die Seiten zu keinem Verständnis kommen. Dow's Pressesprecher argumentierte: "Wir müssen auch an uns denken." Das der BUND darauf antwortete, dass der Bau des Kraftwerks "Kinder, Menschen, Tiere und die Umwelt" bedrohen würde, schien weder das Unternehmen noch den Bürgermeister besonders zu interessieren.
+
+Um trot
