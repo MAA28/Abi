@@ -1,2 +1,2 @@
 # US-Amerikanischer Chemiegroßkonzern will Kohlekraftwerk in Stade "Da ist uns die Umwelt einfach egal!"
-Der Chemiekonzern Dow Chemical plant ein Kraftwerk, welches auf Gas und Biomasse aber vor Allem auf Kohle laufen soll, an seine Fabrik in der Hansestadt Stade an zu bauen. Der Konzern ist einer der Größten in der Region und stellt   
+Der Chemiekonzern Dow Chemical plant ein Kraftwerk, welches auf Gas und Biomasse aber vor Allem auf Kohle laufen soll, an seine Fabrik in der Hansestadt Stade an zu bauen. Der Konzern ist einer der Größten in der Region und stellt x Arbeiter an diesem Standort an. Dow behauptet, dass die Branchen übergreifende Expansion notwendig wäre um den Standort 
