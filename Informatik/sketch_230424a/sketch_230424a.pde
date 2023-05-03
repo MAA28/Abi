@@ -1,6 +1,6 @@
 float phi = radians(25);
 final float x1 = 100;
-final float x_final = 10;
+final float x_final = 5;
 
 void setup() {
   size(600,600);
@@ -9,7 +9,7 @@ void setup() {
 void draw() {
   background(0);
   
-  phi = map(mouseX, 0, width, 0, HALF_PI * 6.0 / 10.0);
+  phi = map(mouseX, 0, width, 0, radians(50));
   
   translate(width / 2, height * 9 / 10);
   scale(1, -1);
