@@ -1,1 +1,2 @@
-# US-Amerikanischer Chemiegroßkonzern will Kohlekraftwerk in Stade, Anwohner wären sich.
+# US-Amerikanischer Chemiegroßkonzern will Kohlekraftwerk in Stade "Da ist uns die Umwelt einfach egal!"
+Der Chemiekonzern Dow Chemical plant ein Kohlekraftwerk an seine Fabrik in der Hansestadt Stade an bauen. 
