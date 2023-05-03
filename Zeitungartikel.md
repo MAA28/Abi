@@ -7,4 +7,4 @@ Der Bürgermeister Sönke Hartlef (CDU) wiederholt die Leier des Unternehmens: "
 
 In einer Bürgerversammlung zu dem Thema konnten die Seiten zu keinem Verständnis kommen. Dow's Pressesprecher argumentierte: "Wir müssen auch an uns denken." Das der BUND darauf antwortete, dass der Bau des Kraftwerks "Kinder, Menschen, Tiere und die Umwelt" bedrohen würde, schien weder das Unternehmen noch den Bürgermeister besonders zu interessieren.
 
-Damit die Profitmarge nicht unter der Energiekrise leiden muss, will der Konzern also die  
+Damit die Profitmarge nicht unter der Energiekrise leiden muss, will der Konzern also die Krise auf dem Rücken der Stader Bevölkerung und Umwelt austragen. Ein Arbeiter von Dow Chemical fasst die Stimmung der Führungsebene passend zusammen: "Da ist \[Dow Chemical\] die Umwelt einfach egal!"

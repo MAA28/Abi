@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "Zeitungartikel.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -87,6 +87,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "32be4ea5d9669748",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
