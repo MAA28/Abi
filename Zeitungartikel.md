@@ -1,0 +1,1 @@
+# US-Amerikanischer Chemiegroßkonzern will Kohlekraftwerk in Stade, Anwohner wären sich.

@@ -35,12 +35,16 @@
             "id": "341ec13dca8e8dbf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Zeitungartikel.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deutsch/Gedichtanalyse/Brücke am Tay.md",
+                "file": "Zeitungartikel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deutsch/Gedichtanalyse/Brücke am Tay.md",
+                "file": "Zeitungartikel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deutsch/Gedichtanalyse/Brücke am Tay.md"
+                "file": "Zeitungartikel.md"
               }
             }
           },
@@ -179,8 +183,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "abf09110d7f3cfcf",
+  "active": "341ec13dca8e8dbf",
   "lastOpenFiles": [
+    "Zeitungartikel.md",
     "Deutsch/Gedichtanalyse/Brücke am Tay.md",
     "Deutsch/Gedichtanalyse/Konspekt - Realismus.md",
     "Politik & Wirtschaft/Lösung zum Klimawandel.md",
@@ -224,7 +229,6 @@
     "Geschichte/China/Begegnungen zwischen Europäern anderen Völkern Chinas.md",
     "Seminarfach/Facharbeit/main.py",
     "Seminarfach/Präsentation/YLAB.md",
-    "Seminarfach/Präsentation/Pasted image 20221006164057.png",
-    "Seminarfach/Präsentation/MIndmap.md"
+    "Seminarfach/Präsentation/Pasted image 20221006164057.png"
   ]
 }
