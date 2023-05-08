@@ -40,16 +40,4 @@ void drawPart(float x, float theta, PVector origin) {
   
   drawPart(s, theta + phi , o1);
   drawPart(s, theta - phi, o2);
-  
-  //pushMatrix();
-  //translate(-x / 4.0, x + k / 2.0);
-  //rotate(phi);
-  //drawPart(d);
-  //popMatrix();
-  
-  //pushMatrix();
-  //translate(x / 4.0, x + k / 2.0);
-  //rotate(-phi);
-  //drawPart(d);
-  //popMatrix();
 }
