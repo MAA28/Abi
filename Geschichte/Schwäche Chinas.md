@@ -1,15 +1,18 @@
--   Äußere Ursachen (Opiumhandel, westliche Aggression)
--   Innere Systemkrise
-    -   Bevölkerungsexplosion
-        -   Auswirkungen auf die Landwirtschaft
-        -   Notwendigkeit von mehr menschlicher Arbeit
-    -   Schwäche des Herrschaftssystems
-        -   Korruption
-    -   Subsistenzkrise
-        -   Mangelnde Verbesserungen in der Landwirtschaft
-    -   Ökologische Krise
-        -   Raubbau an natürlichen Ressourcen
-            -   Zusammenhang zwischen Rodungen und Überschwemmungen
--   Innere Aufstände
-    -   Taiping Revolution (1860-64)
-        -   Motivation: Vertreibung der Mandschu als fremde Barbaren
+- Äußere Ursachen 
+	- Opiumhandel
+	- westliche Aggression
+- Innere Systemkrise
+    - Bevölkerungsexplosion
+        - Auswirkungen auf die Landwirtschaft
+        - Notwendigkeit von mehr menschlicher Arbeit
+    - Schwäche des Herrschaftssystems
+        - Korruption
+        - Junge Kaiser
+    - Subsistenzkrise
+        - Mangelnde Verbesserungen in der Landwirtschaft
+    - Ökologische Krise
+        - Raubbau an natürlichen Ressourcen
+            - Zusammenhang zwischen Rodungen und Überschwemmungen
+- Innere Aufstände
+    - Taiping Revolution (1860-64)
+        - Motivation: Vertreibung der Mandschu als fremde Barbaren
