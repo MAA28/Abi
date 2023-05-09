@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zeitungartikel.md",
-                "mode": "preview",
+                "file": "Geschichte/Untitled.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cc65e00363902932",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zeitungartikel.md",
+                "file": "Geschichte/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zeitungartikel.md",
+                "file": "Geschichte/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zeitungartikel.md"
+                "file": "Geschichte/Untitled.md"
               }
             }
           },
@@ -168,8 +167,10 @@
   },
   "active": "341ec13dca8e8dbf",
   "lastOpenFiles": [
-    "Informatik/sketch_Sierpinski_3D/sketch_Sierpinski_3D.pde18022475472057883015.tmp",
+    "Deutsch/Gedichtanalyse/Abend - Gryphius.md",
+    "Geschichte/Untitled.md",
     "Zeitungartikel.md",
+    "Informatik/sketch_Sierpinski_3D/sketch_Sierpinski_3D.pde18022475472057883015.tmp",
     "Deutsch/Gedichtanalyse/Brücke am Tay.md",
     "Deutsch/Gedichtanalyse/Konspekt - Realismus.md",
     "Politik & Wirtschaft/Lösung zum Klimawandel.md",
@@ -185,7 +186,6 @@
     "Untitled.canvas",
     "Informatik/Dynamisches Wörterbuch - Codierung.md",
     "conflict-files-obsidian-git.md",
-    "Deutsch/Gedichtanalyse/Abend - Gryphius.md",
     "Stundenplan.md",
     "Seminarfach/Facharbeit/Verhältnisgraph.png~",
     "Seminarfach/Facharbeit/Verhältnisgraph.png",
@@ -211,7 +211,6 @@
     "Politik & Wirtschaft/Planwirtschaft und Marktwirtschaft.md",
     "Philosophie/Der Mensch ist ein Prothesengott geworden.md",
     "Geschichte/China/Begegnungen zwischen Europäern anderen Völkern Chinas.md",
-    "Seminarfach/Facharbeit/main.py",
     "Seminarfach/Präsentation/Pasted image 20221006164057.png"
   ]
 }
