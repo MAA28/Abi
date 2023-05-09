@@ -1,18 +1,32 @@
-- Äußere Ursachen 
-	- Opiumhandel
-	- westliche Aggression
+- Äußere Ursachen
+    - Opiumhandel
+    - Westliche Aggression
+        - Einfluss der Kolonialmächte
+        - Verlust von Gebieten und Souveränität
 - Innere Systemkrise
     - Bevölkerungsexplosion
-        - Auswirkungen auf die Landwirtschaft
-        - Notwendigkeit von mehr menschlicher Arbeit
+        - Immense Zunahme von ca. 150 auf 450 Millionen Menschen im Zeitraum vom späten 17. Jahrhundert bis zur Mitte des 19. Jahrhunderts
+        - Mangelnde Ressourcen, um mit dem Bevölkerungswachstum umzugehen
     - Schwäche des Herrschaftssystems
-        - Korruption
-        - Junge Kaiser
+        - Kaiserliche Schwäche und Unfähigkeit
+            - Junge Kaiser und Regenten
+            - Instabile Nachfolgeregelungen
+        - Korruption und Misswirtschaft
+            - Anstieg der Korruption auf staatsgefährdendem Niveau
+            - Ausnutzung des Systems durch Beamte und Eliten
     - Subsistenzkrise
-        - Mangelnde Verbesserungen in der Landwirtschaft
+        - Mangel an ausreichender Nahrungsmittelproduktion
+        - Begrenzte landwirtschaftliche Entwicklung
+            - Mangelnde Verbesserungen in landwirtschaftlichen Methoden
+            - Abhängigkeit von menschlicher Arbeit statt tierischer oder maschineller Energie
     - Ökologische Krise
         - Raubbau an natürlichen Ressourcen
-            - Zusammenhang zwischen Rodungen und Überschwemmungen
+            - Rodungen und Übernutzung von Land und Wäldern
+            - Auswirkungen auf die Ökosysteme und Wasserversorgung
+            - Zunahme von Überschwemmungen und Umweltproblemen
 - Innere Aufstände
-    - Taiping Revolution (1860-64)
+    - Taiping Revolution (1860-1864)
         - Motivation: Vertreibung der Mandschu als fremde Barbaren
+        - Über 100 Millionen Menschen mobilisiert
+        - Hohe Opferzahlen von schätzungsweise 20-30 Millionen Toten
+        - Erschütterung des politischen und sozialen Gefüges

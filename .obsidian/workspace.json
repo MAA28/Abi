@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8d13afed76c2dd8d",
-        "type": "split",
+        "id": "ae298452b54b9f2f",
+        "type": "tabs",
         "children": [
           {
-            "id": "ae298452b54b9f2f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "341ec13dca8e8dbf",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Geschichte/Schwäche Chinas.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "341ec13dca8e8dbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geschichte/Schwäche Chinas.md",
+                "mode": "source",
+                "source": true
               }
-            ]
-          },
-          {
-            "id": "71b28f89f55cee2f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "59bc325c8fd0a003",
-                "type": "leaf",
-                "state": {
-                  "type": "mindmap",
-                  "state": {}
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
