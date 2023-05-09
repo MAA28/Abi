@@ -1,8 +1,8 @@
 {
   "theme": "obsidian",
-  "cssTheme": "Atom",
+  "cssTheme": "Things",
   "translucency": false,
   "accentColor": "",
   "nativeMenus": true,
-  "baseFontSize": 17
+  "baseFontSize": 30
 }

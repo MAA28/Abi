@@ -43,9 +43,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4a359c899a28f8b6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
+          },
+          {
+            "id": "6704770f4f2b28e9",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2011.png"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,13 +110,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "46413d2f8cda8d46",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cc65e00363902932",
@@ -112,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Politik & Wirtschaft/Zeitungsartikel.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Politik & Wirtschaft/Zeitungsartikel.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Politik & Wirtschaft/Zeitungsartikel.md"
+                "file": "Untitled.canvas"
               }
             }
           },
@@ -184,44 +211,47 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3c1edba0e9c91191",
+  "active": "b0680ab473732a96",
   "lastOpenFiles": [
-    "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2011.png",
-    "Politik & Wirtschaft/Zeitungsartikel.md",
-    "Excalidraw/Drawing 2023-03-14 16.51.06.excalidraw.md",
+    "conflict-files-obsidian-git.md",
     "Untitled.canvas",
-    "Excalidraw",
+    "Seminarfach/Facharbeit/Hatte Lenin doch Recht?.docx",
+    "Politik & Wirtschaft/Zeitungsartikel.md",
+    "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2011.png",
+    "Seminarfach/Facharbeit/Hatte Lenin doch Recht?.pdf",
+    "Politik & Wirtschaft/Ziele der Sozialen Marktwirtschaft.md",
+    "Politik & Wirtschaft/Umweltprobleme Klimawandel.md",
+    "Politik & Wirtschaft/Lösung zum Klimawandel.md",
+    "Philosophie/Cyborg.md",
+    "Informatik/sketch_230424a/sketch_230424a.pde",
+    "Informatik/sketch_230424a",
+    "Informatik/LZW/LZW.java",
+    "Informatik/LZW/LZW.class",
+    "Informatik/LZW",
+    "Informatik/GaussSumme/main.java",
+    "Informatik/GaussSumme/Main.class",
+    "Informatik/GaussSumme",
+    "Informatik/Dynamisches Wörterbuch - Codierung.md",
+    "Geschichte/China/Open door Policy.md",
+    "Geschichte/China/Antwort des Englischen Königs an den chinesischen Kaiser.md",
+    "English/Working with participles - What is wrong here???.md",
+    "English/Violet - Character Analysis.md",
+    "English/Family Values.md",
+    "Deutsch/Gedichtanalyse/Konspekt - Realismus.md",
+    "Deutsch/Gedichtanalyse/Brücke am Tay.md",
+    "Deutsch/Gedichtanalyse/Abend - Gryphius.md",
+    "Excalidraw/Drawing 2023-03-14 16.51.06.excalidraw.md",
     "Noten.md",
-    "Informatik/Huffman Codierung.odt",
     "English/Exams/Summary.md",
-    "English/Exams",
     "English/Cultural Appropriation.md",
     "Politik & Wirtschaft/Planwirtschaft und Marktwirtschaft.md",
     "Philosophie/Der Mensch ist ein Prothesengott geworden.md",
-    "Seminarfach/Facharbeit/lu71614c4yo.tmp",
     "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2010.png",
     "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2012-2022.png",
-    "Seminarfach/Facharbeit/lu54823p4ol.tmp",
-    "Seminarfach/Facharbeit/lu54823p4em.tmp",
-    "Seminarfach/Facharbeit/lu54823p08n.tmp",
-    "Seminarfach/Facharbeit/lu54823ozvs.tmp",
-    "Seminarfach/Facharbeit/lu54823ozj4.tmp",
-    "Seminarfach/Facharbeit/Kraftwerksliste2022.pdf",
     "Geschichte/China/Begegnungen zwischen Europäern anderen Völkern Chinas.md",
     "Seminarfach/Präsentation/YLAB.md",
     "Seminarfach/Präsentation/Pasted image 20221006164057.png",
     "Seminarfach/Präsentation/MIndmap.md",
-    "Seminarfach/Expose/Exemplarische Datensammlung.md",
-    "Deutsch/Gedichtanalyse/Barok.md",
-    "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Materialismus und Idealismus.md",
-    "Geschichte/China/Zeit des großen Wegs vs Zeit der Sitten und des Rechts.md",
-    "Deutsch/Gedichtanalyse/Formale Analysemethoden.md",
-    "conflict-files-obsidian-git.md",
-    "Deutsch/Romantik als Gegenbewegung zur Aufklaerung/Marie - Drama vs Film.md",
-    "Politik & Wirtschaft/Ziele der Wirtschaftsordnung.md",
-    "Politik & Wirtschaft/Sachurteil - Rolle der Medien in einer Demokratie.md",
-    "Geschichte/Amerikanische Revolution/Zeitleiste Verlauf Unabhängigkeitskrieg.md",
-    "Stundenplan.md",
-    "Seminarfach/Untitled.md"
+    "Seminarfach/Expose/Exemplarische Datensammlung.md"
   ]
 }
