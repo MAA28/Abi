@@ -4,4 +4,4 @@ Durch den Bau ergeben sich verschiedene externe Effekte, die in den Materialien 
 | --- | ----------------- |
 | IDK | Luftverschmutzung |
 | IDC | Wasserverbrauch   |
-|     |                   |
+|     | Saurerregen       |
