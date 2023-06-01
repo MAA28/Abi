@@ -20,9 +20,12 @@
 + Mittelalter: Christliche Friedensidee
 + Menschen sind moralische Wesen, die nach Frieden streben, sowohl in dieser Welt als auch für ihr Seelenheil. Wahren Frieden ereichen sie aber erst nach dem Tod
 
-+ Hugo Grotius (1583–1645)
++ Hugo Grotius (1583–1645) ![](https://upload.wikimedia.org/wikipedia/commons/8/80/Michiel_Jansz_van_Mierevelt_-_Hugo_Grotius.jpg)
 + Die frühe Neuzeit: Klassisches Völkerrecht
 + Die Kriegsführung unterlag nun bestimmten regeln wie zum Beispiel einer zeitlichen Abgrenzung, Gewaltbegrenzung, Institutionalisierung und rechtliche Formalisierung
 
++ Thomas Hobbes (1588–1679) ![]()
++ Die frühe Neuzeit: Friede durch Bändigung von Gewalt im Rahmen monopolisierter staatlicher  
+Mach
 
 ```
