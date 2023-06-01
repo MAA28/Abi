@@ -14,5 +14,9 @@
 
 + Friedensrecht
 + Mittelalter: Friedensrechtlich geschützte Gebiete im kriegerischen Chaos
-+ Haus, Burg und Stadt waren abgegrenzte friedensrechtlich geschützte Gebiete in denen kein Krieg geführt wurde. Außerhalb d
++ Haus, Burg und Stadt waren abgegrenzte friedensrechtlich geschützte Gebiete in denen kein Krieg geführt wurde. Außerhalb dieser Gebiete herrschte Krieg und/oder Kriminalität
+
++ Kirchenvater Augus-  
+tinus (354–430) und der Theologe Thomas von Aquin (1225–1274) ![](https://www.korbiwiki.de/images/thumb/8/84/Thomas_von_Aquin_Deckenfresko_M%C3%B6dingen_Maria_Medingen.JPG/320px-Thomas_von_Aquin_Deckenfresko_M%C3%B6dingen_Maria_Medingen.JPG)
++ Mittelalter: Christliche Friedens
 ```
