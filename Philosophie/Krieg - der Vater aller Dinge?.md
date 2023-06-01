@@ -21,11 +21,14 @@
 + Menschen sind moralische Wesen, die nach Frieden streben, sowohl in dieser Welt als auch für ihr Seelenheil. Wahren Frieden ereichen sie aber erst nach dem Tod
 
 + Hugo Grotius (1583–1645) ![](https://upload.wikimedia.org/wikipedia/commons/8/80/Michiel_Jansz_van_Mierevelt_-_Hugo_Grotius.jpg)
-+ Die frühe Neuzeit: Klassisches Völkerrecht
++ frühe Neuzeit: Klassisches Völkerrecht
 + Die Kriegsführung unterlag nun bestimmten regeln wie zum Beispiel einer zeitlichen Abgrenzung, Gewaltbegrenzung, Institutionalisierung und rechtliche Formalisierung
 
 + Thomas Hobbes (1588–1679) ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2h2cQfPphNYjQPfAP9LpsMnsBs4IixgCzCg&usqp=CAU)
-+ Die frühe Neuzeit: Friede durch Bändigung von Gewalt im Rahmen monopolisierter staatlicher  
++ frühe Neuzeit: Friede durch Bändigung von Gewalt im Rahmen monopolisierter staatlicher  
 Mach
-+ Frieden als "innerstaatlichen Ordnungszustand". Im 17. Jahrhundert entwickelt sich das Konzept weiter zu einem zwischenstaatlichen Frieden 
++ Frieden als "innerstaatlichen Ordnungszustand". Diese Idee war maßgeblich für die Staatsform des Absoultismus. Im 17. Jahrhundert entwickelt sich das Konzept weiter zu einem zwischenstaatlichen Frieden durch Verträge zwischen zwei souverenen Staaten.
+
++ Französische Revolution (1789)
++ Aufklärung:  
 ```
