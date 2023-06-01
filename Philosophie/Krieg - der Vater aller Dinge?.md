@@ -12,5 +12,7 @@
 + der römischen Antike: Pax Romana
 + Frieden im inneren Roms und Sicherung der Herres Grenzen sowie Expansion des Imperiums
 
-+ 
++ Friedensrecht
++ Mittelalter: Friedensrechtlich geschützte Gebiete im kriegerischen Chaos
++ Haus, Burg und Stadt waren abgegrenzte friedensrechtlich geschützte Gebiete in denen kein Krieg geführt wurde. Außerhalb d
 ```
