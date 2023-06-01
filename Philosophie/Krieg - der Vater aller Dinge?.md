@@ -1,6 +1,8 @@
 ```timeline
-[line-2, body-3]
-+ Antikes
-+ Thukydides ![Thukydides](https://upload.wikimedia.org/wikipedia/commons/2/21/Thukydides.jpg)
-+ Dominierten den Krieg aber keine Großen Erfolge
+[line-2, body-4]
++ grieschische Antike: Thukydides ![Thukydides](https://upload.wikimedia.org/wikipedia/commons/2/21/Thukydides.jpg)
++ peloponnesische Krieg
++ Vereinzelte Friedensinseln die nach innen Frieden garantieren aber untereinander durchaus Krieg führen bis sich eine hegomoniale Stellung herraus bildet 
+
+
 ```
