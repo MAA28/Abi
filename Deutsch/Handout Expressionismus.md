@@ -1,4 +1,4 @@
-EE## Allgemeine Informationen 
+## Allgemeine Informationen 
 
 + Größte Künstlerbewegung der moderne
 + Reaktion auf den Umbruch
