@@ -24,8 +24,8 @@
 + Die frühe Neuzeit: Klassisches Völkerrecht
 + Die Kriegsführung unterlag nun bestimmten regeln wie zum Beispiel einer zeitlichen Abgrenzung, Gewaltbegrenzung, Institutionalisierung und rechtliche Formalisierung
 
-+ Thomas Hobbes (1588–1679) ![]()
++ Thomas Hobbes (1588–1679) ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2h2cQfPphNYjQPfAP9LpsMnsBs4IixgCzCg&usqp=CAU)
 + Die frühe Neuzeit: Friede durch Bändigung von Gewalt im Rahmen monopolisierter staatlicher  
 Mach
-
++ Frieden als "innerstaatlichen Ordnungszustand". Im 17. Jahrhundert entwickelt sich das Konzept weiter zu einem zwischenstaatlichen Frieden 
 ```
