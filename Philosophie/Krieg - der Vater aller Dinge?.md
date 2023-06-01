@@ -20,7 +20,9 @@
 + Mittelalter: Christliche Friedensidee
 + Menschen sind moralische Wesen, die nach Frieden streben, sowohl in dieser Welt als auch für ihr Seelenheil. Wahren Frieden ereichen sie aber erst nach dem Tod
 
-+ Klassisches Völkerrecht
-+ Die frühe Neuzeit
-+ 
++ Hugo Grotius (1583–1645)
++ Die frühe Neuzeit: Klassisches Völkerrecht
++ Die Kriegsführung unterlag nun bestimmten regeln wie zum Beispiel einer zeitlichen Abgrenzung, Gewaltbegrenzung, Institutionalisierung und rechtliche Formalisierung
+
+
 ```
