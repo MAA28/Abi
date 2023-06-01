@@ -1,5 +1,5 @@
 - Gründe für die erfolgreiche Industrialisierung Japans
-    - Urbanisierung und Kommerzialisierung der Gesellschaft
+    - Urbanisierung der Gesellschaft
     - Klar definierte Staatsgrenzen durch Insellage
         - Minimierung der Verteidigungskosten durch inneren Frieden
     - Effiziente Verwaltung bis auf die Lokalebene
