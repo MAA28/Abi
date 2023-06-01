@@ -35,5 +35,9 @@ Mach
 
 + Immanuel Kant (1724–1804)
 + Aufklärung: Frieden als unbedingte Vernuftforderung
-+ Der ewige Frieden sei die Entstehung der absoluten Vernuft. 
++ Der ewige Frieden sei die Entstehung der absoluten Vernuft. Dies soll erreicht werden durch Demokratie und Republik sowie das befolgen des Völkerrechts.
+
++ Helmuth von Moltke, Ernst Jünger
++ 19. Jahrhundert: Der "frische Krieg"
++ Belizismus: Krieg als Positives 
 ```
