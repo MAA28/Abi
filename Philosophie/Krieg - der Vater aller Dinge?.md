@@ -33,7 +33,7 @@ Mach
 + Aufklärung: Kreuzzug für die Freiheit
 + Ein aufstand für die Brüderlichkeit und die Freiheit gegen die feudale Unterdrückung sei legitim.
 
-+ Immanuel Kant (1724–1804)
++ Immanuel Kant (1724–1804) ![](https://img.zeit.de/studium/uni-leben/2010-05/immanuel-kant/immanuel-kant-540x304.jpg/imagegroup/wide__980x551)
 + Aufklärung: Frieden als unbedingte Vernuftforderung
 + Der ewige Frieden sei die Entstehung der absoluten Vernuft. Dies soll erreicht werden durch Demokratie und Republik sowie das befolgen des Völkerrechts.
 
