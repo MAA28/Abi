@@ -1,5 +1,4 @@
 [
-  "obsidian-git",
   "better-word-count",
   "dataview",
   "obsidian-mind-map",
@@ -7,5 +6,6 @@
   "obsidian-outliner",
   "table-editor-obsidian",
   "obsidian-timeline",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-git"
 ]

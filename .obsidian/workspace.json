@@ -4,45 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "743f150ffebc527a",
-        "type": "split",
+        "id": "ae298452b54b9f2f",
+        "type": "tabs",
         "children": [
           {
-            "id": "ae298452b54b9f2f",
-            "type": "tabs",
-            "dimension": 52.68987341772152,
-            "children": [
-              {
-                "id": "341ec13dca8e8dbf",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Geschichte/China/Schwäche Chinas.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
+            "id": "341ec13dca8e8dbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deutsch/Handout Expressionismus.md",
+                "mode": "source",
+                "source": true
               }
-            ]
+            }
           },
           {
-            "id": "20ed2cd46784162c",
-            "type": "tabs",
-            "dimension": 47.31012658227848,
-            "children": [
-              {
-                "id": "16b8ca39dd107ac4",
-                "type": "leaf",
-                "state": {
-                  "type": "mindmap",
-                  "state": {}
-                }
+            "id": "577d149b1b9f710c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geschichte/China/Schwäche Chinas.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geschichte/China/Schwäche Chinas.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geschichte/China/Schwäche Chinas.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -188,10 +178,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b0680ab473732a96",
+  "active": "577d149b1b9f710c",
   "lastOpenFiles": [
-    "Deutsch/Gedichtanalyse/Abend - Gryphius.md",
+    "Deutsch/Handout Expressionismus.md",
+    "conflict-files-obsidian-git.md",
     "Geschichte/China/Schwäche Chinas.md",
+    "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2012-2022- Pareto.png~",
+    "Seminarfach/Facharbeit/Gewinnentwicklung.png~",
+    "Politik & Wirtschaft/Zeitungsartikel.md",
+    "Deutsch/Gedichtanalyse/Abend - Gryphius.md",
     "Politik & Wirtschaft/Zeitungartikel.md",
     "Informatik/sketch_Sierpinski_3D/sketch_Sierpinski_3D.pde18022475472057883015.tmp",
     "Deutsch/Gedichtanalyse/Brücke am Tay.md",
@@ -208,7 +203,6 @@
     "Politik & Wirtschaft/Ziele der Wirtschaftsordnung.md",
     "Untitled.canvas",
     "Informatik/Dynamisches Wörterbuch - Codierung.md",
-    "conflict-files-obsidian-git.md",
     "Stundenplan.md",
     "Seminarfach/Facharbeit/Verhältnisgraph.png~",
     "Seminarfach/Facharbeit/Verhältnisgraph.png",
@@ -225,15 +219,11 @@
     "Klausurenplan.pdf",
     "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2011- Pareto.png",
     "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2011.png",
-    "Seminarfach/Facharbeit/Kraftwerksliste2022.pdf",
     "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2012-2022- Pareto.png",
     "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2012-2022.png",
     "Seminarfach/Facharbeit/Gewinnentwicklung.png",
-    "Seminarfach/Facharbeit/Hatte Lenin doch Recht?.docx",
     "Seminarfach/Facharbeit/Anlagebetreiber nach Leistung im Jahresvergleich.png",
     "Politik & Wirtschaft/Planwirtschaft und Marktwirtschaft.md",
-    "Philosophie/Der Mensch ist ein Prothesengott geworden.md",
-    "Geschichte/China/Begegnungen zwischen Europäern anderen Völkern Chinas.md",
     "Seminarfach/Präsentation/Pasted image 20221006164057.png"
   ]
 }
