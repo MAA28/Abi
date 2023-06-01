@@ -1,0 +1,16 @@
+- Gründe für die erfolgreiche Industrialisierung Japans
+    - Urbanisierung und Kommerzialisierung der Gesellschaft
+    - Klar definierte Staatsgrenzen durch Insellage
+        - Minimierung der Verteidigungskosten durch inneren Frieden
+    - Effiziente Verwaltung bis auf die Lokalebene
+    - Hoher kultureller Entwicklungsstand der Bevölkerung (hohe Alphabetisierungsrate)
+    - Anpassungsfähigkeit an neue Technologien und Organisationsformen der Produktion
+- Charakter der japanischen Industrialisierung als politisches Projekt
+    - Gemeinsame Realisierung von Staat und Unternehmern
+    - Ursprung in der Konfrontation mit dem Westen nach dem Sturz des Tokugawa-Shogunats
+    - Industrialisierung als Teil einer umfassenden Politik der nationalen Erneuerung
+        - Industrialer Aufbau als Schlüssel zur nationalen Stärke
+    - Initiierung erster industrieller Projekte durch die Regierung in Tokyo
+        - Zentrale Koordination und begrenzter ausländischer Druck
+        - Frühe Förderung unter Einsatz kostbarer Devisen
+    - Geringe Beteiligung von Auslandskapital
