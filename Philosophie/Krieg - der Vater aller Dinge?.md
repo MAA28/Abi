@@ -30,5 +30,10 @@ Mach
 + Frieden als "innerstaatlichen Ordnungszustand". Diese Idee war maßgeblich für die Staatsform des Absoultismus. Im 17. Jahrhundert entwickelt sich das Konzept weiter zu einem zwischenstaatlichen Frieden durch Verträge zwischen zwei souverenen Staaten.
 
 + Französische Revolution (1789)
-+ Aufklärung:  
++ Aufklärung: Kreuzzug für die Freiheit
++ Ein aufstand für die Brüderlichkeit und die Freiheit gegen die feudale Unterdrückung sei legitim.
+
++ Immanuel Kant (1724–1804)
++ Aufklärung: Frieden als unbedingte Vernuftforderung
++ Der ewige Frieden sei die Entstehung der absoluten Vernuft. 
 ```
