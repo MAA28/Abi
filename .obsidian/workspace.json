@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophie/Krieg - der Vater aller Dinge?.md",
-                "mode": "preview",
+                "file": "Politik & Wirtschaft/Externe Effekte.md",
+                "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "a9fb4f73a57f4362",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.4"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cc65e00363902932",
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophie/Krieg - der Vater aller Dinge?.md",
+                "file": "Politik & Wirtschaft/Externe Effekte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophie/Krieg - der Vater aller Dinge?.md",
+                "file": "Politik & Wirtschaft/Externe Effekte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophie/Krieg - der Vater aller Dinge?.md"
+                "file": "Politik & Wirtschaft/Externe Effekte.md"
               }
             }
           },
@@ -177,10 +165,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a9fb4f73a57f4362",
+  "active": "341ec13dca8e8dbf",
   "lastOpenFiles": [
-    "Geschichte/Amerikanische Revolution/Zeitleiste Verlauf Unabhängigkeitskrieg.md",
     "Philosophie/Krieg - der Vater aller Dinge?.md",
+    "Politik & Wirtschaft/Externe Effekte.md",
+    "Geschichte/Amerikanische Revolution/Zeitleiste Verlauf Unabhängigkeitskrieg.md",
     "Geschichte/Amerikanische Revolution/Wessen Revolution.md",
     "Geschichte/Amerikanische Revolution/Unabhängigkeitserklärung.pdf",
     "Deutsch/Handout Expressionismus.md",
@@ -213,7 +202,6 @@
     "Excalidraw/Drawing 2023-03-14 16.51.06.excalidraw.md",
     "Excalidraw",
     "English/Cultural Appropriation.md",
-    "Noten.md",
     "Untitled",
     "Informatik/Huffman Codierung.odt",
     "English/Exams",
