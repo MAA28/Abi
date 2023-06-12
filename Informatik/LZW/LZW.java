@@ -5,12 +5,14 @@ class LZW {
         String s = args[0];
         String o = compress(s);
         System.out.println("Compressed string: " + o);
+        
     }
     
     public static String compress(String s) {
         ArrayList<String> dictionary = new ArrayList<String>();
         String o = "";
         int N = 0;
+        
         while (s.length() != 0) {
             for (int j = Math.min(10, s.length()); j >= 1; j--) {
                 String word = s.substring(0, j);
