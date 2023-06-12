@@ -4,45 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "cecd9ac1cab30f4c",
-        "type": "split",
+        "id": "ae298452b54b9f2f",
+        "type": "tabs",
         "children": [
           {
-            "id": "ae298452b54b9f2f",
-            "type": "tabs",
-            "dimension": 20.81165452653486,
-            "children": [
-              {
-                "id": "341ec13dca8e8dbf",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Geschichte/China/Warum Japan sich industrialisierte?.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "341ec13dca8e8dbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Politik & Wirtschaft/Ziele der Sozialen Marktwirtschaft.md",
+                "mode": "source",
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "704aa60e1ed6abef",
-            "type": "tabs",
-            "dimension": 79.18834547346513,
-            "children": [
-              {
-                "id": "f2938ddfa34de2b5",
-                "type": "leaf",
-                "state": {
-                  "type": "mindmap",
-                  "state": {}
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cc65e00363902932",
@@ -117,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geschichte/China/Warum Japan sich industrialisierte?.md",
+                "file": "Politik & Wirtschaft/Ziele der Sozialen Marktwirtschaft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geschichte/China/Warum Japan sich industrialisierte?.md",
+                "file": "Politik & Wirtschaft/Ziele der Sozialen Marktwirtschaft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geschichte/China/Warum Japan sich industrialisierte?.md"
+                "file": "Politik & Wirtschaft/Ziele der Sozialen Marktwirtschaft.md"
               }
             }
           },
@@ -191,8 +167,13 @@
   },
   "active": "341ec13dca8e8dbf",
   "lastOpenFiles": [
-    "Politik & Wirtschaft/Externe Effekte.md",
+    "Politik & Wirtschaft/Funktion von Interessenverbänden.md",
+    "Politik & Wirtschaft/Funktion der Parteien.md",
+    "Politik & Wirtschaft/Nicht lineare Quellen.md",
+    "Politik & Wirtschaft/Parteinenentstehung entlang gesellschaftlicher Konfliktlinien.md",
+    "Politik & Wirtschaft/Sachurteil - Rolle der Medien in einer Demokratie.md",
     "Geschichte/China/Warum Japan sich industrialisierte?.md",
+    "Politik & Wirtschaft/Externe Effekte.md",
     "Philosophie/Krieg - der Vater aller Dinge?.md",
     "Geschichte/Amerikanische Revolution/Zeitleiste Verlauf Unabhängigkeitskrieg.md",
     "Geschichte/Amerikanische Revolution/Wessen Revolution.md",
@@ -216,15 +197,10 @@
     "English/Violet - Character Analysis.md",
     "Philosophie/Cyborg.md",
     "Geschichte/China/Antwort des Englischen Königs an den chinesischen Kaiser.md",
-    "Politik & Wirtschaft/Ziele der Sozialen Marktwirtschaft.md",
-    "Politik & Wirtschaft/Ziele der Wirtschaftsordnung.md",
     "Untitled.canvas",
-    "Informatik/Dynamisches Wörterbuch - Codierung.md",
-    "Stundenplan.md",
     "Seminarfach/Facharbeit/Verhältnisgraph.png~",
     "Seminarfach/Facharbeit/Verhältnisgraph.png",
     "Seminarfach/Facharbeit/Hatte Lenin doch Recht?.docx.xml",
-    "Excalidraw/Drawing 2023-03-14 16.51.06.excalidraw.md",
     "Excalidraw",
     "Untitled",
     "Informatik/Huffman Codierung.odt",
