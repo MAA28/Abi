@@ -27,7 +27,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurswahl.pdf",
+                "file": "Schwerpunkte mit P-Fächern u Fächerbelegungen.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kurswahl.pdf",
+                "file": "Schwerpunkte mit P-Fächern u Fächerbelegungen.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurswahl.pdf"
+                "file": "Schwerpunkte mit P-Fächern u Fächerbelegungen.pdf"
               }
             }
           },
@@ -173,10 +174,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "20343217102a25be",
+  "active": "1348496da3e55170",
   "lastOpenFiles": [
-    "Schwerpunkte mit P-Fächern u Fächerbelegungen.pdf",
     "Kurswahl.pdf",
+    "Schwerpunkte mit P-Fächern u Fächerbelegungen.pdf",
     "Klausurenplan.pdf",
     "Excalidraw/Drawing 2023-06-19 10.57.13.excalidraw.md",
     "Excalidraw",
