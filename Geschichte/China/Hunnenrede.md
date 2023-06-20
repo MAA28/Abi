@@ -1,3 +1,3 @@
 In der als "Hunnenrede" bekanntgewordenen Rede verabschiedet Kaiser Wilhelm II. am 2. 7. 1900 in Bermerhaven etwa 17 000 Soldaten. Die Rede ist vor Allem an die Soldaten gerichtet, aber auch in zensierter Form an die deutsche Bevölkerung und die Weltpolitik. Kaiser Wilhelm nimmt in seiner Rede die Perspektive eines deutschen Imperialisten ein und Vertritt das deutsche Kaiserreich in seinen Aussagen.
 
-Die Rede orientiert sich an einige wahre historische Zusammenhänge
+Die Rede orientiert sich an einige wahre historische Zusammenhänge ![]()
