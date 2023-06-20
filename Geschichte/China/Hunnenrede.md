@@ -1,0 +1,1 @@
+In der als "Hunnenrede" bekanntgewordenen Rede verabschiedet Kaiser Wilhelm II. am 2. 7. 1900 etwa 17 000 Soldaten. 
