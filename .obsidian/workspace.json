@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "20343217102a25be",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Kurswahl.pdf"
-              }
-            }
-          },
-          {
             "id": "1348496da3e55170",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Schwerpunkte mit P-Fächern u Fächerbelegungen.pdf"
+                "file": "Geschichte/China/Hunnenrede.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cc65e00363902932",
@@ -102,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Schwerpunkte mit P-Fächern u Fächerbelegungen.pdf",
+                "file": "Geschichte/China/Hunnenrede.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Schwerpunkte mit P-Fächern u Fächerbelegungen.pdf",
+                "file": "Geschichte/China/Hunnenrede.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Schwerpunkte mit P-Fächern u Fächerbelegungen.pdf"
+                "file": "Geschichte/China/Hunnenrede.md"
               }
             }
           },
@@ -176,8 +168,9 @@
   },
   "active": "1348496da3e55170",
   "lastOpenFiles": [
-    "Kurswahl.pdf",
     "Schwerpunkte mit P-Fächern u Fächerbelegungen.pdf",
+    "Geschichte/China/Hunnenrede.md",
+    "Kurswahl.pdf",
     "Klausurenplan.pdf",
     "Excalidraw/Drawing 2023-06-19 10.57.13.excalidraw.md",
     "Excalidraw",
@@ -210,9 +203,7 @@
     "Politik & Wirtschaft/Lösung zum Klimawandel.md",
     "Geschichte/China/Open door Policy.md",
     "Politik & Wirtschaft/Umweltprobleme Klimawandel.md",
-    "English/Family Values.md",
     "Untitled.canvas",
-    "Seminarfach/Facharbeit/Verhältnisgraph.png~",
     "Seminarfach/Facharbeit/Verhältnisgraph.png",
     "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2011- Pareto.png",
     "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2011.png",
