@@ -2,4 +2,6 @@ In der als "Hunnenrede" bekanntgewordenen Rede verabschiedet Kaiser Wilhelm II. 
 
 Die Rede orientiert sich an einige wahre historische Zusammenhänge und Ereignisse, wie beispielsweise dem Boxeraufstand in China, der zur Entsendung der deutschen Truppen führte. Jedoch werden die Chinesen als eine geeinte Masse betrachtet was speziell in der Betrachtung des Boxeraufstandes nicht sachlich ist.
 
-Im Rahmen der imperialistischen Ideologie ist die Rede stimmig: 
+Im Rahmen der imperialistischen Ideologie ist die Rede stimmig: Kaiser Wilhelm II. beschreibt das Christentum den "heidnischen" Glauben überlegen und redet von der "alte\[n\] deutsche\[n\] Tüchtigkeit" und ähnlichem.
+
+Dennoch ist die Gr
