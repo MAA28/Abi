@@ -4,4 +4,4 @@ Die Rede orientiert sich an einige wahre historische Zusammenhänge und Ereignis
 
 Im Rahmen der imperialistischen Ideologie ist die Rede stimmig: Kaiser Wilhelm II. beschreibt das Christentum den "heidnischen" Glauben überlegen und redet von der "alte\[n\] deutsche\[n\] Tüchtigkeit" und ähnlichem.
 
-Dennoch ist die Gr
+Dennoch ist das entsenden eines so großen Korps nach China etwas unüblich 
