@@ -1,7 +1,6 @@
 
 # Erzählform
 "Hoffentlich glauben die Zwei nicht, daß ich eifersüchtig bin" -> Ich-Erzähler
-"Ach Gott, sie spielen schon wieder" -> Erlebte Sprache
 
 # Fokalisierung
 "Hoffentlich glauben die Zwei nicht, daß ich eifersüchtig bin" -> Interne Fokalisierung
@@ -15,3 +14,4 @@
 -> chronologische Erzählung
 # Darbietungsform
 -> Bewusstseinstrom (glegentlich Dialoge mit direkter Rede)
+"Ach Gott, sie spielen schon wieder" -> Erlebte Sprache
