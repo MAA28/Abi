@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geschichte/China/Hunnenrede.md",
-                "mode": "preview",
+                "file": "Deutsch/Fräulein Else/Analyse des Anfangs.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geschichte/China/Hunnenrede.md",
+                "file": "Deutsch/Fräulein Else/Analyse des Anfangs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geschichte/China/Hunnenrede.md",
+                "file": "Deutsch/Fräulein Else/Analyse des Anfangs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geschichte/China/Hunnenrede.md"
+                "file": "Deutsch/Fräulein Else/Analyse des Anfangs.md"
               }
             }
           },
@@ -169,6 +169,8 @@
   "active": "1348496da3e55170",
   "lastOpenFiles": [
     "Geschichte/China/Hunnenrede.md",
+    "Deutsch/Fräulein Else/Analyse des Anfangs.md",
+    "Deutsch/Fräulein Else",
     "Schwerpunkte mit P-Fächern u Fächerbelegungen.pdf",
     "Kurswahl.pdf",
     "Klausurenplan.pdf",
@@ -197,7 +199,6 @@
     "Politik & Wirtschaft/Zeitungsartikel.md",
     "Deutsch/Gedichtanalyse/Abend - Gryphius.md",
     "Politik & Wirtschaft/Zeitungartikel.md",
-    "Informatik/sketch_Sierpinski_3D/sketch_Sierpinski_3D.pde18022475472057883015.tmp",
     "Deutsch/Gedichtanalyse/Brücke am Tay.md",
     "Deutsch/Gedichtanalyse/Konspekt - Realismus.md",
     "Politik & Wirtschaft/Lösung zum Klimawandel.md",
