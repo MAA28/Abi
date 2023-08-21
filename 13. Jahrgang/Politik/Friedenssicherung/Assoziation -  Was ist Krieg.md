@@ -1,4 +1,8 @@
 + Krieg ist Politik mit Blutvergießen - Politik ist Krieg ohne Blutvergießen - Mao Tse-Tung
 + Krieg (im Imperialismus) ist die gewaltsame Neuaufteilung der Welt zwischen den hegomnialen Kräften
 # Vergleichen und Zusammenfassen
-##
++ Krieg
++ Krieg hat was mit Militär zu tun
++ Kollektives organisiertes Angreifen auf der Basis von Interessen und Bestrebung
++ Krieg hat Opfer (Flucht, Tot, Verletzung usw)
++ 
