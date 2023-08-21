@@ -2,7 +2,12 @@
 + Krieg (im Imperialismus) ist die gewaltsame Neuaufteilung der Welt zwischen den hegomnialen Kräften
 # Vergleichen und Zusammenfassen
 + Krieg
-+ Krieg hat was mit Militär zu tun
-+ Kollektives organisiertes Angreifen auf der Basis von Interessen und Bestrebung
-+ Krieg hat Opfer (Flucht, Tot, Verletzung usw)
-+ 
+	+ Krieg hat was mit Militär zu tun
+	+ Kollektives organisiertes Angreifen auf der Basis von Interessen und Bestrebung
+	+ Krieg hat Opfer (Flucht, Tot, Verletzung, Genozid usw)
+	+ Verschiedene 
++ Frieden
+	+ Verträge
+	+ Tolerierung der gegenseitigen Interessen
+	+ Abwesenheit von Gewalt und Sicherung der körperlichen Unversehrtheit
+	+ 
