@@ -1,2 +1,2 @@
 + Krieg ist Politik mit Blutvergießen - Politik ist Krieg ohne Blutvergießen - Mao Tse-Tung
-+ Krieg ist die gewaltsame Neu
++ Krieg (im Imperialismus) ist die gewaltsame Neuaufteilung der Welt zwischen den hegomnialen Kräften
