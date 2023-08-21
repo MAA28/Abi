@@ -15,4 +15,4 @@
 -> Bewusstseinstrom (glegentlich Dialoge mit direkter Rede)
 "Ach Gott, sie spielen schon wieder" -> Erlebte Sprache
 # Umschreiben
-Cousin Paul, Frau Cissy und 
+Cousin Paul, Frau Cissy und Fräulein 
