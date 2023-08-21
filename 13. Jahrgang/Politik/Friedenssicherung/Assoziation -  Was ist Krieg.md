@@ -5,6 +5,7 @@
 	+ Krieg hat was mit Militär zu tun
 	+ Kollektives organisiertes Angreifen auf der Basis von Interessen und Bestrebung
 	+ Krieg hat Opfer (Flucht, Tot, Verletzung, Genozid usw)
+	+ Erst durch die Aneignung von Privateigentum möglich
 	+ Verschiedene Arten
 		+ Wirtschaftskrieg
 		+ Religionskrieg
