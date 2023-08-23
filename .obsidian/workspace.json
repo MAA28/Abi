@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "404cf873156bd63c",
-        "type": "split",
+        "id": "3b00b7b44cefc430",
+        "type": "tabs",
         "children": [
           {
-            "id": "3b00b7b44cefc430",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1348496da3e55170",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "13. Jahrgang/Deutsch/Erwartungen von und an Else.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "1348496da3e55170",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "13. Jahrgang/Deutsch/Erwartungen von und an Else.md",
+                "mode": "source",
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "0336b971a8409d48",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ac3f490d9ddb176c",
-                "type": "leaf",
-                "state": {
-                  "type": "mindmap",
-                  "state": {}
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
