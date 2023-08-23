@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13. Jahrgang/Politik/Friedenssicherung/Assoziation -  Was ist Krieg.md",
+                "file": "13. Jahrgang/Deutsch/Erwartungen von und an Else.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13. Jahrgang/Politik/Friedenssicherung/Assoziation -  Was ist Krieg.md",
+                "file": "13. Jahrgang/Deutsch/Erwartungen von und an Else.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "13. Jahrgang/Politik/Friedenssicherung/Assoziation -  Was ist Krieg.md",
+                "file": "13. Jahrgang/Deutsch/Erwartungen von und an Else.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "13. Jahrgang/Politik/Friedenssicherung/Assoziation -  Was ist Krieg.md"
+                "file": "13. Jahrgang/Deutsch/Erwartungen von und an Else.md"
               }
             }
           },
@@ -167,8 +167,10 @@
   },
   "active": "1348496da3e55170",
   "lastOpenFiles": [
-    "Deutsch/Fräulein Else/Analyse des Anfangs.md",
     "13. Jahrgang/Politik/Friedenssicherung/Assoziation -  Was ist Krieg.md",
+    "13. Jahrgang/Deutsch/Erwartungen von und an Else.md",
+    "13. Jahrgang/Deutsch",
+    "Deutsch/Fräulein Else/Analyse des Anfangs.md",
     "Untitled.md",
     "13. Jahrgang/Politik/Friedenssicherung",
     "13. Jahrgang/Politik",
@@ -183,7 +185,6 @@
     "Informatik/OOP/Schueler.java",
     "Politik & Wirtschaft/Untitled.md",
     "Politik & Wirtschaft/Ziele der Sozialen Marktwirtschaft.md",
-    "Politik & Wirtschaft/Untitled",
     "Politik & Wirtschaft/Funktion von Interessenverbänden.md",
     "Politik & Wirtschaft/Funktion der Parteien.md",
     "Politik & Wirtschaft/Nicht lineare Quellen.md",
@@ -202,7 +203,6 @@
     "Politik & Wirtschaft/Zeitungartikel.md",
     "Deutsch/Gedichtanalyse/Brücke am Tay.md",
     "Deutsch/Gedichtanalyse/Konspekt - Realismus.md",
-    "Politik & Wirtschaft/Lösung zum Klimawandel.md",
     "Untitled.canvas",
     "Seminarfach/Facharbeit/Verhältnisgraph.png",
     "Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2011- Pareto.png",
