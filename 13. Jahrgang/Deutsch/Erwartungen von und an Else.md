@@ -5,4 +5,3 @@
 # Erwartungen an Else
 + "Ich muss mich Würdig benehmen." (S. 27 Z.1)
 + Ihr Familie will das sie Geld ran bringt (S. 14 Z. 32)
-+ Sie hätte ein Kind kriegen sollen
