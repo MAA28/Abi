@@ -1,0 +1,5 @@
+|             | Akteure | Ziele | Kriegsendem, Untersheidbarkeit von Krieg und Frieden | Intensität | Finazierung | Kriegsrecht | Kriegsführung | vornehmliche Angriffsziele und Opfergruppen |
+| ----------- | ------- | ----- | ---------------------------------------------------- | ---------- | ----------- | ----------- | ------------- | ------------------------------------------- |
+| Alte Kriege | Staaten (Völkerrechtssubjekte)         |Überwindung        |                                                      |            |             |             |               |                                             |
+| Neue Kriege |         |       |                                                      |            |             |             |               |                                             |
+|             |         |       |                                                      |            |             |             |               |                                             |
