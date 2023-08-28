@@ -9,7 +9,7 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "readableLineLength": true,
+  "readableLineLength": false,
   "spellcheck": true,
   "spellcheckLanguages": null
 }
