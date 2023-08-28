@@ -7,4 +7,6 @@ Laut der Grafik M7 "Verteilung von Kriegen und Konflikten weltweit" stellt das K
 
 Auffällig ist, dass in der Sahelregion Afrikas viele Länder in Kriegen oder anderen Gewalttätigen Konflikten sind und in Südasien fast jedes land einen in einer gewalttätigen Krise oder ein einem begrenzten Krieg ist.
 
-Eine weiter Besonderheit ist, dass in Südostafrika sehr wenig 
+Eine weiter Besonderheit ist, dass in Südostafrika und (Süd-) Osteuropa vergleichsweise wenig Konflikte herrschen.
+
+Darüber hinaus lassen sich nicht viele regionale Beziehungen ausmachen außer, dass fast überall die eine oder andere Art der gewalttätigen Konflikte existieren.
