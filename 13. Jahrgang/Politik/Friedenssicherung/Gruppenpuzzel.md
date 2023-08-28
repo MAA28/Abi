@@ -5,4 +5,6 @@
 
 Laut der Grafik M7 "Verteilung von Kriegen und Konflikten weltweit" stellt das Konfliktbarometer 2019 des Heidelberg Institut for International Conflict Research da. 
 
-Auffällig ist, dass in der Sahelregion Afrikas und Südostasien
+Auffällig ist, dass in der Sahelregion Afrikas viele Länder in Kriegen oder anderen Gewalttätigen Konflikten sind und in Südasien fast jedes land einen in einer gewalttätigen Krise oder ein einem begrenzten Krieg ist.
+
+Eine weiter Besonderheit ist, dass in Südostafrika sehr wenig 
