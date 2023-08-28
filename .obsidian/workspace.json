@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13. Jahrgang/Politik/Friedenssicherung/Gruppenpuzzel.md",
+                "file": "13. Jahrgang/Deutsch/Elses Situation.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cc65e00363902932",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13. Jahrgang/Politik/Friedenssicherung/Gruppenpuzzel.md",
+                "file": "13. Jahrgang/Deutsch/Elses Situation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "13. Jahrgang/Politik/Friedenssicherung/Gruppenpuzzel.md",
+                "file": "13. Jahrgang/Deutsch/Elses Situation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "13. Jahrgang/Politik/Friedenssicherung/Gruppenpuzzel.md"
+                "file": "13. Jahrgang/Deutsch/Elses Situation.md"
               }
             }
           },
@@ -167,8 +168,9 @@
   },
   "active": "1348496da3e55170",
   "lastOpenFiles": [
-    "13. Jahrgang/Politik/Friedenssicherung/Alte Kriege, Neue Kriege.md",
     "13. Jahrgang/Politik/Friedenssicherung/Gruppenpuzzel.md",
+    "13. Jahrgang/Deutsch/Elses Situation.md",
+    "13. Jahrgang/Politik/Friedenssicherung/Alte Kriege, Neue Kriege.md",
     "13. Jahrgang/Politik/Friedenssicherung/Assoziation - Krieg & Frieden.md",
     "12. Jahrgang",
     "13. Jahrgang/Deutsch/Erwartungen von und an Else.md",
@@ -202,7 +204,6 @@
     "12. Jahrgang/Geschichte/China/Schwäche Chinas.md",
     "12. Jahrgang/Politik & Wirtschaft/Zeitungsartikel.md",
     "12. Jahrgang/Deutsch/Gedichtanalyse/Abend - Gryphius.md",
-    "12. Jahrgang/Politik & Wirtschaft/Zeitungartikel.md",
     "Untitled.canvas",
     "12. Jahrgang/Seminarfach/Facharbeit/Verhältnisgraph.png",
     "12. Jahrgang/Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2011- Pareto.png",
