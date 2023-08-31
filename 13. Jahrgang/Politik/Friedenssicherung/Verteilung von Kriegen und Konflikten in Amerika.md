@@ -1,0 +1,1 @@
+Die gewaltätigen Konflike, die in fast ganz Amerika zufinden sind, könnten ihren Hintergrund in dem natürlichen Reichtum dieser Region haben: Der Amzonas,  
