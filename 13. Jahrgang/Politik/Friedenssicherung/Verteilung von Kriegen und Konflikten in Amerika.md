@@ -6,4 +6,4 @@ In dieser Spannung kommt es auch immer wieder zu gewalttätigen Konflikten wie z
 
 Damit lässt sich auch eine der Ausnahmen zu dieser konfliktträchtigen Region erklären: Cuba ist die einzige Nation ohne Konflikt in Amerika neben Kanada. Die Cubana haben ihre Geschicke Selbst in die Hand genommen und erst die Spanischen Sklaventreiber und dann die US-Amerikanischen Imperialisten rausgeschmissen und die Macht übernommen. Seit dem herrscht Frieden auf Cuba.
 
-Die andere Ausnahme ist Kanada 
+Die andere Ausnahme ist Kanada, welche ihre temporäre Konfliktfreiheit ihrer Isolation zu verschluden hat. Dazu kommt das Kanada bis 2011 auf der anderen Seite der Welt in Afghanistan Krieg geführt hat mit den anderen NATO-Imperialisten 
