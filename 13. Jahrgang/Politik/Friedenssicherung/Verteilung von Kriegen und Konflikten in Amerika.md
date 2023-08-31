@@ -1,1 +1,1 @@
-Die gewaltätigen Konflike, die in fast ganz Amerika zufinden sind, könnten ihren Hintergrund in dem natürlichen Reichtum dieser Region haben: Der Amzonas,  
+Die gewaltätigen Konflike, die in fast ganz Amerika zufinden sind, könnten ihren Hintergrund in dem natürlichen Reichtum dieser Region haben: Das Holz des Amazonas, große Landflächen auf denen Agarwirtschaft betrieben werden kann, die Minen von Chile usw.
