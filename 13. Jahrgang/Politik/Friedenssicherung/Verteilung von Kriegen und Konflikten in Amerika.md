@@ -2,4 +2,4 @@ Die gewaltätigen Konflike, die in fast ganz Amerika zufinden sind, könnten ihr
 
 Durch dieses Reichtum entsteht eine Spannung zwischen den Kapitalisten, die die Erde, den Wald und die Arbeitskraft benutzen möchten um sich den Mehrwert der Produktion anzueignen, und der Bevölkerung und den Ureinwohnern, die die Erde, den Wald und die Arbeitskraft nutzen möchten um das gesellschaftliche Reichtum zu vermehren.
 
-In dieser Spannung kommt es auch immer wieder zu gewalttätigen Konflikten wie zum Beispiel der teilweise faschistische Coup in Bolivia, Chile, Quatemala, Haiti
+In dieser Spannung kommt es auch immer wieder zu gewalttätigen Konflikten wie zum Beispiel die teilweise faschistischen Coups in Argentina, Bolivia, Chile, Cuba, der dominikanischen Republik, Quatemala, Haiti, Nicaragua und Panama, sowie die demokratischen Entwicklungen die teilweise durch Revolutionäre gegen diese Interessen verteidigt werden müssen wie in Cuba und Chile. 
