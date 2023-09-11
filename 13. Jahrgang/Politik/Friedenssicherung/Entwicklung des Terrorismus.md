@@ -1,3 +1,6 @@
+> Handout von Malte, Daniel, Justus, Julius 
+> Politik und Wirtschaft GA4 11.9.2023
+
 |            | Alter Terrorismus                                                | Neuer Terrorismus              |
 | ---------- | ---------------------------------------------------------------- | ------------------------------ |
 | Opfer      | Politische oder wirtschaftliche Elite (bloß nicht die "Dritten") | Möglichst viele Menschen       |
