@@ -20,8 +20,17 @@ class Main {
 		bookStack.push(b7);
 		bookStack.push(b8);
 
-		bookStack.prettyPrint();
-
+		/*
+		Book stack:
+			Das kleine rote Büchlein
+			Dialektischer Materialismus
+			Krieg und Frieden
+			Das Manifest
+			Kommunisten heute
+			Dialektik der Natur
+			Das Kapital
+			Was tun?
+		*/
 
 
 		for(int i = 0; i < 10; i++) {
@@ -33,57 +42,25 @@ class Main {
 }
 
 class BookStack {
-	Book[] books;
-	int last_index;
+	Book top;
 
-	BookStack() {
-		books = new Book[1];
-		last_index = 0;
-	}
 
 	public void push(Book new_book) {
-		if (last_index >= books.length - 1) double_capacity();
-
-		books[last_index] = new_book; 
-		last_index++;
-	}
-
-	private void double_capacity() {
-		System.out.println("Capacity doubled: " + books.length);
-		Book[] oldBooks = books;
-		books = new Book[oldBooks.length * 2];
-		for(int i = 0; i < oldBooks.length; i++) {
-			books[i] = oldBooks[i];
+		if(top == null) top = new_book;
+		else {
+			new_book.lower_book = top;
+			top = new_book;
 		}
 	}
 
-	private void half_capacity() {
-		Book[] oldBooks = books;
-		books = new Book[oldBooks.length / 2];
-		for(int i = 0; i < books.length; i++) {
-			books[i] = oldBooks[i];
-		}
-		System.out.println("Capacity halfed: " + books.length);
-
-	}
 
 	public Book pop() {
-		if (last_index <= 0) throw new IndexOutOfBoundsException();
-		else if (last_index <= books.length / 2) half_capacity();
-
-		Book retrievedBook = books[last_index - 1];
-		last_index--;
-		return retrievedBook;
+		if (top == null) throw new IndexOutOfBoundsException();
+		Book popedBook = top;
+		top = top.lower_book;
+		return popedBook; 
 	}
 
-	public void prettyPrint() {
-		System.out.println("BookStack( capacity: " + books.length + " books: [");
-		for (int i = 0; i < last_index; i++) {
-			System.out.print("\t");
-			books[i].prettyPrint();
-		}
-		System.out.println("])");
-	}
 }
 
 
@@ -91,6 +68,7 @@ class BookStack {
 class Book {
 	String title;
 	String author;
+	Book lower_book;
 
 	Book (String title, String author) {
 		this.title = title;
