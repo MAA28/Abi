@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "47bc2cc0a2101f68",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,7 +176,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1348496da3e55170",
+  "active": "47bc2cc0a2101f68",
   "lastOpenFiles": [
     "13. Jahrgang/Politik/Friedenssicherung/Verteilung von Kriegen und Konflikten in Amerika.md",
     "13. Jahrgang/Politik/Friedenssicherung/Entwicklung des Terrorismus.md",
