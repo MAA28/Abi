@@ -23,9 +23,11 @@
             "id": "47bc2cc0a2101f68",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.5"
+                "file": "13. Jahrgang/Deutsch/literarische.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -104,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13. Jahrgang/Politik/Friedenssicherung/Entwicklung des Terrorismus.md",
+                "file": "13. Jahrgang/Deutsch/literarische.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "13. Jahrgang/Politik/Friedenssicherung/Entwicklung des Terrorismus.md",
+                "file": "13. Jahrgang/Deutsch/literarische.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "13. Jahrgang/Politik/Friedenssicherung/Entwicklung des Terrorismus.md"
+                "file": "13. Jahrgang/Deutsch/literarische.md"
               }
             }
           },
@@ -178,6 +180,7 @@
   },
   "active": "47bc2cc0a2101f68",
   "lastOpenFiles": [
+    "13. Jahrgang/Deutsch/literarische.md",
     "13. Jahrgang/Politik/Friedenssicherung/Verteilung von Kriegen und Konflikten in Amerika.md",
     "13. Jahrgang/Politik/Friedenssicherung/Entwicklung des Terrorismus.md",
     "13. Jahrgang/Deutsch/Elses Todestraum.md",
@@ -213,7 +216,6 @@
     "12. Jahrgang/Geschichte/Amerikanische Revolution/Wessen Revolution.md",
     "12. Jahrgang/Deutsch/Handout Expressionismus.md",
     "conflict-files-obsidian-git.md",
-    "12. Jahrgang/Geschichte/China/Schwäche Chinas.md",
     "Untitled.canvas",
     "12. Jahrgang/Seminarfach/Facharbeit/Verhältnisgraph.png",
     "12. Jahrgang/Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2011- Pareto.png",
