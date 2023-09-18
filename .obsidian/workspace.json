@@ -18,43 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "47bc2cc0a2101f68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "13. Jahrgang/Deutsch/literarische Erörterung.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "77faef774a8a2ee3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "13. Jahrgang/Informatik/Binäre Bäume/Recherche.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3406c792a5f19f04",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cc65e00363902932",
@@ -128,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13. Jahrgang/Informatik/Binäre Bäume/Recherche.md",
+                "file": "13. Jahrgang/Politik/Friedenssicherung/Entwicklung des Terrorismus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "13. Jahrgang/Informatik/Binäre Bäume/Recherche.md",
+                "file": "13. Jahrgang/Politik/Friedenssicherung/Entwicklung des Terrorismus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "13. Jahrgang/Informatik/Binäre Bäume/Recherche.md"
+                "file": "13. Jahrgang/Politik/Friedenssicherung/Entwicklung des Terrorismus.md"
               }
             }
           },
@@ -210,11 +176,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3406c792a5f19f04",
+  "active": "1348496da3e55170",
   "lastOpenFiles": [
+    "13. Jahrgang/Deutsch/literarische Erörterung.md",
     "13. Jahrgang/Informatik/Binäre Bäume/Recherche.md",
     "13. Jahrgang/Informatik/Binäre Bäume",
-    "13. Jahrgang/Deutsch/literarische Erörterung.md",
     "13. Jahrgang/Politik/Friedenssicherung/Verteilung von Kriegen und Konflikten in Amerika.md",
     "13. Jahrgang/Politik/Friedenssicherung/Entwicklung des Terrorismus.md",
     "13. Jahrgang/Deutsch/Elses Todestraum.md",
