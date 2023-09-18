@@ -23,5 +23,7 @@ Die bekannteste Typologisierung von Terrorismus ist die nach Motivgruppen. Danac
 4. religiöser/fundamentalistischer Terrorismus
    + Ziele: Überwindung weltlicher Gesellschafts- und Staatsformen zur Errichtung einer aus einem fundamentalistischen REligionsverständnis abgeleiteten Theokratie (Gottesstaat)
    + z.B. Boko Haram (Nigeria), al-Qaida, "Islamischer Staat"
+
+
 Zusätzlich kann eine systematische Unterscheidung hinsichtlich des Aktionsradius von terroristischen Gruppierungen getroffen werden:
-Beim Types des **internationalen Terrorismus** verüben die Attentäter gezielt Anschläge im Ausland, sodass Täter und OPfer unterschiedliche Nationalitäten besitz
+Beim Types des **internationalen Terrorismus** verüben die Attentäter gezielt Anschläge im Ausland, sodass Täter und OPfer unterschiedliche Nationalitäten besitzen. DIe jüngsten Entwicklungsform stellt der **transnationale Terrorismus** dar. Im Gegensatz zur vorgenannten Variante rekrutieren diese terroristischen Gruppen ihre Mitglieder aus unterschiedlichsten Nationen und verüben weltweit Anschläge.
