@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "77faef774a8a2ee3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -157,6 +167,16 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "4e16a51afe299eae",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 4
@@ -178,8 +198,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "47bc2cc0a2101f68",
+  "active": "b0680ab473732a96",
   "lastOpenFiles": [
+    "13. Jahrgang/Informatik/Binäre Bäume",
     "13. Jahrgang/Deutsch/literarische Erörterung.md",
     "13. Jahrgang/Politik/Friedenssicherung/Verteilung von Kriegen und Konflikten in Amerika.md",
     "13. Jahrgang/Politik/Friedenssicherung/Entwicklung des Terrorismus.md",
@@ -215,7 +236,6 @@
     "12. Jahrgang/Geschichte/Amerikanische Revolution/Zeitleiste Verlauf Unabhängigkeitskrieg.md",
     "12. Jahrgang/Geschichte/Amerikanische Revolution/Wessen Revolution.md",
     "12. Jahrgang/Deutsch/Handout Expressionismus.md",
-    "conflict-files-obsidian-git.md",
     "Untitled.canvas",
     "12. Jahrgang/Seminarfach/Facharbeit/Verhältnisgraph.png",
     "12. Jahrgang/Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2011- Pareto.png",
