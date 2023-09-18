@@ -35,9 +35,11 @@
             "id": "77faef774a8a2ee3",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.12"
+                "file": "13. Jahrgang/Informatik/Binäre Bäume/Recherche.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -116,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13. Jahrgang/Deutsch/literarische Erörterung.md",
+                "file": "13. Jahrgang/Informatik/Binäre Bäume/Recherche.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "13. Jahrgang/Deutsch/literarische Erörterung.md",
+                "file": "13. Jahrgang/Informatik/Binäre Bäume/Recherche.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "13. Jahrgang/Deutsch/literarische Erörterung.md"
+                "file": "13. Jahrgang/Informatik/Binäre Bäume/Recherche.md"
               }
             }
           },
@@ -198,8 +200,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b0680ab473732a96",
+  "active": "77faef774a8a2ee3",
   "lastOpenFiles": [
+    "13. Jahrgang/Informatik/Binäre Bäume/Recherche.md",
     "13. Jahrgang/Informatik/Binäre Bäume",
     "13. Jahrgang/Deutsch/literarische Erörterung.md",
     "13. Jahrgang/Politik/Friedenssicherung/Verteilung von Kriegen und Konflikten in Amerika.md",
@@ -222,7 +225,6 @@
     "Kurswahl.pdf",
     "Klausurenplan.pdf",
     "Excalidraw/Drawing 2023-06-19 10.57.13.excalidraw.md",
-    "Excalidraw",
     "12. Jahrgang/Politik & Wirtschaft/Untitled.md",
     "12. Jahrgang/Politik & Wirtschaft/Ziele der Sozialen Marktwirtschaft.md",
     "12. Jahrgang/Politik & Wirtschaft/Funktion von Interessenverbänden.md",
