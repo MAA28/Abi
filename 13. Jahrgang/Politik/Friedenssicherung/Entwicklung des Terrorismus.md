@@ -9,3 +9,7 @@
 ![Berlin](https://img.zeit.de/politik/deutschland/2016-12/anschlag-berlin-muslime-kommentar/standard__1120x840)
 
 Der mutmaßliche Täter hat seine Ziele kaum ausgewählt (vielleicht das christliche Weihnachtsfest - das geht aber nicht aus dem Text vor). Die Opfer waren keine Politiker oder andersweitige Eliten. Das Motiv des Angriffs scheint das verbreiten von Angst und Schrecken gewesen zu sein. Sowohl von der Art des Anschlags, Zielen als auch der Motivation her ist diese Aktion als "neuer Terrorismus" einzustufen.
+# Terrorismus - eine Typologie
+Die bekannteste Typologisierung von Terrorismus ist die nach Motivgruppen. Danach lässt sich jede terroristische Organisation diesen vier Typen zuordnen, wobei auch Mischformen existieren. Alle terroristischen Akteure eint jedoch ein gewaltsames Vorgehen zur Verfolgung ihrer Ziele:
+1. Sozialrevolutionärer Terrorismus
+   + Ziel: Grundlegende Umwälzung der gessels
