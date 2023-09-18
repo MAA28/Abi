@@ -16,6 +16,9 @@ Die bekannteste Typologisierung von Terrorismus ist die nach Motivgruppen. Danac
    + z.B. RAF (Deutschland), Brigate Rosse (Italien)
 2. ethnisch-nationalistischer Terrorismus
    + Ziel: Erhalt eines eigenen Staatsgebietes (durch Abspaltung) für Bevölkerungsminderheiten (oft mit eigener Sprache und Kultur)
-   + z.B. bask
+   + z.B. baskische ETA (Spanien), IRA (Irland, Großbritannien)
 3. vigilantistischer Terrorismus
+   + Ziel: Stärkung existierender staatlicher Autorität (in ihrem ideoligschen Sinne), Gegensatz zu Terroristengruppen anderer Motivtypen
+   + z.B. Ku-Klux-Klan (USA), NSU (Deutschland)
 4. religiöser/fundamentalistischer Terrorismus
+   + Ziele: Überwindung weltlicher Gesellschafts- und Staatsformen zur Errichtung einer aus einem fundamentalistischen REligionsverständnis abgeleiteten Theokratie (Gottes)
