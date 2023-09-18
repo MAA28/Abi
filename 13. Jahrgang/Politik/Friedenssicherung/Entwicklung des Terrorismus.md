@@ -12,4 +12,10 @@ Der mutmaßliche Täter hat seine Ziele kaum ausgewählt (vielleicht das christl
 # Terrorismus - eine Typologie
 Die bekannteste Typologisierung von Terrorismus ist die nach Motivgruppen. Danach lässt sich jede terroristische Organisation diesen vier Typen zuordnen, wobei auch Mischformen existieren. Alle terroristischen Akteure eint jedoch ein gewaltsames Vorgehen zur Verfolgung ihrer Ziele:
 1. Sozialrevolutionärer Terrorismus
-   + Ziel: Grundlegende Umwälzung der gessels
+   + Ziel: Grundlegende Umwälzung der gesellschaftlichen Besitz- und Herrschaftsverhältnisse
+   + z.B. RAF (Deutschland), Brigate Rosse (Italien)
+2. ethnisch-nationalistischer Terrorismus
+   + Ziel: Erhalt eines eigenen Staatsgebietes (durch Abspaltung) für Bevölkerungsminderheiten (oft mit eigener Sprache und Kultur)
+   + z.B. bask
+3. vigilantistischer Terrorismus
+4. religiöser/fundamentalistischer Terrorismus
