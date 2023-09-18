@@ -3,3 +3,5 @@ Ein binärer Suchbaum ist ein dynamischer Datentype, welche eine geordnete Liste
 # Welche Möglichkeiten der sogenannten "Traversierung" gibt es?
 Man kann den Baum sowohl rekursiv aber auch iterativ mit einem while-Loop traversieren.
 # Was ist die Höhe eines Baumes? Was ist ein ausgeglichener Baum? Was ein vollständiger Baum?
+
+jajja so fliegt die zeit
