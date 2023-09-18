@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3406c792a5f19f04",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -200,7 +210,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "77faef774a8a2ee3",
+  "active": "3406c792a5f19f04",
   "lastOpenFiles": [
     "13. Jahrgang/Informatik/Binäre Bäume/Recherche.md",
     "13. Jahrgang/Informatik/Binäre Bäume",
