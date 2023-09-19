@@ -18,4 +18,4 @@ Im Kontrast dazu zeigt sich Elses Verletzlichkeit und Unsicherheit in bestimmten
 
 Ihr chameleonartiges Verhalten ermöglicht es ihr, sich den Anforderungen ihrer Umgebung anzupassen und verschiedene Frauenrollen anzunehmen, was ihre innere Vielschichtigkeit unterstreicht.
 
-Zusammenfassend lässt sich festhalten, dass Alexandra Tacker in ihrer Analyse überzeugend argumentiert. Sie zeigt auf, wie Else zwischen verschiedenen Identitäten und Rollen wechselt, was tiefe Einblicke in ihre Psyche gewährt. Dieses Werk der Moderne vermittelt eindrucksvoll die Ambivalenz der weiblichen Identität und hinterlässt beim Leser nachhaltige Eindrücke.
+Zusammenfassend lässt sich festhalten, dass Alexandra Tacker in ihrer Analyse überzeugend argumentiert. Sie zeigt auf, wie Else zwischen verschiedenen Identitäten und Rollen wechselt, was tiefe Einblicke in ihre Psyche gewährt.
