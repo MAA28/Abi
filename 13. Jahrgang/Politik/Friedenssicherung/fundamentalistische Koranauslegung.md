@@ -13,7 +13,9 @@ Der IS hatte höchst wahrscheinlich nie das Ziel mit seinen Attentaten die Macht
 
 Symbolische Opfer haben die Angriffe auch wobei das nicht immer ganz klar wird. Bei Angriffen auf Shopping Centren und Weihnachtsmärkten handelt es sich vermutlich um Symbole der ideologischen, militärischen und wirtischaftliche Macht der angegriffenen Regionen.
 
-Auch wenn das Kriterium der Substaatlichkeit als umschritten von Herr Richardson beschrieben wird ist  
+Auch wenn das Kriterium der Substaatlichkeit als umschritten von Herr Richardson beschrieben wird, ist es so oder so bei dem Fall des IS erfüllt. Der IS beanprucht zwar den Titel eines Staates und hatte zwischenzeitig auch schon  Regionen unterseiner Kontrolle und staatliche Bürokratie sowie einnährungsweise monopolistische Gewalt jedoch hielten alle diese Aspekte nicht für allzu lang und annerkannt als Staat wurde der IS fast von niemanden.
+
+
 
 
 
