@@ -17,7 +17,9 @@ Auch wenn das Kriterium der Substaatlichkeit als umschritten von Herr Richardson
 
 Das fünfte Merkmal wird weitesgehend erfüllt: Es werden in der Regel primär Christen, Europäer, US-Amerikaner u.ä. Opfer der Gewaltakte des IS. Die Ziel gruppe der Nachricht die mit diesen Handlungen verbreitet werden soll sind jedoch Muslime außerhalb des "Westens" und nur teilweise neue Rekruiten für weiter Handlungen.
 
-Das von RIchardson als "wichtigste[s]"
+Das von Richardson als "wichtigste\[s\] Merkmal des Terrorismus" beschriebene Merkmal wird definitiv vom IS erfüllt. Ihre Gewalt wändet sich klar gegen Zivilisten.
+
+Da fast all Angriffe des IS in Europa und Nordamerika als die Merkmal des Terrorismus von Richardson weitestgehend oder vollständig erfüllt werden, ergibt es Sinn den IS als Terrororganisation zu kategori
 
 
 
