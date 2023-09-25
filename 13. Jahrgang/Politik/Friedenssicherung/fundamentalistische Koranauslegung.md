@@ -5,4 +5,6 @@
 # Handelt es sich bei dem IS um eine Terrororganisation
 Nach der Definition von Louise Richardson handelt es sich bei dem IS um eine Terrororganisation:
 
-Herr Richardson beschreibt sechs Merkmale des Terrorismus. Das erste wird von dem IS definitiv erfüllt: Seine Handlungen sind nicht unpolitis
+Herr Richardson beschreibt sechs Merkmale des Terrorismus. Das erste wird von dem IS definitiv erfüllt: Seine Handlungen sind nicht unpolitisch, sie versuchen eine sehr politische Nachricht über die Rolle und Auslegung der Religion im Staat zu senden.
+
+Das Zweite Merkmal, das der Gewalt Anwendung oder Androhung, wird auch sehr klar vom IS erfüllt. Fast jede Aktion des IS hatte mehrer Todesopfer und oft viele Verletzte, nicht zu vergessen das der IS  
