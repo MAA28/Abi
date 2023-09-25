@@ -15,7 +15,9 @@ Symbolische Opfer haben die Angriffe auch wobei das nicht immer ganz klar wird. 
 
 Auch wenn das Kriterium der Substaatlichkeit als umschritten von Herr Richardson beschrieben wird, ist es so oder so bei dem Fall des IS erfüllt. Der IS beanprucht zwar den Titel eines Staates und hatte zwischenzeitig auch schon  Regionen unterseiner Kontrolle und staatliche Bürokratie sowie einnährungsweise monopolistische Gewalt jedoch hielten alle diese Aspekte nicht für allzu lang und annerkannt als Staat wurde der IS fast von niemanden.
 
+Das fünfte Merkmal wird weitesgehend erfüllt: Es werden in der Regel primär Christen, Europäer, US-Amerikaner u.ä. Opfer der Gewaltakte des IS. Die Ziel gruppe der Nachricht die mit diesen Handlungen verbreitet werden soll sind jedoch Muslime außerhalb des "Westens" und nur teilweise neue Rekruiten für weiter Handlungen.
 
+Das von RIchardson als "wichtigste[s]"
 
 
 
