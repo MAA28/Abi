@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Terrororganisation",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13. Jahrgang/Politik/Friedenssicherung/fundamentalistische Koranauslegung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "13. Jahrgang/Politik/Friedenssicherung/fundamentalistische Koranauslegung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "13. Jahrgang/Politik/Friedenssicherung/fundamentalistische Koranauslegung.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,10 +171,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3f03a8591e24a708",
+  "active": "729a8b6947b532d0",
   "lastOpenFiles": [
-    "13. Jahrgang/Deutsch/Denken - Sprechen - Wirklichkeit/Notizen zu drei Sätzen.md",
     "13. Jahrgang/Politik/Friedenssicherung/fundamentalistische Koranauslegung.md",
+    "13. Jahrgang/Deutsch/Denken - Sprechen - Wirklichkeit/Notizen zu drei Sätzen.md",
     "13. Jahrgang/Deutsch/Fraulein Else/Elses Todestraum.md",
     "13. Jahrgang/Deutsch/Denken - Sprechen - Wirklichkeit",
     "13. Jahrgang/Politik/Friedenssicherung/Entwicklung des Terrorismus.md",
