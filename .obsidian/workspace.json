@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "timeline",
+                "query": "Terrororganisation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -174,7 +175,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b0680ab473732a96",
+  "active": "3f03a8591e24a708",
   "lastOpenFiles": [
     "13. Jahrgang/Deutsch/Denken - Sprechen - Wirklichkeit/Notizen zu drei Sätzen.md",
     "13. Jahrgang/Politik/Friedenssicherung/fundamentalistische Koranauslegung.md",

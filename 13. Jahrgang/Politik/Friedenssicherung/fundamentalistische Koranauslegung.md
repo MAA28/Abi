@@ -2,8 +2,8 @@
 + man kann ih Salafistisch (wortwörtlich) deuten
 + man kann begriffe wie "Dschihad" als "heiligen Krieg" deuten
 + so kann man die Handlungen legitimieren
-# Handelt es sich bei dem IS um eine Terrororganisation
-Nach der Definition von Louise Richardson handelt es sich bei dem IS um eine Terrororganisation wenn man sich auf die Angriffe in Europa und der USA fokusiert und den Krieg in Syrien auslässt:
+# Handelt es sich bei dem IS um eine terroristische Organisation
+Nach der Definition von Louise Richardson handelt es sich bei dem IS um eine terroristische Organisation wenn man sich auf die Angriffe in Europa und der USA fokusiert und den Krieg in Syrien auslässt:
 
 Herr Richardson beschreibt sechs Merkmale des Terrorismus. Das erste wird von dem IS definitiv erfüllt: Seine Handlungen sind nicht unpolitisch, sie versuchen eine sehr politische Nachricht über die Rolle und Auslegung der Religion im Staat zu senden.
 
@@ -19,7 +19,7 @@ Das fünfte Merkmal wird weitesgehend erfüllt: Es werden in der Regel primär C
 
 Das von Richardson als "wichtigste\[s\] Merkmal des Terrorismus" beschriebene Merkmal wird definitiv vom IS erfüllt. Ihre Gewalt wändet sich klar gegen Zivilisten.
 
-Da fast all Angriffe des IS in Europa und Nordamerika als die Merkmal des Terrorismus von Richardson weitestgehend oder vollständig erfüllt werden, ergibt es Sinn den IS als Terrororganisation zu kategori
+Da fast all Angriffe des IS in Europa und Nordamerika als die Merkmal des Terrorismus von Richardson weitestgehend oder vollständig erfüllt werden, ergibt es Sinn den IS als terroristische Organisation zu kategorisieren. Eine Terrororganisation sind sie deshalb nicht weil ihre funktion nicht ist im Auftrag eines Staates die Bevölkerung zu unterdrücken. 
 
 
 
