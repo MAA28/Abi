@@ -7,6 +7,11 @@ Nach der Definition von Louise Richardson handelt es sich bei dem IS um eine Ter
 
 Herr Richardson beschreibt sechs Merkmale des Terrorismus. Das erste wird von dem IS definitiv erfüllt: Seine Handlungen sind nicht unpolitisch, sie versuchen eine sehr politische Nachricht über die Rolle und Auslegung der Religion im Staat zu senden.
 
-Das Zweite Merkmal, das der Gewalt Anwendung oder Androhung, wird auch sehr klar vom IS erfüllt. Fast jede Aktion des IS hatte mehrer Todesopfer und oft viele Verletzte, wie zum Beispiel der Attentat auf dem Breisscheidplatz in Berlin.
+Das zweite Merkmal, das der Gewalt Anwendung oder Androhung, wird auch sehr klar vom IS erfüllt. Fast jede Aktion des IS hatte mehrer Todesopfer und oft viele Verletzte, wie zum Beispiel der Attentat auf dem Breisscheidplatz in Berlin.
 
-Der IS hatte höchst wahrscheinlich nie das Ziel
+Der IS hatte höchst wahrscheinlich nie das Ziel mit seinen Attentaten die Macht in den Zielregionen zu erobern. Indiz hierfür ist, dass die Attentate fast nie führende Personen in Politik und Wirtschaft trafen sondern überlicherweise einfach zufällige Menschen an alltäglichen Orten.
+
+Symbolische Opfer haben die Angriffe auch wobei das nicht immer ganz klar wird. Bei angriffen
+
+
+
