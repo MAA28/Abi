@@ -11,7 +11,9 @@ Das zweite Merkmal, das der Gewalt Anwendung oder Androhung, wird auch sehr klar
 
 Der IS hatte höchst wahrscheinlich nie das Ziel mit seinen Attentaten die Macht in den Zielregionen zu erobern. Indiz hierfür ist, dass die Attentate fast nie führende Personen in Politik und Wirtschaft trafen sondern überlicherweise einfach zufällige Menschen an alltäglichen Orten.
 
-Symbolische Opfer haben die Angriffe auch wobei das nicht immer ganz klar wird. Bei angriffen
+Symbolische Opfer haben die Angriffe auch wobei das nicht immer ganz klar wird. Bei Angriffen auf Shopping Centren und Weihnachtsmärkten handelt es sich vermutlich um Symbole der ideologischen, militärischen und wirtischaftliche Macht der angegriffenen Regionen.
+
+Auch wenn das Kriterium der Substaatlichkeit als umschritten von Herr Richardson beschrieben wird ist  
 
 
 
