@@ -1,0 +1,9 @@
+Benjamin Lee Whorf hat mal bei 'ner Versicherung gearbeitet und hatte 'nen echt krassen Schadenfall. Da war so 'n Fass, das vorher voller Brennstoff war, aber irrtümlicherweise als "leer" markiert wurde. Das hat dann 'ne Explosion verursacht, weil da noch explosive Gase drin waren.
+
+Das könnte 'nen Auslöser für Whorfs spätere Sprachstudien und seine Verbindung zum sprachlichen Relativitätsprinzip gewesen sein. Das Prinzip besagt, dass die Sprache, die wir sprechen, unser Denken und unsere Sicht auf die Welt beeinflusst.
+
+In dem speziellen Fall konnte Whorf vielleicht sehen, wie die Wahl des Wortes "leer" für das Fass zu 'nem Missverständnis geführt hat. Die Arbeiter haben "leer" wohl als "ohne Brennstoff" verstanden, aber sie haben die explosiven Gase nicht bedacht. Das zeigt, wie die Sprache, die sie benutzt haben, ihre Sicht und Entscheidungen beeinflusst hat. Wenn sie 'ne genauere Beschreibung verwendet hätten, hätten sie vielleicht die Gefahr erkannt.
+
+Whorf hat solche Beispiele untersucht, um zu betonen, wie wichtig die Sprache für unsere Gedanken und unsere Sicht auf die Welt ist. Er hat gesagt, dass verschiedene Sprachen verschiedene Denkweisen und Perspektiven ermöglichen und dass die Wahl der Wörter beeinflusst, wie wir die Realität sehen.
+
+Insgesamt könnte diese Erfahrung mit dem Fass dazu beigetragen haben, dass Whorf für das sprachliche Relativitätsprinzip sensibilisiert wurde und dass er inspiriert wurde, die Beziehung zwischen Sprache, Denken und Kultur weiter zu erforschen.
