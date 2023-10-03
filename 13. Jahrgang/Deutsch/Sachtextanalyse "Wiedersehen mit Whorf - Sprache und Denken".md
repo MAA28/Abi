@@ -13,5 +13,5 @@ Bei der Erlauterung der Whorf-Hypothese (vgl. Z. 1 - 45) ist Zimmer nicht gerade
 
 In dem folgenden Absatzen präsentiert Zimmer neue Fakten (vgl. Z. 45-56) über den von Whorf untersuchten Sprachgebrauch der Hopi, der seit dem entstehen der Whorf-Hypothese genauer beobachtet wurde. Außerdem behauptet Zimmer, dass auch unabhängig von diesen neuen Untersuchungen Whorf die Ursache und Wirkung in seiner Analyse verwechselt habe (vgl. Z. 56 - 68).
 
-In dem Rest des Textes legt Zimmer seine Hypothese zur Entwicklung und Rolle der Sprache da: Laut Zimmer entwicklet sich die Sprache aufgrund von der Notwendigkeit Ereignisse, Ding, Handlungen, Gedanken usw. einem anderen Menschen zu kommunizieren (vgl. Z. 90 - 91). 
+In dem Rest des Textes legt Zimmer seine Hypothese zur Entwicklung und Rolle der Sprache da: Laut Zimmer entwicklet sich die Sprache aufgrund von der Notwendigkeit Ereignisse, Ding, Handlungen, Gedanken usw. einem anderen Menschen zu kommunizieren (vgl. Z. 90 - 91). Er arbeitet die Theorie weiter aus und erklärt wie sich damit bestimmte Phanomäne verstehen lassen: Verschiedene Sprachen haben laut Zimmer ähnliche Wörter vor Allem für die fundamentalsten Bedürfnisse (vgl. )
 
