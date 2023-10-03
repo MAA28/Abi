@@ -11,4 +11,5 @@ In dem Auszug der Seiten 119 bis 163 des von Dieter E. Zimmer in Zürich 1986 ve
 
 Bei der Erlauterung der Whorf-Hypothese (vgl. Z. 1 - 45) ist Zimmer nicht gerade professionel. Anstatt dessen zieht er die Hypothese ins lächerliche, spricht von "Heuigkeiten zum Gruseln" (Z. 1), "Gefangenen ihrer Sprache, aus der es kein Ausbrechen \[gebe\]" (Z. 6-7) und wirft Benjamin Lee Whorf vor undeutlich formuliert zu haben (vgl. Z. 25). Darauf folgend erklärt Zimmer noch die differenz zwischen der "schwachen" und der "starken Version" (vgl. Z. 28-44).
 
-In dem folgenden Absatzen präsentiert Zimmer neue Fakten (vgl. Z. 45-57)  
+In dem folgenden Absatzen präsentiert Zimmer neue Fakten (vgl. Z. 45-56) über den von Whorf untersuchten Sprachgebrauch der Hopi, der seit dem entstehen der Whorf-Hypothese genauer beobachtet wurde. Außerdem behauptet Zimmer, dass auch unabhängig von diesen neuen Untersuchungen Whorf die Ursache und Wirkung in seiner Analyse verwechselt habe (vgl. Z. 56 - 78).
+
