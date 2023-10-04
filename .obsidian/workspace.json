@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a861605dcbf6c6d8",
+        "id": "1ffa418a8ba6dfae",
         "type": "tabs",
         "children": [
           {
-            "id": "d83cb7a81667185e",
+            "id": "1c260e75e657725b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "13. Jahrgang/Deutsch/Denken - Sprechen - Wirklichkeit/Das linguistische Relativitätsprinzip.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "timeline",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "13. Jahrgang/Deutsch/Denken - Sprechen - Wirklichkeit/Das linguistische Relativitätsprinzip.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "13. Jahrgang/Deutsch/Denken - Sprechen - Wirklichkeit/Das linguistische Relativitätsprinzip.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "13. Jahrgang/Deutsch/Denken - Sprechen - Wirklichkeit/Das linguistische Relativitätsprinzip.md"
+              }
             }
           },
           {
@@ -166,13 +174,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d83cb7a81667185e",
+  "active": "1c260e75e657725b",
   "lastOpenFiles": [
     "13. Jahrgang/Deutsch/Sachtextanalyse \"Wiedersehen mit Whorf - Sprache und Denken\".md",
-    "13. Jahrgang/Deutsch/literarische Erörterung.md",
     "13. Jahrgang/Politik/Friedenssicherung/fundamentalistische Koranauslegung.md",
-    "13. Jahrgang/Deutsch/Elses Todestraum.md",
+    "13. Jahrgang/Deutsch/Denken - Sprechen - Wirklichkeit/Das linguistische Relativitätsprinzip.md",
+    "13. Jahrgang/Deutsch/Denken - Sprechen - Wirklichkeit/Notizen zu drei Sätzen.md",
+    "13. Jahrgang/Deutsch/Fraulein Else/Elses Todestraum.md",
+    "13. Jahrgang/Deutsch/Denken - Sprechen - Wirklichkeit",
     "13. Jahrgang/Politik/Friedenssicherung/Entwicklung des Terrorismus.md",
+    "13. Jahrgang/Deutsch/Fraulein Else",
+    "13. Jahrgang/Deutsch/Fraulein Else/literarische Erörterung.md",
     "13. Jahrgang/Informatik/Binäre Bäume/Recherche.md",
     "13. Jahrgang/Informatik/Binäre Bäume",
     "13. Jahrgang/Politik/Friedenssicherung/Verteilung von Kriegen und Konflikten in Amerika.md",
@@ -180,7 +192,7 @@
     "13. Jahrgang/Politik/Friedenssicherung/Alte Kriege, Neue Kriege.md",
     "13. Jahrgang/Politik/Friedenssicherung/Assoziation - Krieg & Frieden.md",
     "12. Jahrgang",
-    "13. Jahrgang/Deutsch/Erwartungen von und an Else.md",
+    "13. Jahrgang/Deutsch/Fraulein Else/Erwartungen von und an Else.md",
     "13. Jahrgang/Deutsch",
     "12. Jahrgang/Deutsch/Fräulein Else/Analyse des Anfangs.md",
     "Untitled.md",
@@ -190,8 +202,6 @@
     "12. Jahrgang/Geschichte/China/Hunnenrede.md",
     "12. Jahrgang/Deutsch/Fräulein Else",
     "Schwerpunkte mit P-Fächern u Fächerbelegungen.pdf",
-    "Kurswahl.pdf",
-    "Klausurenplan.pdf",
     "Excalidraw/Drawing 2023-06-19 10.57.13.excalidraw.md",
     "12. Jahrgang/Politik & Wirtschaft/Untitled.md",
     "12. Jahrgang/Politik & Wirtschaft/Ziele der Sozialen Marktwirtschaft.md",
@@ -202,8 +212,6 @@
     "12. Jahrgang/Politik & Wirtschaft/Sachurteil - Rolle der Medien in einer Demokratie.md",
     "12. Jahrgang/Geschichte/China/Warum Japan sich industrialisierte?.md",
     "12. Jahrgang/Politik & Wirtschaft/Externe Effekte.md",
-    "12. Jahrgang/Philosophie/Krieg - der Vater aller Dinge?.md",
-    "12. Jahrgang/Geschichte/Amerikanische Revolution/Zeitleiste Verlauf Unabhängigkeitskrieg.md",
     "Untitled.canvas",
     "12. Jahrgang/Seminarfach/Facharbeit/Verhältnisgraph.png",
     "12. Jahrgang/Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2011- Pareto.png",
