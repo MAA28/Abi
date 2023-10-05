@@ -1,1 +1,1 @@
-Möchte man transnationalistischen Terrorismus bekämpfen, so kann man bei den Bedingungen 
+Möchte man transnationalistischen Terrorismus bekämpfen, so kann man nachhaltig bei den Ursachen dieses Terrorismus' angreifen: Einer der Bedeutensten Motivatoren für spezifisch islamistischen trans 
