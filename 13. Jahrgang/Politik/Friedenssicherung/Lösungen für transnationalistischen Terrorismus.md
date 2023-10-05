@@ -1,1 +1,1 @@
-Möchte man transnationalistischen Terrorismus bekämpfen, so kann man nachhaltig bei den Ursachen dieses Terrorismus' angreifen: Einer der Bedeutensten Motivatoren für spezifisch islamistischen trans 
+Möchte man transnationalistischen Terrorismus bekämpfen, so kann man nachhaltig bei den Ursachen dieses Terrorismus' angreifen: Einer der Bedeutensten Motivatoren für spezifisch islamistischen transnationalen Terrorismus ist der Hass auf die USA und ihre Kriege im Westasien. Daher würde ich als Maßnahmen mit besonderer Effektivität vorschlagen  
