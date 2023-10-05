@@ -1,0 +1,1 @@
+Möchte man transnationalistischen Terrorismus bekämpfen, so kann man bei den Bedingungen 
