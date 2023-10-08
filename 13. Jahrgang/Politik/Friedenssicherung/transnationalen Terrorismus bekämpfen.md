@@ -1,0 +1,1 @@
+Auf der nationalen Ebene (in Deutschland) könnte es sinnvoll sein Flüchtlinge und Migranten aus Regionen in denen transnationaler Terrorismus organisiert wird bewusst und strategisch zu integrieren und anzubinden. Konkret heißt dass
