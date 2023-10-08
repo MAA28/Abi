@@ -2,4 +2,6 @@ Auf der nationalen Ebene (in Deutschland) könnte es sinnvoll sein Flüchtlinge 
 
 Aus dem vorigen Vorschlag folgend lässt sich herleiten, dass die Bedingungen in den Flüchtlingslagern anzupassen eine weitere sinnvolle Maßnahme sein könnte. Im Detail wären Eben auch hier Sprachangebote möglich aber vor Allem müsste der Aufteilszeitraum in diesen Lagern reduziert werden, was die Mittelmeerregionen entlassten würde und das Agitationspotential senken würde. Die meisten dieser Flüchtlingsheime liegen jedoch am Mittelmeer, daher ist der deutsche Einfluss dort natürlich begrenzter, dennoch wäre es möglich durch die EU die Flüchtlingspolitik auch dort mitzubestimmen.
 
-Auf der internationaler Ebene wäre es möglich sich für effektive Friedenssicherung einzusetzen, denn wie Hammad Sheikh in der Einleitung seines Artikels "Die Drei Grundformen des Dschihad" erklärt sind Kriege ein Bedeutender Faktor in der Radikalisierung vieler späterer Kämpfer
+Auf der internationaler Ebene wäre es möglich sich für effektive Friedenssicherung einzusetzen, denn wie Hammad Sheikh in der Einleitung seines Artikels "Die Drei Grundformen des Dschihad" erklärt sind Kriege ein Bedeutender Faktor in der Radikalisierung vieler späterer Kämpfer für transnationale terroristische Organisationen wie den IS (vgl. Z. 1-11). Hier könnte Göttingen einen Beitrag leisten mit einem stopp der Auslandseinsätze der Bundeswehr und ein Verbot von Waffenexporten. 
+
+Bei allen dieser Vorschlägen mangelt es an dem politischen Willen der Regierenden und die le
