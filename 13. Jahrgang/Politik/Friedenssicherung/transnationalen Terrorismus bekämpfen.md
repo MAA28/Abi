@@ -4,4 +4,4 @@ Aus dem vorigen Vorschlag folgend lässt sich herleiten, dass die Bedingungen in
 
 Auf der internationaler Ebene wäre es möglich sich für effektive Friedenssicherung einzusetzen, denn wie Hammad Sheikh in der Einleitung seines Artikels "Die Drei Grundformen des Dschihad" erklärt sind Kriege ein Bedeutender Faktor in der Radikalisierung vieler späterer Kämpfer für transnationale terroristische Organisationen wie den IS (vgl. Z. 1-11). Hier könnte Göttingen einen Beitrag leisten mit einem stopp der Auslandseinsätze der Bundeswehr und ein Verbot von Waffenexporten. 
 
-Bei allen dieser Vorschlägen mangelt es an dem politischen Willen der Regierenden und die le
+Bei allen dieser Vorschlägen mangelt es an dem politischen Willen der Regierenden. Außerdem gibt es speziell in dem Punkte des Stopps von Waffenexporten den starken Widerspruch zwischen dem Interesse von Monopolkonzernen wie Rheinmetall, Airbuss und Thyssen Krupp mit der Produktion von Waffen Profit zu erwirtschaften und dem Anstreb
