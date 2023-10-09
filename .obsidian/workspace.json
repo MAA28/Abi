@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13. Jahrgang/Deutsch/Geschlechtergerechte Sprache.md",
+                "file": "13. Jahrgang/Politik/Friedenssicherung/transnationalen Terrorismus bekämpfen.md",
                 "mode": "preview",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cc65e00363902932",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13. Jahrgang/Deutsch/Geschlechtergerechte Sprache.md",
+                "file": "13. Jahrgang/Politik/Friedenssicherung/transnationalen Terrorismus bekämpfen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "13. Jahrgang/Deutsch/Geschlechtergerechte Sprache.md",
+                "file": "13. Jahrgang/Politik/Friedenssicherung/transnationalen Terrorismus bekämpfen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "13. Jahrgang/Deutsch/Geschlechtergerechte Sprache.md"
+                "file": "13. Jahrgang/Politik/Friedenssicherung/transnationalen Terrorismus bekämpfen.md"
               }
             }
           },
@@ -177,8 +176,8 @@
   },
   "active": "5eaa549742967b86",
   "lastOpenFiles": [
-    "13. Jahrgang/Informatik/Binäre Bäume/Recherche.md",
     "13. Jahrgang/Deutsch/Geschlechtergerechte Sprache.md",
+    "13. Jahrgang/Informatik/Binäre Bäume/Recherche.md",
     "13. Jahrgang/Politik/Friedenssicherung/transnationalen Terrorismus bekämpfen.md",
     "13. Jahrgang/Politik/Friedenssicherung/Lösungen für transnationalistischen Terrorismus.md",
     "13. Jahrgang/Deutsch/Sachtextanalyse \"Wiedersehen mit Whorf - Sprache und Denken\".md",
