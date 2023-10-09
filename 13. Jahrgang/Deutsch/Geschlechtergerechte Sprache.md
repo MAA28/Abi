@@ -1,5 +1,5 @@
 # Gendergerechte Sprache
-Sprache, die alle Geschlechter gleicher Maßen Beachtet.
+Sprache, die alle Geschlechter gleicher Maßen beachtet.
 # Genderfaire Sprache
 Sprache, die von Hörern und Lesern als gleichberechtigend wahrgenommen wird.
 # Geschlechtergerechte Sprache
