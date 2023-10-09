@@ -5,6 +5,6 @@ Sprache, die von Hörern und Lesern als gleichberechtigend wahrgenommen wird.
 # Geschlechtergerechte Sprache
 -> [[Geschlechtergerechte Sprache#Gendergerechte Sprache]]
 # Nicht-diskiminierende Sprache
-Sprache, die nicht Menschengruppen ausgrenzt.
+Sprache, die Menschengruppen nicht ausgrenzt.
 # Nicht-sexistische Sprache
-Sprache, die Frauen / Flintas\*
+Sprache, die Frauen / Flintas\* nicht ausgrenzt.
