@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13. Jahrgang/Politik/Friedenssicherung/transnationalen Terrorismus bekämpfen.md",
+                "file": "13. Jahrgang/Politik/Friedenssicherung/Alte Kriege, Neue Kriege.md",
                 "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "e97cd8f54103b817",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13. Jahrgang/Politik/Friedenssicherung/transnationalen Terrorismus bekämpfen.md",
+                "file": "13. Jahrgang/Politik/Friedenssicherung/Alte Kriege, Neue Kriege.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "13. Jahrgang/Politik/Friedenssicherung/transnationalen Terrorismus bekämpfen.md",
+                "file": "13. Jahrgang/Politik/Friedenssicherung/Alte Kriege, Neue Kriege.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "13. Jahrgang/Politik/Friedenssicherung/transnationalen Terrorismus bekämpfen.md"
+                "file": "13. Jahrgang/Politik/Friedenssicherung/Alte Kriege, Neue Kriege.md"
               }
             }
           },
@@ -185,11 +174,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e97cd8f54103b817",
+  "active": "5eaa549742967b86",
   "lastOpenFiles": [
+    "Klausurenplan.pdf",
+    "13. Jahrgang/Politik/Friedenssicherung/transnationalen Terrorismus bekämpfen.md",
     "13. Jahrgang/Deutsch/Geschlechtergerechte Sprache.md",
     "13. Jahrgang/Informatik/Binäre Bäume/Recherche.md",
-    "13. Jahrgang/Politik/Friedenssicherung/transnationalen Terrorismus bekämpfen.md",
     "13. Jahrgang/Politik/Friedenssicherung/Lösungen für transnationalistischen Terrorismus.md",
     "13. Jahrgang/Deutsch/Sachtextanalyse \"Wiedersehen mit Whorf - Sprache und Denken\".md",
     "13. Jahrgang/Politik/Friedenssicherung/transnationalen Islamismus.md",
@@ -222,7 +212,6 @@
     "12. Jahrgang/Politik & Wirtschaft/Ziele der Sozialen Marktwirtschaft.md",
     "12. Jahrgang/Politik & Wirtschaft/Funktion von Interessenverbänden.md",
     "12. Jahrgang/Politik & Wirtschaft/Funktion der Parteien.md",
-    "12. Jahrgang/Politik & Wirtschaft/Nicht lineare Quellen.md",
     "Untitled.canvas",
     "12. Jahrgang/Seminarfach/Facharbeit/Verhältnisgraph.png",
     "12. Jahrgang/Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2011- Pareto.png",
