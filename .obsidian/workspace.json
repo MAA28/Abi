@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13. Jahrgang/Politik/Friedenssicherung/Alte Kriege, Neue Kriege.md",
-                "mode": "preview",
+                "file": "13. Jahrgang/Politik/Friedenssicherung/Entwicklung des IS.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13. Jahrgang/Politik/Friedenssicherung/Alte Kriege, Neue Kriege.md",
+                "file": "13. Jahrgang/Politik/Friedenssicherung/Entwicklung des IS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "13. Jahrgang/Politik/Friedenssicherung/Alte Kriege, Neue Kriege.md",
+                "file": "13. Jahrgang/Politik/Friedenssicherung/Entwicklung des IS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "13. Jahrgang/Politik/Friedenssicherung/Alte Kriege, Neue Kriege.md"
+                "file": "13. Jahrgang/Politik/Friedenssicherung/Entwicklung des IS.md"
               }
             }
           },
@@ -189,6 +189,8 @@
   },
   "active": "5079415d8a169c98",
   "lastOpenFiles": [
+    "13. Jahrgang/Politik/Friedenssicherung/Alte Kriege, Neue Kriege.md",
+    "13. Jahrgang/Politik/Friedenssicherung/Entwicklung des IS.md",
     "13. Jahrgang/Politik/Friedenssicherung/Assoziation - Krieg & Frieden.md",
     "13. Jahrgang/Politik/Friedenssicherung/Entwicklung des Terrorismus.md",
     "13. Jahrgang/Politik/Friedenssicherung/fundamentalistische Koranauslegung.md",
@@ -208,7 +210,6 @@
     "13. Jahrgang/Deutsch/Fraulein Else",
     "13. Jahrgang/Deutsch/Fraulein Else/literarische Erörterung.md",
     "13. Jahrgang/Informatik/Binäre Bäume",
-    "13. Jahrgang/Politik/Friedenssicherung/Alte Kriege, Neue Kriege.md",
     "12. Jahrgang",
     "13. Jahrgang/Deutsch/Fraulein Else/Erwartungen von und an Else.md",
     "13. Jahrgang/Deutsch",
@@ -224,7 +225,6 @@
     "12. Jahrgang/Politik & Wirtschaft/Untitled.md",
     "12. Jahrgang/Politik & Wirtschaft/Ziele der Sozialen Marktwirtschaft.md",
     "12. Jahrgang/Politik & Wirtschaft/Funktion von Interessenverbänden.md",
-    "12. Jahrgang/Politik & Wirtschaft/Funktion der Parteien.md",
     "Untitled.canvas",
     "12. Jahrgang/Seminarfach/Facharbeit/Verhältnisgraph.png",
     "12. Jahrgang/Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2011- Pareto.png",
