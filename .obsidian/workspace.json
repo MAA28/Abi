@@ -23,9 +23,11 @@
             "id": "5079415d8a169c98",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.16"
+                "file": "13. Jahrgang/Politik/Friedenssicherung/Alte Kriege, Neue Kriege.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -104,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13. Jahrgang/Politik/Friedenssicherung/transnationalen Terrorismus bekämpfen.md",
+                "file": "13. Jahrgang/Politik/Friedenssicherung/Alte Kriege, Neue Kriege.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "13. Jahrgang/Politik/Friedenssicherung/transnationalen Terrorismus bekämpfen.md",
+                "file": "13. Jahrgang/Politik/Friedenssicherung/Alte Kriege, Neue Kriege.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "13. Jahrgang/Politik/Friedenssicherung/transnationalen Terrorismus bekämpfen.md"
+                "file": "13. Jahrgang/Politik/Friedenssicherung/Alte Kriege, Neue Kriege.md"
               }
             }
           },
@@ -187,26 +189,26 @@
   },
   "active": "5079415d8a169c98",
   "lastOpenFiles": [
-    "13. Jahrgang/Politik/Untitled.md",
+    "13. Jahrgang/Politik/Friedenssicherung/Assoziation - Krieg & Frieden.md",
+    "13. Jahrgang/Politik/Friedenssicherung/Entwicklung des Terrorismus.md",
+    "13. Jahrgang/Politik/Friedenssicherung/fundamentalistische Koranauslegung.md",
+    "13. Jahrgang/Politik/Friedenssicherung/Gruppenpuzzel.md",
     "13. Jahrgang/Politik/Friedenssicherung/transnationalen Terrorismus bekämpfen.md",
+    "13. Jahrgang/Politik/Friedenssicherung/Verteilung von Kriegen und Konflikten in Amerika.md",
+    "13. Jahrgang/Politik/Untitled.md",
     "13. Jahrgang/Deutsch/Geschlechtergerechte Sprache.md",
     "13. Jahrgang/Informatik/Binäre Bäume/Recherche.md",
     "13. Jahrgang/Politik/Friedenssicherung/Lösungen für transnationalistischen Terrorismus.md",
     "13. Jahrgang/Deutsch/Sachtextanalyse \"Wiedersehen mit Whorf - Sprache und Denken\".md",
     "13. Jahrgang/Politik/Friedenssicherung/transnationalen Islamismus.md",
     "13. Jahrgang/Deutsch/Denken - Sprechen - Wirklichkeit/Das linguistische Relativitätsprinzip.md",
-    "13. Jahrgang/Politik/Friedenssicherung/fundamentalistische Koranauslegung.md",
     "13. Jahrgang/Deutsch/Denken - Sprechen - Wirklichkeit/Notizen zu drei Sätzen.md",
     "13. Jahrgang/Deutsch/Fraulein Else/Elses Todestraum.md",
     "13. Jahrgang/Deutsch/Denken - Sprechen - Wirklichkeit",
-    "13. Jahrgang/Politik/Friedenssicherung/Entwicklung des Terrorismus.md",
     "13. Jahrgang/Deutsch/Fraulein Else",
     "13. Jahrgang/Deutsch/Fraulein Else/literarische Erörterung.md",
     "13. Jahrgang/Informatik/Binäre Bäume",
-    "13. Jahrgang/Politik/Friedenssicherung/Verteilung von Kriegen und Konflikten in Amerika.md",
-    "13. Jahrgang/Politik/Friedenssicherung/Gruppenpuzzel.md",
     "13. Jahrgang/Politik/Friedenssicherung/Alte Kriege, Neue Kriege.md",
-    "13. Jahrgang/Politik/Friedenssicherung/Assoziation - Krieg & Frieden.md",
     "12. Jahrgang",
     "13. Jahrgang/Deutsch/Fraulein Else/Erwartungen von und an Else.md",
     "13. Jahrgang/Deutsch",
