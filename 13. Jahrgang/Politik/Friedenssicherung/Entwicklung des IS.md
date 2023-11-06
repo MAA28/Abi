@@ -1,1 +1,3 @@
-Der Terrorismus
+Der IS ist in seinem Kerngebiet militärisch weitestgehend besiegt. Die terrorialen Verluste machen es ihm deutlich schwerer Rückzugsorte, Lager und Finanzquellen zu erlangen aber die Agitation für terroristische Handlungen ist immer noch möglich, da Kriege, Krisen und Ethnische Konflikte (Sunniten/Shitten) die Region immer noch prägen.
+
+Auch im Westen kann es noch zu angriffen kommen wenn auch die wahrscheinlichkeit deutlich geringer ist.
