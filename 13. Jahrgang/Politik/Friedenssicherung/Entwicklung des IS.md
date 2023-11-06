@@ -1,3 +1,4 @@
-Der IS ist in seinem Kerngebiet militärisch weitestgehend besiegt. Die terrorialen Verluste machen es ihm deutlich schwerer Rückzugsorte, Lager und Finanzquellen zu erlangen aber die Agitation für terroristische Handlungen ist immer noch möglich, da Kriege, Krisen und Ethnische Konflikte (Sunniten/Shitten) die Region immer noch prägen.
+Der IS ist in seinem Kerngebiet militärisch weitestgehend besiegt. Die terrorialen Verluste machen es ihm deutlich schwerer Rückzugsorte, Lager und Finanzquellen zu erlangen. Aber die Agitation für terroristische Handlungen ist immer noch möglich, da Kriege, Krisen und Ethnische Konflikte (Sunniten/Shitten) die Region immer noch prägen und wie bei Ansi Amri genutzt werden können.
 
-Auch im Westen kann es noch zu angriffen kommen wenn auch die wahrscheinlichkeit deutlich geringer ist.
+Auch im Westen kann es noch zu angriffen kommen wenn auch die wahrscheinlichkeit deutlich geringer ist. Da der transnationale Terrorismus in Europa nie mit irgendwelchen eroberten Gebieten gerechnet hat und auch die Agitation anders funktionierte sind die Bedingungen für ähnlichen Terrorismus nach wie vor gegeben.
+
