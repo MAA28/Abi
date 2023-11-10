@@ -1,8 +1,9 @@
 # Ein Café
-S -> kP
-P -> {kP, mP, zP, $\epsilon$}
+$S \rightarrow kP$
+$P \rightarrow \{kP, mP, zP, \epsilon\}$
 
 # Mehrere Cafés
-S -> (K
-K -> kP
-P -> {kP, mP, zP, kE, mE, zE}
+$S \rightarrow (K$
+$K \rightarrow kP$
+$P \rightarrow \{kP, mP, zP, kE, mE, zE\}$
+$E \rightarrow \{)S, )\epsilon\}$
