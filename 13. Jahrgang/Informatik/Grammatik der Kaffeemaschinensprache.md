@@ -4,12 +4,12 @@ $S \rightarrow kP$
 $P \rightarrow \{kP | mP | zP | \epsilon\}$
 # Vollständigere Lösung
 $S \rightarrow kP$
-$P \rightarrow \{kP | mP | zP | \epsilon\}$
-
+$P \rightarrow \{kK | mP | zP \}$
+$K\rightarrow\{kK|mK|zK|\epsilon\}$
 
 # Mehrere Cafés
 $S_1 \rightarrow (K_1$
-$K_1 \rightarrow kP_1$
+$K_1 \rightarrow \{kP_1 | mK_1 | zK_1 \}$
 $P_1 \rightarrow \{kP_1|mP_1|zP_1|kE_1|mE_1|zE_1\}$
 $E_1 \rightarrow \{)S_2|)\epsilon\}$
 $S_2\rightarrow (K_2$
