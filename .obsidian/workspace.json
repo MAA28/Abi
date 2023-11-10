@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ac858757dc69c620",
+        "id": "c32f89189f39a6ed",
         "type": "tabs",
         "children": [
           {
-            "id": "5eaa549742967b86",
+            "id": "4260e403dc64d65c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13. Jahrgang/Seminarfach/Grammatik der Kaffeemaschinensprache.md",
-                "mode": "preview",
+                "file": "13. Jahrgang/Informatik/Grammatik der Kaffeemaschinensprache.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13. Jahrgang/Seminarfach/Grammatik der Kaffeemaschinensprache.md",
+                "file": "13. Jahrgang/Informatik/Grammatik der Kaffeemaschinensprache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "13. Jahrgang/Seminarfach/Grammatik der Kaffeemaschinensprache.md",
+                "file": "13. Jahrgang/Informatik/Grammatik der Kaffeemaschinensprache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "13. Jahrgang/Seminarfach/Grammatik der Kaffeemaschinensprache.md"
+                "file": "13. Jahrgang/Informatik/Grammatik der Kaffeemaschinensprache.md"
               }
             }
           },
@@ -174,10 +174,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5eaa549742967b86",
+  "active": "4260e403dc64d65c",
   "lastOpenFiles": [
+    "13. Jahrgang/Informatik/Grammatik der Kaffeemaschinensprache.md",
     "13. Jahrgang/Politik/Friedenssicherung/transnationalen Terrorismus bekämpfen.md",
-    "13. Jahrgang/Seminarfach/Grammatik der Kaffeemaschinensprache.md",
     "13. Jahrgang/Politik/Friedenssicherung/Entwicklung des IS.md",
     "13. Jahrgang/Politik/Aktuelle 15min.odp",
     "13. Jahrgang/Englisch/Speech-analyse.md",
