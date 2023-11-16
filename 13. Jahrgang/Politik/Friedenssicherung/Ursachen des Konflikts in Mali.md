@@ -1,17 +1,22 @@
 ## Gesellschaftliche
 
 + Unkontrollierte Waffen
-+ 
++ Die Regierung konnte nicht genügend gesellschaftliche Teilhabe der Minderheiten im Norden garantieren
+
 
 ## Politische
 
-+ U
++ Sezessionsbemühung der Tuareg-Gruppen
++ Die Regierung konnte nicht genügend politische Teilhabe der Minderheiten im Norden garantieren
 
 ## Ökonomische
 
 + ehemalige Gastarbeiter, jetzt arbeitslos
-+ 
++ Jugendarbeitslosigkeit
++ Waffen- und Drogenschmuggel
 
 ## Historische
 
++ Sezessionsbemühung der Tuareg-Gruppen
 + Heimkehrer (Tuareg-Kämpfer)
++ + Sezessionsbemühung der Tuareg-Gruppen
