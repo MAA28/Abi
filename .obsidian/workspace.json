@@ -4,22 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "c32f89189f39a6ed",
-        "type": "tabs",
+        "id": "55ed758d66408306",
+        "type": "split",
         "children": [
           {
-            "id": "4260e403dc64d65c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "13. Jahrgang/Politik/Friedenssicherung/Ursachen des Konflikts in Mali.md",
-                "mode": "source",
-                "source": false
+            "id": "c32f89189f39a6ed",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4260e403dc64d65c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "13. Jahrgang/Politik/Friedenssicherung/Ursachen des Konflikts in Mali.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "8a6de821c638ebec",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4d3bc901e9a195ff",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {}
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"

@@ -8,6 +8,7 @@
 
 + Sezessionsbemühung der Tuareg-Gruppen
 + Die Regierung konnte nicht genügend politische Teilhabe der Minderheiten im Norden garantieren
++ Zentrum für grenzüberstreitenden Terrorismus und organisierte Kriminalität (hierfür auch ein wichtiger Rückzugsraum in der südlichen Sahara)
 
 ## Ökonomische
 
