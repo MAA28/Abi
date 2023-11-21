@@ -1,1 +1,1 @@
-After being informed about the D
+After being informed about the 
