@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "55ed758d66408306",
-        "type": "split",
+        "id": "c32f89189f39a6ed",
+        "type": "tabs",
         "children": [
           {
-            "id": "c32f89189f39a6ed",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "4260e403dc64d65c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "13. Jahrgang/Politik/Friedenssicherung/Ursachen des Konflikts in Mali.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "4260e403dc64d65c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "13. Jahrgang/Englisch/Analysis Speech - Mark Ashton.md",
+                "mode": "source",
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "8a6de821c638ebec",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "4d3bc901e9a195ff",
-                "type": "leaf",
-                "state": {
-                  "type": "mindmap",
-                  "state": {}
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cc65e00363902932",
@@ -114,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13. Jahrgang/Politik/Friedenssicherung/Ursachen des Konflikts in Mali.md",
+                "file": "13. Jahrgang/Englisch/Analysis Speech - Mark Ashton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "13. Jahrgang/Politik/Friedenssicherung/Ursachen des Konflikts in Mali.md",
+                "file": "13. Jahrgang/Englisch/Analysis Speech - Mark Ashton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "13. Jahrgang/Politik/Friedenssicherung/Ursachen des Konflikts in Mali.md"
+                "file": "13. Jahrgang/Englisch/Analysis Speech - Mark Ashton.md"
               }
             }
           },
@@ -197,8 +177,8 @@
   },
   "active": "4260e403dc64d65c",
   "lastOpenFiles": [
-    "13. Jahrgang/Politik/Friedenssicherung/Entwicklung des IS.md",
     "13. Jahrgang/Politik/Friedenssicherung/Ursachen des Konflikts in Mali.md",
+    "13. Jahrgang/Politik/Friedenssicherung/Entwicklung des IS.md",
     "13. Jahrgang/Politik/Friedenssicherung/Assoziation - Krieg & Frieden.md",
     "13. Jahrgang/Politik/Friedenssicherung/Entwicklung des Terrorismus.md",
     "13. Jahrgang/Politik/Friedenssicherung/fundamentalistische Koranauslegung.md",
