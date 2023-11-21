@@ -1,1 +1,1 @@
-After being informed about the dire situation of the stirk
+After being informed about the dire situation of the 
