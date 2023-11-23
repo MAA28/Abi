@@ -4,4 +4,6 @@ The speech starts of by Mark and his group taking the responsibility for trouble
 
 Mark repeatably says "we" throughout the whole text. This strengthens the solidarity and cohesion of the miners and LGSM and rhetorically disolves the divide between them.
 
-To motivate the miners to keep fighting he belittles the enemies of the miners: Uses a the symbol of the national coal board "crawling on their hands and knees, in full drag, to beg you for forgiveness". By using such a strong image towards the end of the speech he not only gives the miners a much needed vision of what to fight for
+To motivate the miners to keep fighting he belittles the enemies of the miners: Uses a the symbol of the national coal board "crawling on their hands and knees, in full drag, to beg you for forgiveness". By using such a strong image towards the end of the speech he not only gives the miners a much needed vision of what to fight for but also illustrates the national and historical importance of their fight.
+
+Mark concludes with the watchword of the miners strike ("Victory to the miners"). this rounds out the speech and gives it a climactic 
