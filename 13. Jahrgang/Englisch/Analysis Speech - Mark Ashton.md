@@ -1,8 +1,8 @@
 In the following I will analyse a speech held by Mark Ashton, the leader and co-founder of lesbians and gays support the miners. He is inspired to do so by the tragic passing of Clifford's brother and tries to motivate the disenchanted miners to stay strong and count on the LGSMs efforts to support the strike.
 
-The speech starts of by Mark and his group taking the responsibility for troubles the miners and their families are going through. He constrasts that by ma
+The speech starts of by Mark and his group taking the responsibility for troubles the miners and their families are going through. He constrasts that by making a promise to the miners that LGSM will organize "something spectecular". He makes use of short sentences and subordinate-clauses to emphasize his promise.
 
-Mark starts of his speech by taking responsibility for their (LGSM), in his opinion, lacklustre support as of then, when using a transition to turn the speech around and gives a positive outlook. He generally uses short sentences and subordinate-clauses, alongside of various stylistic devices to strengthen his agenda.
+Mark repeatably says "we" throughout the whole text. 
 
 By using the word “we” throughout the text, Mark emphasis both the assumed responsibility that LGSM has failed to fully take care of, but also the solidarity that they have shown and are eager to continue to show.
 
