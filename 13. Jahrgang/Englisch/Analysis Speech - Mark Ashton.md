@@ -1,8 +1,6 @@
-In the following I will analyse a speech held by Mark Ashton, the leader and co-founder of lesbians and gays support the miners. He is inspired to do so by the tragic passing of Clifford's brother and tries to m
+In the following I will analyse a speech held by Mark Ashton, the leader and co-founder of lesbians and gays support the miners. He is inspired to do so by the tragic passing of Clifford's brother and tries to motivate the disenchanted miners to stay strong and count on the LGSMs efforts to support the strike.
 
-In the following text I will analyse Mark's speech, which takes place after Mark learned of the tragic passing of Clifford’s brother in a pit. In his speech Mark attempts to brighten the spirits of the miners, who had previously considered ending the strike early. Furthermore, he not only announces a big event organised by LGSM to further support the miners, but he also signalizes that he and the other members of LGSM are not yet satisfied with the amount of support they have been able to provide.
-
-  
+The speech starts of by Mark and his group taking the responsibility for troubles the miners and their families are going through. He constrasts that by ma
 
 Mark starts of his speech by taking responsibility for their (LGSM), in his opinion, lacklustre support as of then, when using a transition to turn the speech around and gives a positive outlook. He generally uses short sentences and subordinate-clauses, alongside of various stylistic devices to strengthen his agenda.
 
