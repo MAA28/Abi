@@ -4,8 +4,4 @@ The speech starts of by Mark and his group taking the responsibility for trouble
 
 Mark repeatably says "we" throughout the whole text. This strengthens the solidarity and cohesion of the miners and LGSM and rhetorically disolves the divide between them.
 
-To motivate the miners to keep fighting he belittles the 
-
-Mark humanizes the National Coal Board by using a personification. In the lines 18-20 Mark states that the event that they will organize is going to have the National Coal Board “crawling on their hands and knees, in full drag, to beg you for forgiveness”. Here he not only signals that the Board consists of humans, but that they can be beat and that the victory over them will be all the more rewarding. This he does to bolster the fighting spirit of the miners present.
-
-Towards the end of his speech Mark uses an over-the-top joke to lighten up the mood and to humanize and humiliate the national coal board. He does this by intentionally exaggerating the extent to which their plan will affect the National Coal Board. This is going hand in hand with the point made before, that Mark
+To motivate the miners to keep fighting he belittles the enemies of the miners: Uses a the symbol of the national coal board "crawling on their hands and knees, in full drag, to beg you for forgiveness". By using such a strong image towards the end of the speech he not only gives the miners a much needed vision of what to fight for
