@@ -13,5 +13,7 @@ Mark concludes with the watchword of the miners strike ("Victory to the miners")
 + Cliff tells the story of his borthers death
 + "the pit and the people are one and the same"
 + Cliff and the imagery invokes feelings of homieness
-+ Mark stands up and drawes attention to himself
++ After sitting there and contemplating Mark stands up and drawes attention to himself
++ Mark holds a speech gesticulating quite a lot
 + Mark ends his speech with his fist rising high 
++ People cheer and start singing a local song
