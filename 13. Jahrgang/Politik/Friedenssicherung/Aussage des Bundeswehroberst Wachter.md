@@ -2,7 +2,7 @@
 
 # Legitimität
 
-Zu erst könnte man der Aussage des Bundeswehroberst Wachter viel **Legitimität** zu sprechen. Oberst ist ein 
+Zu erst könnte man der Aussage des Bundeswehroberst Wachter viel **Legitimität** zu sprechen. Oberst ist ein recht hoher Dienstgrad oder Oberst hat in als Teil der MINUSMA Operation 
 
 # Vollständigkeit / Genauigkeit
 
