@@ -11,4 +11,6 @@ Die Aussage des Oberst ist jedoch nicht besonders **vollständig** und auch nich
 Die ethinischen Spannungen sind weniger der einzige Faktor als ein Katalyst in einer Komplexen Situation. So können die Sezessionsbemühung einige Tuareg-Gruppen nicht auf geordnetem Wege umgesetzt werden, da der malische Staat unfähig ist die Minderheit einzubinden. Und diese Gruppen können nur so militärisch agieren aufgrund der unkontrollierten Waffen aus Libyen und der Arbeitslosigkeit der Heimkehrer.
 # Nebenfolgen
 
-Angenommen, dass Wachter das Interesse hat diese Konflikte zu beenden, wäre es eine *unerwünschte Nebenfolge*
+Angenommen, dass Wachter das Interesse hat diese Konflikte zu beenden, wäre es eine **unerwünschte Nebenfolge**, dass er durch die versehentlichte Verschleierung der tatsächlichen Probleme die Lösung der Konflikte erschwert. 
+
+Durch das Abdrücken solcher Aussagen in der SZ in dem Artikel "Himmel über der Wüste" könnte denn Lesern ein falsches und zu kurzgegriffenes Verständnis der Konflikte geben.
