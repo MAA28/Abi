@@ -20,24 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "ac858757dc69c620",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5eaa549742967b86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "13. Jahrgang/Politik/Friedenssicherung/Ursachen des Konflikts in Mali.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -193,7 +175,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b0680ab473732a96",
+  "active": "f702d08c6c2e2797",
   "lastOpenFiles": [
     "13. Jahrgang/Politik/Friedenssicherung/Ursachen des Konflikts in Mali.md",
     "13. Jahrgang/Politik/Friedenssicherung/Aussage des Bundeswehroberst Wachter.md",
