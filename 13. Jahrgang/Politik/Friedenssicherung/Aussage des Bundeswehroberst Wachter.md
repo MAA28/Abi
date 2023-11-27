@@ -13,4 +13,4 @@ Die ethinischen Spannungen sind weniger der einzige Faktor als ein Katalyst in e
 
 Angenommen, dass Wachter das Interesse hat diese Konflikte zu beenden, wäre es eine **unerwünschte Nebenfolge**, dass er durch die versehentlichte Verschleierung der tatsächlichen Probleme die Lösung der Konflikte erschwert. 
 
-Durch das Abdrücken solcher Aussagen in der SZ in dem Artikel "Himmel über der Wüste" könnte denn Lesern ein falsches und zu kurzgegriffenes Verständnis der Konflikte geben. Hier wäre natürlich nicht nur der Oberst sondern auch die SZ verantwortlich, die ihn aufgrund seiner Legitimität als Experten anführt und somit ihrer Informationsfunktion sowie der Urteils- und Meinungsbildungsfunktion nicht vollständig grecht wird. 
+Durch das Abdrücken solcher Aussagen in der SZ in dem Artikel "Himmel über der Wüste" könnte denn Lesern ein falsches und zu kurzgegriffenes Verständnis der Konflikte geben. Hier wäre natürlich nicht nur der Oberst sondern auch die SZ verantwortlich, die ihn aufgrund seiner Legitimität als Experten anführt und somit ihrer **Informationsfunktion** sowie der **Urteils- und Meinungsbildungsfunktion** nicht vollständig gerecht wird. 
