@@ -2,7 +2,7 @@
 
 # Legitimität
 
-Zu erst könnte man der Aussage des Bundeswehroberst Wachter viel **Legitimität** zu sprechen. Oberst ist ein recht hoher Dienstgrad oder Oberst hat in als Teil der MINUSMA das 9. Deutsche Einsatzkontingent in Gao geleitet und war so mit nahe dran an den Konflikten.
+Zu erst könnte man der Aussage des Bundeswehroberst Wachter viel **Legitimität** zu sprechen. Oberst ist ein recht hoher Dienstgrad und Wachter hat in als Teil der MINUSMA das 9. Deutsche Einsatzkontingent in Gao geleitet und war so mit nahe dran an den Konflikten.
 
 # Vollständigkeit / Genauigkeit
 
