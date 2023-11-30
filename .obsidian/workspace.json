@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13. Jahrgang/Politik/Friedenssicherung/Aussage des Bundeswehroberst Wachter.md",
+                "file": "13. Jahrgang/Politik/Friedenssicherung/Zerfallender Staat.md",
                 "mode": "preview",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "415ba8be68f1ea1c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cc65e00363902932",
@@ -94,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13. Jahrgang/Politik/Friedenssicherung/Aussage des Bundeswehroberst Wachter.md",
+                "file": "13. Jahrgang/Politik/Friedenssicherung/Zerfallender Staat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "13. Jahrgang/Politik/Friedenssicherung/Aussage des Bundeswehroberst Wachter.md",
+                "file": "13. Jahrgang/Politik/Friedenssicherung/Zerfallender Staat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "13. Jahrgang/Politik/Friedenssicherung/Aussage des Bundeswehroberst Wachter.md"
+                "file": "13. Jahrgang/Politik/Friedenssicherung/Zerfallender Staat.md"
               }
             }
           },
@@ -177,8 +184,9 @@
   },
   "active": "f702d08c6c2e2797",
   "lastOpenFiles": [
-    "13. Jahrgang/Politik/Friedenssicherung/Ursachen des Konflikts in Mali.md",
+    "13. Jahrgang/Politik/Friedenssicherung/Zerfallender Staat.md",
     "13. Jahrgang/Politik/Friedenssicherung/Aussage des Bundeswehroberst Wachter.md",
+    "13. Jahrgang/Politik/Friedenssicherung/Ursachen des Konflikts in Mali.md",
     "13. Jahrgang/Politik/Friedenssicherung/transnationalen Terrorismus bekämpfen.md",
     "13. Jahrgang/Informatik/Grammatik der Kaffeemaschinensprache.md",
     "13. Jahrgang/Englisch/Analysis Speech - Mark Ashton.md",
@@ -209,7 +217,6 @@
     "13. Jahrgang/Deutsch/Fraulein Else/Erwartungen von und an Else.md",
     "13. Jahrgang/Deutsch",
     "12. Jahrgang/Deutsch/Fräulein Else/Analyse des Anfangs.md",
-    "Untitled.md",
     "13. Jahrgang/Politik/Friedenssicherung",
     "13. Jahrgang/Politik",
     "13. Jahrgang",
