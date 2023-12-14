@@ -1,4 +1,4 @@
-# funktionierender Staat
+w# funktionierender Staat
 ## Sicherheit
 + Gewaltmonopol
 + Eigentumsprinzip
