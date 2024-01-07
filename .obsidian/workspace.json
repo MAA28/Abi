@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13. Jahrgang/Politik/Friedenssicherung/Mündliche Prüfungsaufgabe.md",
+                "file": "13. Jahrgang/Deutsch/Die Abenteur des Werner Holt/Interview mit Werner Holt.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cc65e00363902932",
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13. Jahrgang/Politik/Friedenssicherung/Mündliche Prüfungsaufgabe.md",
+                "file": "13. Jahrgang/Deutsch/Die Abenteur des Werner Holt/Interview mit Werner Holt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "13. Jahrgang/Politik/Friedenssicherung/Mündliche Prüfungsaufgabe.md",
+                "file": "13. Jahrgang/Deutsch/Die Abenteur des Werner Holt/Interview mit Werner Holt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "13. Jahrgang/Politik/Friedenssicherung/Mündliche Prüfungsaufgabe.md"
+                "file": "13. Jahrgang/Deutsch/Die Abenteur des Werner Holt/Interview mit Werner Holt.md"
               }
             }
           },
@@ -160,7 +159,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -173,20 +174,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "f702d08c6c2e2797",
   "lastOpenFiles": [
-    "13. Jahrgang/Politik/Aktuelle Runde - Kissinger.md",
     "13. Jahrgang/Politik/Friedenssicherung/Mündliche Prüfungsaufgabe.md",
+    "13. Jahrgang/Deutsch/Die Abenteur des Werner Holt/Interview mit Werner Holt.md",
+    "13. Jahrgang/Deutsch/Die Abenteur des Werner Holt",
+    "13. Jahrgang/Politik/Aktuelle Runde - Kissinger.md",
     "13. Jahrgang/Deutsch/Denken - Sprechen - Wirklichkeit/Funktion einer textegbundenen Erörterung.md",
     "13. Jahrgang/Politik/Friedenssicherung/Bedeutung erfüllter Staatsfunktionen für die Menschen.md",
     "13. Jahrgang/Politik/Friedenssicherung/Zerfallender Staat.md",
@@ -214,13 +217,11 @@
     "13. Jahrgang/Deutsch/Fraulein Else/Elses Todestraum.md",
     "13. Jahrgang/Deutsch/Denken - Sprechen - Wirklichkeit",
     "13. Jahrgang/Deutsch/Fraulein Else",
-    "13. Jahrgang/Deutsch/Fraulein Else/literarische Erörterung.md",
     "13. Jahrgang/Informatik/Binäre Bäume",
     "12. Jahrgang",
     "13. Jahrgang/Deutsch",
     "13. Jahrgang/Politik/Friedenssicherung",
     "13. Jahrgang/Politik",
-    "13. Jahrgang",
     "Untitled.canvas",
     "12. Jahrgang/Seminarfach/Facharbeit/Verhältnisgraph.png",
     "12. Jahrgang/Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2011- Pareto.png",
