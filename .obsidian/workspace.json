@@ -11,9 +11,11 @@
             "id": "f702d08c6c2e2797",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Kurswahl.pdf"
+                "file": "13. Jahrgang/Politik/Friedenssicherung/Bedrohungsbarometer.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -99,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurswahl.pdf",
+                "file": "13. Jahrgang/Politik/Friedenssicherung/Bedrohungsbarometer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kurswahl.pdf",
+                "file": "13. Jahrgang/Politik/Friedenssicherung/Bedrohungsbarometer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurswahl.pdf"
+                "file": "13. Jahrgang/Politik/Friedenssicherung/Bedrohungsbarometer.md"
               }
             }
           },
@@ -184,12 +186,13 @@
   },
   "active": "f702d08c6c2e2797",
   "lastOpenFiles": [
-    "Raumplan.pdf",
-    "Schwerpunkte mit P-Fächern u Fächerbelegungen.pdf",
-    "Stundenplan.md",
-    "13. Jahrgang/Deutsch/Die Abenteur des Werner Holt/Arbeitsblatt.md",
     "13. Jahrgang/Deutsch/Die Abenteur des Werner Holt/Historischer Hintergrund.md",
+    "13. Jahrgang/Deutsch/Die Abenteur des Werner Holt/Arbeitsblatt.md",
+    "13. Jahrgang/Deutsch/Die Abenteur des Werner Holt/Erwartungshorizont.md",
+    "13. Jahrgang/Politik/Friedenssicherung/Bedrohungsbarometer.md",
     "13. Jahrgang/Deutsch/Die Abenteur des Werner Holt/Interview mit Werner Holt.md",
+    "13. Jahrgang/Politik/Friedenssicherung/BW-Einsätze (Beispiel MINUSMA) Contra (Frieden, Rechtmäßigkeit).md",
+    "13. Jahrgang/Politik/Friedenssicherung/Legitimation und Zeile der MINUSMA.md",
     "13. Jahrgang/Politik/Friedenssicherung/Mündliche Prüfungsaufgabe.md",
     "13. Jahrgang/Deutsch/Die Abenteur des Werner Holt",
     "13. Jahrgang/Politik/Aktuelle Runde - Kissinger.md",
@@ -212,14 +215,13 @@
     "13. Jahrgang/Englisch",
     "13. Jahrgang/Deutsch/Denken - Sprechen - Wirklichkeit/Geschlechtergerechte Sprache.md",
     "13. Jahrgang/Informatik/Binäre Bäume/Recherche.md",
-    "13. Jahrgang/Politik/Friedenssicherung/Lösungen für transnationalistischen Terrorismus.md",
-    "13. Jahrgang/Deutsch/Denken - Sprechen - Wirklichkeit/Sachtextanalyse \"Wiedersehen mit Whorf - Sprache und Denken\".md",
     "13. Jahrgang/Deutsch/Denken - Sprechen - Wirklichkeit",
     "13. Jahrgang/Deutsch/Fraulein Else",
     "13. Jahrgang/Informatik/Binäre Bäume",
     "12. Jahrgang",
     "13. Jahrgang/Deutsch",
     "13. Jahrgang/Politik/Friedenssicherung",
+    "13. Jahrgang/Politik",
     "Untitled.canvas",
     "12. Jahrgang/Seminarfach/Facharbeit/Verhältnisgraph.png",
     "12. Jahrgang/Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2011- Pareto.png",
