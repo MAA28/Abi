@@ -1,3 +1,3 @@
-Die Kurzgeschichte "Das Loch" wurde von Georg M. Oswald geschrieben und 1993 veröffentlicht. Sie beschäftigt sich mit der Vergangenheit eines deutsch in der NS-Zeit.
+Die Kurzgeschichte "Das Loch" wurde von Georg M. Oswald geschrieben und 1993 veröffentlicht. Sie beschäftigt sich mit der Vergangenheit eines deutschen Ehepaars in der NS-Zeit.
 
-In der Kurzgeschichte wird aus der Perspektiv des Enkels erzählt wie Onkel Otto und Tante Sophie
+In der Kurzgeschichte wird aus der Perspektiv des Enkels erzählt wie Onkel Otto ein Loch budelt um dort alle möglichen Dinge zu verstecken, die ihn mit der NSDAP in Verbindung bringen. Otto war Blockwart und er und seine Frau Sophie waren überzeugte Teilnehmer der *Bewegung*. 
