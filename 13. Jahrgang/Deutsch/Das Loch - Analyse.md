@@ -1,0 +1,1 @@
+Die Kurzgeschichte "Das Loch" wurde von Georg M. Oswald geschrieben und 1993 veröffentlicht. SIe beschäftigt sich mit der 
