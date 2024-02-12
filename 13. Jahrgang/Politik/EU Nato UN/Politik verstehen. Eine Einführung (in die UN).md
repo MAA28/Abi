@@ -1,0 +1,3 @@
+Bernhard Stahl schreib in seinem 2017 in Bonn erschienen Buch "Politik verstehen. Eine Einführung" auf Seite 67 und den darauf Folgenden was die Grundsätze der UN sind.
+
+Ausführlich beschreibt er in diesem Auszug, welchen Fokus die UN in ihren Gründungsdokumenten auf Gleichberechtigung, Souveränität und vor Allem auf Frieden lege. Laut Stahl gebe es aber auch Grenzen für diese Gewaltfreiheit und zwar im Verteidigungfall und wenn Sicherheitsrat entsprechende Maßnahmen beschließt.
