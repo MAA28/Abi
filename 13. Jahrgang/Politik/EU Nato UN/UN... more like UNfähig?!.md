@@ -1,4 +1,4 @@
-"Die Weltorganisation ist nach wie vor ein Staatenclub in einer Staatenwelt; sie kann nur so viel, wie ihr insbesondere die mächtigsten und reichsten Mitgliedsstaaten ermöglichen.“ (Z. 60 f.)
+> "Die Weltorganisation ist nach wie vor ein Staatenclub in einer Staatenwelt; sie kann nur so viel, wie ihr insbesondere die mächtigsten und reichsten Mitgliedsstaaten ermöglichen.“ (Z. 60 f.)
 
 Die Aussage spielt unter anderem auf die folgenden Schwierigkeiten zur effektiven Durchsetzung des Völkerrechts und des Friedens durch die UN an:
 
