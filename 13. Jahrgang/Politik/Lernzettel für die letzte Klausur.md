@@ -180,4 +180,3 @@
 			+ Durchführungsbeschlüsse
 				+ Regeln die Umsetzung der gemeinsamen Standpunkte
 		+ Einstimmigkeitsprinzip
-	+  
