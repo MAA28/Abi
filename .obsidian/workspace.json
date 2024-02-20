@@ -4,27 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "57efdfcef3089236",
+        "id": "cfc19395bcdb2562",
         "type": "tabs",
         "children": [
           {
-            "id": "f702d08c6c2e2797",
+            "id": "38a59307f67210f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13. Jahrgang/Politik/Friedenssicherung/Lösung für Mali.md",
-                "mode": "preview",
+                "file": "13. Jahrgang/Politik/Lernzettel für die letzte Klausur.md",
+                "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "415ba8be68f1ea1c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -101,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13. Jahrgang/Politik/Friedenssicherung/Lösung für Mali.md",
+                "file": "13. Jahrgang/Politik/Lernzettel für die letzte Klausur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "13. Jahrgang/Politik/Friedenssicherung/Lösung für Mali.md",
+                "file": "13. Jahrgang/Politik/Lernzettel für die letzte Klausur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "13. Jahrgang/Politik/Friedenssicherung/Lösung für Mali.md"
+                "file": "13. Jahrgang/Politik/Lernzettel für die letzte Klausur.md"
               }
             }
           },
@@ -184,10 +176,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f702d08c6c2e2797",
+  "active": "38a59307f67210f3",
   "lastOpenFiles": [
-    "Kurswahl.pdf",
+    "13. Jahrgang/Deutsch/Fraulein Else/literarische Erörterung.md",
+    "13. Jahrgang/Deutsch/Fraulein Else/Erwartungen von und an Else.md",
+    "13. Jahrgang/Deutsch/Fraulein Else/Elses Todestraum.md",
+    "Untitled.md",
+    "13. Jahrgang/Politik/Aktuelle Runde - Kissinger.md",
+    "13. Jahrgang/Politik/Lernzettel für die letzte Klausur.md",
+    "13. Jahrgang/Politik/Friedenssicherung/Wichtige Auslandseinsätze der Bundeswehr.png",
     "13. Jahrgang/Politik/Friedenssicherung/Lösung für Mali.md",
+    "Kurswahl.pdf",
     "Raumplan.pdf",
     "Schwerpunkte mit P-Fächern u Fächerbelegungen.pdf",
     "Stundenplan.md",
@@ -196,7 +195,6 @@
     "13. Jahrgang/Deutsch/Die Abenteur des Werner Holt/Interview mit Werner Holt.md",
     "13. Jahrgang/Politik/Friedenssicherung/Mündliche Prüfungsaufgabe.md",
     "13. Jahrgang/Deutsch/Die Abenteur des Werner Holt",
-    "13. Jahrgang/Politik/Aktuelle Runde - Kissinger.md",
     "13. Jahrgang/Deutsch/Denken - Sprechen - Wirklichkeit/Funktion einer textegbundenen Erörterung.md",
     "13. Jahrgang/Politik/Friedenssicherung/Bedeutung erfüllter Staatsfunktionen für die Menschen.md",
     "13. Jahrgang/Politik/Friedenssicherung/Zerfallender Staat.md",
@@ -212,16 +210,11 @@
     "13. Jahrgang/Informatik/Grammatik der Kaffeemaschinensprache.md",
     "13. Jahrgang/Englisch/Analysis Speech - Mark Ashton.md",
     "13. Jahrgang/Politik/Aktuelle 15min.odp",
-    "13. Jahrgang/Englisch/Speech-analyse.md",
     "13. Jahrgang/Englisch",
-    "13. Jahrgang/Deutsch/Denken - Sprechen - Wirklichkeit/Geschlechtergerechte Sprache.md",
-    "13. Jahrgang/Informatik/Binäre Bäume/Recherche.md",
-    "13. Jahrgang/Politik/Friedenssicherung/Lösungen für transnationalistischen Terrorismus.md",
     "13. Jahrgang/Deutsch/Denken - Sprechen - Wirklichkeit",
     "13. Jahrgang/Deutsch/Fraulein Else",
     "13. Jahrgang/Informatik/Binäre Bäume",
     "12. Jahrgang",
-    "13. Jahrgang/Deutsch",
     "Untitled.canvas",
     "12. Jahrgang/Seminarfach/Facharbeit/Verhältnisgraph.png",
     "12. Jahrgang/Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2011- Pareto.png",
