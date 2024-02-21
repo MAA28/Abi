@@ -113,7 +113,7 @@
 			+ Aufnahme vieler osteuropäischer Staaten
 			+ Existenzkrise
 		+ Out of Area
-			+ 11. 9. 2001 (Bündnisfall), WMD usw. werden als Vorwand benutzt um die unilateralen US-Interessen außerhalb des NATO-Bündnisgebiets durch zusetzen
+			+ Am 11. 9. 2001 (Bündnisfall), WMD usw. werden als Vorwand benutzt um die unilateralen US-Interessen außerhalb des NATO-Bündnisgebiets durch zusetzen
 				+ Afghanistankrieg
 				+ Irakkrieg
 			+ Krisenbewältigung und Terrorismusbekämpfung
