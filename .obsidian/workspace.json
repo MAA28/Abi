@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "cfc19395bcdb2562",
+        "id": "57efdfcef3089236",
         "type": "tabs",
         "children": [
           {
-            "id": "38a59307f67210f3",
+            "id": "415ba8be68f1ea1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13. Jahrgang/Politik/Lernzettel für die letzte Klausur.md",
+                "file": "13. Jahrgang/Politik/Außßenhandel/Protektionismus und Freihandel.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13. Jahrgang/Politik/Lernzettel für die letzte Klausur.md",
+                "file": "13. Jahrgang/Politik/Außßenhandel/Protektionismus und Freihandel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "13. Jahrgang/Politik/Lernzettel für die letzte Klausur.md",
+                "file": "13. Jahrgang/Politik/Außßenhandel/Protektionismus und Freihandel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "13. Jahrgang/Politik/Lernzettel für die letzte Klausur.md"
+                "file": "13. Jahrgang/Politik/Außßenhandel/Protektionismus und Freihandel.md"
               }
             }
           },
@@ -176,45 +176,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "38a59307f67210f3",
+  "active": "415ba8be68f1ea1c",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "13. Jahrgang/Deutsch/Das Loch - Analyse.md",
+    "13. Jahrgang/Politik/Außßenhandel/Protektionismus und Freihandel.md",
+    "13. Jahrgang/Politik/Außßenhandel",
     "13. Jahrgang/Politik/Lernzettel für die letzte Klausur.md",
-    "Informatik/Stack/main.java",
-    "Informatik/Stack/Main.class",
-    "Informatik/Stack/BookStack.class",
-    "Informatik/Stack/Book.class",
-    "Informatik/Patient-LinkedList/main.java",
-    "Informatik/Patient-LinkedList/Patient.class",
-    "Informatik/Patient-LinkedList/Main.class",
-    "Informatik/Binäre Bäume/Recherche.md",
-    "Informatik/Stack",
-    "Informatik/Patient-LinkedList",
-    "Informatik/Grammatik der Kaffeemaschinensprache.md",
-    "Informatik/Binäre Bäume",
-    "13. Jahrgang/Politik/Friedenssicherung/Legitimation und Zeile der MINUSMA.md",
-    "13. Jahrgang/Politik/Friedenssicherung/Bedrohungsbarometer.md",
-    "13. Jahrgang/Politik/Friedenssicherung/BW-Einsätze (Beispiel MINUSMA) Contra (Frieden, Rechtmäßigkeit).md",
+    "13. Jahrgang/Politik/Friedenssicherung/Wichtige Auslandseinsätze der Bundeswehr.png",
+    "13. Jahrgang/Deutsch/Sprache nach 45/Feedbackbogen für Marlene Sophie.pdf",
+    "13. Jahrgang/Deutsch/Sprache nach 45",
     "13. Jahrgang/Politik/EU Nato UN/UN... more like UNfähig?!.md",
     "13. Jahrgang/Politik/EU Nato UN/Politik verstehen. Eine Einführung (in die UN).md",
-    "13. Jahrgang/Politik/Aktuelle Runde  - IGH Votum zur Lage in Palästina.md",
-    "13. Jahrgang/Englisch/Effects of Enoch Powell in Greeting from Bury Park.md",
-    "13. Jahrgang/Deutsch/Die Abenteur des Werner Holt/Erwartungshorizont.md",
-    "13. Jahrgang/Deutsch/Das Loch - Analyse.md",
-    "13. Jahrgang/Deutsch/Fraulein Else/literarische Erörterung.md",
-    "13. Jahrgang/Deutsch/Fraulein Else/Erwartungen von und an Else.md",
-    "13. Jahrgang/Deutsch/Fraulein Else/Elses Todestraum.md",
-    "Untitled.md",
-    "13. Jahrgang/Politik/Aktuelle Runde - Kissinger.md",
-    "13. Jahrgang/Politik/Friedenssicherung/Wichtige Auslandseinsätze der Bundeswehr.png",
     "13. Jahrgang/Politik/Friedenssicherung/Lösung für Mali.md",
-    "Stundenplan.md",
-    "13. Jahrgang/Deutsch/Die Abenteur des Werner Holt/Arbeitsblatt.md",
+    "13. Jahrgang/Politik/EU Nato UN",
+    "13. Jahrgang/Englisch/Effects of Enoch Powell in Greeting from Bury Park.md",
+    "13. Jahrgang/Politik/Aktuelle Runde  - IGH Votum zur Lage in Palästina.md",
+    "13. Jahrgang/Politik/Aktuelle Runde - Kissinger.md",
+    "13. Jahrgang/Politik/Friedenssicherung/Entwicklung des IS.md",
+    "13. Jahrgang/Politik/Friedenssicherung/Entwicklung des Terrorismus.md",
+    "13. Jahrgang/Politik/Friedenssicherung/Bedrohungsbarometer.md",
     "13. Jahrgang/Deutsch/Die Abenteur des Werner Holt/Historischer Hintergrund.md",
+    "13. Jahrgang/Deutsch/Die Abenteur des Werner Holt/Arbeitsblatt.md",
+    "13. Jahrgang/Deutsch/Die Abenteur des Werner Holt/Erwartungshorizont.md",
     "13. Jahrgang/Deutsch/Die Abenteur des Werner Holt/Interview mit Werner Holt.md",
+    "13. Jahrgang/Politik/Friedenssicherung/BW-Einsätze (Beispiel MINUSMA) Contra (Frieden, Rechtmäßigkeit).md",
+    "13. Jahrgang/Politik/Friedenssicherung/Legitimation und Zeile der MINUSMA.md",
     "13. Jahrgang/Politik/Friedenssicherung/Mündliche Prüfungsaufgabe.md",
+    "13. Jahrgang/Deutsch/Die Abenteur des Werner Holt",
     "13. Jahrgang/Deutsch/Denken - Sprechen - Wirklichkeit/Funktion einer textegbundenen Erörterung.md",
     "13. Jahrgang/Politik/Friedenssicherung/Bedeutung erfüllter Staatsfunktionen für die Menschen.md",
+    "13. Jahrgang/Politik/Friedenssicherung/Zerfallender Staat.md",
+    "13. Jahrgang/Politik/Friedenssicherung/Assoziation - Krieg & Frieden.md",
+    "13. Jahrgang/Politik/Friedenssicherung/fundamentalistische Koranauslegung.md",
+    "13. Jahrgang/Politik/Friedenssicherung/Gruppenpuzzel.md",
+    "13. Jahrgang/Politik/Friedenssicherung/transnationalen Terrorismus bekämpfen.md",
+    "13. Jahrgang/Politik/Aktuelle 15min.odp",
+    "13. Jahrgang/Englisch",
+    "13. Jahrgang/Deutsch/Denken - Sprechen - Wirklichkeit",
+    "13. Jahrgang/Deutsch/Fraulein Else",
+    "Informatik/Binäre Bäume",
     "Untitled.canvas",
     "12. Jahrgang/Seminarfach/Facharbeit/Verhältnisgraph.png",
     "12. Jahrgang/Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2011- Pareto.png",
