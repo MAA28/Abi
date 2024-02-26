@@ -14,6 +14,7 @@
 # Protektionismus
 + Grundannahme
 	+ Ein Land sollte seine Wirtschaft schützen, teilweise auch auf kosten anderer Wirtschaftssphären
+	+ Leitung der Wirtschaft hat sicherheitspolitsche Bedeutung 
 + Zielstellung
 	+ Schutz der heimischen Industrie und Produktion
 	+ Verteilungskonflikte und Beendigung des Ungleichheit
