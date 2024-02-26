@@ -16,4 +16,13 @@
 	+ Ein Land sollte seine Wirtschaft schützen, teilweise auch auf kosten anderer Wirtschaftssphären
 + Zielstellung
 	+ Schutz der heimischen Industrie und Produktion
-	+ 
+	+ Verteilungskonflikte und Beendigung des Ungleichheit
+	+ Alte Industrien schützen (u.a. Arbeitsplätze in diesen Industrien) und geleiteten Strukturwandel
+	+ Aufstrebende Firmen schützen
+	+ Sicherheitsinteressen wahren
++ Instrumente
+	+ Zölle
+	+ Einfuhrkontingente
+	+ Produktionsstandards
+	+ Subventionen
+	+ Vergabe von Aufträgen
