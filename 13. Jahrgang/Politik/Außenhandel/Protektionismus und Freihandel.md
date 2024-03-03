@@ -21,7 +21,7 @@
 	+ Alte Industrien schützen (u.a. Arbeitsplätze in diesen Industrien) und geleiteten Strukturwandel
 	+ Aufstrebende Firmen schützen
 	+ Sicherheitsinteressen wahren
-+ Instrumente
++ Mittel
 	+ Zölle
 	+ Einfuhrkontingente
 	+ Produktionsstandards
