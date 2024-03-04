@@ -1,0 +1,1 @@
+Die europäische Außenpolitik ist dort auf Freihandel orientiert wo es den heimischen Kapitalisten dient und ansonsten tat 
