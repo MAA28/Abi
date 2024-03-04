@@ -6,6 +6,7 @@
 	+ Freie Bewegung von Waren und Arbeitskräften
 + Mittel
 	+ Abschaffung von Zöllen (tarifäre Handelshindernisse)
+	+ multilaterale Verträge
 	+ Abschaffen von nicht-tarifären Handelshindernissen
 		+ Abschaffen von Sanktionen
 		+ Abschaffen von Subventionen

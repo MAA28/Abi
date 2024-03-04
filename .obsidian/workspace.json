@@ -10,7 +10,7 @@
           {
             "id": "57efdfcef3089236",
             "type": "tabs",
-            "dimension": 15.822784810126585,
+            "dimension": 15.822784810126583,
             "children": [
               {
                 "id": "415ba8be68f1ea1c",
@@ -19,7 +19,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "13. Jahrgang/Politik/Außßenhandel/Protektionismus und Freihandel.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": false
                   }
                 }
