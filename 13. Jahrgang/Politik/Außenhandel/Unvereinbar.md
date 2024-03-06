@@ -1,10 +1,8 @@
 Die Politikwissenschaftlerin Franziska Müller sagt in einem Artikel aus der 4. Ausgabe von 2017 der Fachzeitschrift Politikum betitelt "Globalisierung": "Die europäische Handelspolitik stellt sich \[...\] als ein Politikfeld dar, das in vielenPukten mit entwicklungspolitischen Zielen kaum vereinbar ist." (S. 40) Dieses Zitat erklärt den Widerspruch zwischen den Interessen der Völker der Welt und denen der Herrschenden der imperialistischen Nationen.  Der AEU-Vertrag legt jedoch grundsätze für den Außenhandel der EU fest, die diese Ansicht ablehnen.
 
-Beispiels weise sagt der Art. 206 des lissaboner Vertrags Absatz a, dass die EU sich um die schrittweise Abschaffung der Zollschranken sowie anderer Schranken im internationalen Handel bemühe. Allerdings reproduziert d
+Beispiels weise sagt der Art. 206 des lissaboner Vertrags Absatz a, dass die EU sich um die schrittweise Abschaffung der Zollschranken sowie anderer Schranken im internationalen Handel bemühe. Allerdings reproduziert die europäische Handelspolitik die aus dem kolonial Zeitalter stammenden ökonomischen (und damit einhergehenden politischen) Abhängigkeiten der afrikanischen Staaten mit Schutzzöllen und Handelsabkommen. Viele der Afrikanischen Staaten sind daher immer noch kaum mehr als Rohstoffquellen für die europäische Produktion. Dieses neomerkantilistische Verhältnis ist durch niedrige Zölle auf Rohstoffe, die nach Europa kommen, und Subventionen und niedrige Zölle für veredelte Produkte, also solche aus den der Mehrwert abgeschöpft wurde, die Europa verlassen, forciert. Eine Sache hat sich allerdings bedeutend seit der Entkolonialisierung Afrikas geändert: Nicht mehr werden nur die afrikanischen Rohstoffe  in Massen exportiert, sondern billige die lokale Produktion oft vernichtende Produkte, welche oft auch noch von schlechterer Qualität sind, werden in Afrika verkauft. Exemplarisch kann man hierfür die Handelsbeziehung Ghanas mit der EU beobachten: Ghana exportiert in die EU hauptsächlich Gold für nichtmonitäre Zwecke, Erdöl und Agrarprodukte die in Europa nicht produziert werden können. Die EU hingegen exportiert nach Ghana Maschinen und Fahrzeuge, Getreide und Eisen. Klassisches Beispiel von Rohstoffe raus - Produkte rein. Trotz des großen natürlichen Reichtums Ghanas befindet sich das Land laut des Human Development Reports mit einem HDI von  0.632 im unteren Drittel des internationale Vergleichs, den Ghana kann aufgrund dieser Handelspolitik nicht von seinem eigenen Reichtum profitieren. 
 
-
-
-
+Zwei Artikel weiter 
 
 
 
