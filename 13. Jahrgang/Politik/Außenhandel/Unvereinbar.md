@@ -4,4 +4,6 @@ Die europäische Handelspolitik reproduziert die aus dem kolonial Zeitalter stam
 
 Auf der anderen Seite schmückt sich die EU ganzbesonders und die anderen europäischen Handelsorganisation ebenfalls mit ihren sozialen Engament. So schreibt das Europäische Parlament auf ihrer Website zum Thema Entwicklungshilfen: "Die Europäische Union unterstützt Entwicklungsländer, indem sie nachhaltige Entwicklung und Stabilität fördert. Das langfristige Ziel besteht darin, die Armut zu beseitigen." Man habe 2021 insgesamt über 70,2 Mrd. € an öffentlicher Entwicklungshifle bereit gestellt.
 
-Diese Zahlen sind jedoch unbedeutend wenn sie mit dem Maßstab der aus Afrika gewonnenen Werte vergleicht. Laut ei
+Diese Zahlen sind jedoch unbedeutend wenn sie mit dem Maßstab der aus Afrika gewonnenen Werte vergleicht. Laut einer Studie von 2022 ist der Verlust den der Globale Süden durch sein Handel mit dem Norden erfährt etwa 30 mal größer als ihr Gewinn durch Entwicklungshilfen (https://www.sciencedirect.com/science/article/pii/S095937802200005X). 
+
+Desweiteren ist die Handelspolitik auch noch mehr als Zölle und Subventionen. Mit der starken ökonomischen Macht Europas über Afrika geht auch eine signifakte politische einher. 
