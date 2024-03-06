@@ -1,4 +1,6 @@
-Die Politikwissenschaftlerin Franziska Müller sagt in einem Artikel aus der 4. Ausgabe von 2017 der Fachzeitschrift Politikum betitelt "Globalisierung": "Die europäische Handelspolitik stellt sich \[...\] als ein Politikfeld dar, das in vielenPukten mit entwicklungspolitischen Zielen kaum vereinbar ist." (S. 40) Dieses Zitat erklärt den Widerspruch zwischen den Interessen der Völker der Welt und denen der Herrschenden der imperialistischen Nationen.  Der AEU-Vertra
+Die Politikwissenschaftlerin Franziska Müller sagt in einem Artikel aus der 4. Ausgabe von 2017 der Fachzeitschrift Politikum betitelt "Globalisierung": "Die europäische Handelspolitik stellt sich \[...\] als ein Politikfeld dar, das in vielenPukten mit entwicklungspolitischen Zielen kaum vereinbar ist." (S. 40) Dieses Zitat erklärt den Widerspruch zwischen den Interessen der Völker der Welt und denen der Herrschenden der imperialistischen Nationen.  Der AEU-Vertrag legt jedoch grundsätze für den Außenhandel der EU fest, die diese Ansicht ablehnen.
+
+Beispiels weise sagt der Art. 206 des lissaboner Vertrags Absatz a, dass die EU sich um die schrittweise Abschaffung der Zollschranken sowie anderer Schranken im internationalen Handel bemühe. Allerdings reproduziert d
 
 
 
