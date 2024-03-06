@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a92249aeae1209ae",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,7 +188,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5460695d4a1f47f5",
+  "active": "a92249aeae1209ae",
   "lastOpenFiles": [
     "13. Jahrgang/Politik/Außenhandel/Konzept einer Weltordnung.md",
     "13. Jahrgang/Politik/Außenhandel/Protektionismus und Freihandel.md",
