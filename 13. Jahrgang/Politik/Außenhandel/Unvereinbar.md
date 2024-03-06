@@ -1,1 +1,1 @@
-Die Politikwissenschaftlerin Franziska Müller sagt in einem Artikel aus der 4. Ausgabe 2017
+Die Politikwissenschaftlerin Franziska Müller sagt in einem Artikel aus der 4. Ausgabe von 2017 der Fachzeitschrift Politikum betitelt "Globalisierung": "Die europäische Handelspolitik stellt sich \[...\] als ein Politikfeld dar, das in vielenPukten mit entwicklungspolitischen Zielen kaum vereinbar ist." (S. 40) Dieses Zitat erklärt den Widerspruch zwischen den Interessen der Völker der Welt und denen der Herrschenden der 
