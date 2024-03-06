@@ -23,9 +23,11 @@
             "id": "a92249aeae1209ae",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.8"
+                "file": "13. Jahrgang/Politik/Außenhandel/Unvereinbar.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -104,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13. Jahrgang/Politik/Außenhandel/Protektionismus und Freihandel.md",
+                "file": "13. Jahrgang/Politik/Außenhandel/Unvereinbar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "13. Jahrgang/Politik/Außenhandel/Protektionismus und Freihandel.md",
+                "file": "13. Jahrgang/Politik/Außenhandel/Unvereinbar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "13. Jahrgang/Politik/Außenhandel/Protektionismus und Freihandel.md"
+                "file": "13. Jahrgang/Politik/Außenhandel/Unvereinbar.md"
               }
             }
           },
@@ -190,6 +192,7 @@
   },
   "active": "a92249aeae1209ae",
   "lastOpenFiles": [
+    "13. Jahrgang/Politik/Außenhandel/Unvereinbar.md",
     "13. Jahrgang/Politik/Außenhandel/Konzept einer Weltordnung.md",
     "13. Jahrgang/Politik/Außenhandel/Protektionismus und Freihandel.md",
     "13. Jahrgang/Politik/Außenhandel/EU-Außenpolitik.md",
@@ -222,7 +225,6 @@
     "13. Jahrgang/Politik/Friedenssicherung/Mündliche Prüfungsaufgabe.md",
     "13. Jahrgang/Deutsch/Die Abenteur des Werner Holt",
     "13. Jahrgang/Deutsch/Denken - Sprechen - Wirklichkeit/Funktion einer textegbundenen Erörterung.md",
-    "13. Jahrgang/Politik/Friedenssicherung/Bedeutung erfüllter Staatsfunktionen für die Menschen.md",
     "13. Jahrgang/Politik/Aktuelle 15min.odp",
     "13. Jahrgang/Englisch",
     "13. Jahrgang/Deutsch/Denken - Sprechen - Wirklichkeit",
