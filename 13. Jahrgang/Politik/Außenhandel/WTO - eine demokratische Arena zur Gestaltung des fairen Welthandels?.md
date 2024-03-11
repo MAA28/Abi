@@ -1,3 +1,3 @@
 Die Welthandelsorganisation (WTO) wurde 1995 als Nachfolger des Güter- und Zollabkommens (GATT) gegründet und dient der Ausweitung des Freihandels in der ganzen Welt.
 
-Die Arbeit in der WTO ist nach vier Grundprinzipien strukturiert: Das Prinzip der Meitsbegünstigung gewährt, dass jeder Staat die selben Handelsvorteile bekommen muss wie der meistbegünstigte Staat.
+Die Arbeit in der WTO ist nach vier Grundprinzipien strukturiert: Das Prinzip der Meistbegünstigung und das Prinzip Nichtdiskrimierung dienen der Gleichbehandlung der Mitgliedsstaaten (besondere Ausnahmen davon sind Zollunionen wie die EU). D 
