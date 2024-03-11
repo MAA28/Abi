@@ -8,5 +8,5 @@ Auch das Konsensprinzip trägt die klassischen Schwierigkeiten in sich: Soll bei
 
 Wenn einige Mitgliedsstaaten eine Änderung der vertraglichen Pflichten und Rechte der Mitglieder der WTO anstreben benötigt ihr Vorschlag einerseits eine  2/3-Mehrheit in der Ministerkonferenz und anderseits ist der Beschluss nur bindenden für die zustimmenden Staaten. Aus der Perspektive eines Mitgliedsstaats der den angebrachten Vorschlag nicht zu stimmt ist diese Arbeitsweise sehr wichtig für ihre staatliche Souveränität. Von dem Punkt eines die Änderung unterstützten Staats kann diese Situation aber als das Gleichheitsprinzip verletztend wahrgenommen werden.
 
-Zusammenfassend gilt die WTO hat im Vergleich zu anderen internationalen Organisation eine ziemliche effiziente und effektive Demokratie, die sich trotzdem besondere Rücksicht für die wirtschaftliche Souveränität der Mitgliedstaaten einräumt.
+Zusammenfassend gilt, die WTO hat im Vergleich zu anderen internationalen Organisation wie der UNO eine ziemliche effiziente und effektive Demokratie, die sich trotzdem besondere Rücksicht für die wirtschaftliche Souveränität der Mitgliedstaaten einräumt. Durch den demokratischen Interessensaustausch kommt es auch zu einer für viele Mitgliedsstaaten faire 
 
