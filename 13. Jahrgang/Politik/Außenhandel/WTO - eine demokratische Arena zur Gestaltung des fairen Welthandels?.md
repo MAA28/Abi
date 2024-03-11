@@ -1,0 +1,1 @@
+Die Welthandelsorganisation (WTO) wurde 1995 als nachfolge Organisation zu dem Güter- und Zollabkommen (GATT)
