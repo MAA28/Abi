@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5460695d4a1f47f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "13. Jahrgang/Politik/Außenhandel/Protektionismus und Freihandel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a92249aeae1209ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "13. Jahrgang/Politik/Außenhandel/WTO - eine demokratische Arena zur Gestaltung des fairen Welthandels?.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"

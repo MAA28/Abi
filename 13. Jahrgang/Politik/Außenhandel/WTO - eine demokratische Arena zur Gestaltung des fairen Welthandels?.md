@@ -1,4 +1,4 @@
-Die Welthandelsorganisation (WTO) wurde 1995 als Nachfolger des Güter- und Zollabkommens (GATT) gegründet und dient der Ausweitung des Freihandels in der ganzen Welt.
+Die Welthandelsorganisation (WTO) wurde 1995 als Nachfolger des Güter- und Zollabkommens (GATT) gegründet und dient der Ausweitung des regelgeleiteten Freihandels in der ganzen Welt.
 
 Die Arbeit in der WTO findet in der Minsterkonferenz statt. Dort wird nach zwei Grundprinzipien vorgegangent: Das Prinzip der Konsensenstscheidung und das Prinzip der formellen Gleichheit (besser bekannt als "one state - one vote"-Prinzip). Diese Prinzipien gewähren allen 164 Mitgliedern theoretisch die gleiche Macht entscheidungen zu beeinflussen.
 
@@ -8,5 +8,5 @@ Auch das Konsensprinzip trägt die klassischen Schwierigkeiten in sich: Soll bei
 
 Wenn einige Mitgliedsstaaten eine Änderung der vertraglichen Pflichten und Rechte der Mitglieder der WTO anstreben benötigt ihr Vorschlag einerseits eine  2/3-Mehrheit in der Ministerkonferenz und anderseits ist der Beschluss nur bindenden für die zustimmenden Staaten. Aus der Perspektive eines Mitgliedsstaats der den angebrachten Vorschlag nicht zu stimmt ist diese Arbeitsweise sehr wichtig für ihre staatliche Souveränität. Von dem Punkt eines die Änderung unterstützten Staats kann diese Situation aber als das Gleichheitsprinzip verletztend wahrgenommen werden.
 
-Zusammenfassend gilt, die WTO hat im Vergleich zu anderen internationalen Organisation wie der UNO eine ziemliche effiziente und effektive Demokratie, die sich trotzdem besondere Rücksicht für die wirtschaftliche Souveränität der Mitgliedstaaten einräumt. Durch den demokratischen Interessensaustausch kommt es auch zu einer für viele Mitgliedsstaaten faire 
+Zusammenfassend gilt, die WTO hat im Vergleich zu anderen internationalen Organisation wie der UNO eine ziemliche effiziente und effektive Demokratie, die sich trotzdem besondere Rücksicht für die wirtschaftliche Souveränität der Mitgliedstaaten einräumt. Durch den demokratischen Interessensaustausch kommt es auch zu einer für viele Mitgliedsstaaten faire internationale Handelsordnung.
 
