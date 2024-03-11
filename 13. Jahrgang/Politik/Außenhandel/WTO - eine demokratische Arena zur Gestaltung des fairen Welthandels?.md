@@ -1,1 +1,3 @@
-Die Welthandelsorganisation (WTO) wurde 1995 als nachfolge Organisation zu dem Güter- und Zollabkommen (GATT)
+Die Welthandelsorganisation (WTO) wurde 1995 als Nachfolger des Güter- und Zollabkommens (GATT) gegründet und dient der Ausweitung des Freihandels in der ganzen Welt.
+
+Die Arbeit in der WTO ist nach vier Grundprinzipien strukturiert: Das Prinzip der Meitsbegünstigung gewährt, dass jeder Staat die selben Handelsvorteile bekommen muss wie der meistbegünstigte Staat.
