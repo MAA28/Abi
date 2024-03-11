@@ -6,5 +6,7 @@ Wie üblich für solche internationalen Organisation ignoriert das Prinzip der f
 
 Auch das Konsensprinzip trägt die klassischen Schwierigkeiten in sich: Soll beispielsweise in der WTO mithilfe dieses Prinzips ein Handelskonflikt beseitigt werden, könnten die im Konflikt beteiligten Mitgliedsstaaten einfach jeden Lösungsansatz blockieren indem sie nicht zu stimmen. Zwar bietet die WTO dann die Möglichkeit anhand des "One state - one vote"-Prinzips weiter zu machen, der folglich entstehende Beschluss verliert aber dennoch etwas an Legitimität aus der Perspektive des im Lösungsvorschlag benachteilgten Staates.
 
-Wenn einige Mitgliedsstaaten eine Änderung der vertraglichen Pflichten und Rechte der Mitglieder der WTO anstreben benötigt ihr Vorschlag einerseits eine  2/3-Mehrheit in der Ministerkonferenz und anderseits ist der Beschluss nur bindenden für die zustimmenden Staaten. Aus der Perspektive eines Mitgliedsstaats der den angebrachten Vorschlag nicht zu stimmt ist diese Arbeitsweise sehr wichtig für ihre staatliche Souveränität. Von der P
+Wenn einige Mitgliedsstaaten eine Änderung der vertraglichen Pflichten und Rechte der Mitglieder der WTO anstreben benötigt ihr Vorschlag einerseits eine  2/3-Mehrheit in der Ministerkonferenz und anderseits ist der Beschluss nur bindenden für die zustimmenden Staaten. Aus der Perspektive eines Mitgliedsstaats der den angebrachten Vorschlag nicht zu stimmt ist diese Arbeitsweise sehr wichtig für ihre staatliche Souveränität. Von dem Punkt eines die Änderung unterstützten Staats kann diese Situation aber als das Gleichheitsprinzip verletztend wahrgenommen werden.
+
+Zusammenfassend gilt die WTO ist im Vergleich zu anderen 
 
