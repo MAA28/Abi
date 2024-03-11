@@ -1,0 +1,1 @@
+$$Grad der Globalisierung=\dfrac{weltweites Exportvolumen}{weltweite Bruttoinlandsprodukte}$
