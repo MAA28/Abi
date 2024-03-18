@@ -10,35 +10,4 @@ Desweiteren ist die Handelspolitik auch noch mehr als Zölle und Subventionen. M
 
 Diese Handlungen stehen auch im Widerspruch zu dem Art. 208 (2). Dieser verlangt nämlich, dass "\[b\]ei der Durchführung politischer Maßnahmen, die sich auf Entwicklungsländer auswirken können, \[träge\] die Union den zielen der Entwicklungszusammenarbeit Rechnung."
 
-Zusammenfassend liegen bestätigen die hier angeführten Tatsachen die Einschätzung Franziska Müllers über die Europäische Handelswirtschaft.
-
-
-
-
-
-Wo die Entwicklungsziele eines Landes, wie der Ausbau einer selbstständigen Wirtschaft, das Schaffen eines souveränen demokratischen Rechsstaats (mit Gewaltmonopol) oder die Finanzierung eines Umfragreichen und kostenfreien Schulsystems, im Interesse alle Völker der Welt sind, da durch diese das Reichtum der Menschheit erweitert  und der Frieden geschützt wird, ist es das Interesse der europäischen Monopolbourgeosie soviele Teile der Welt einzig und allein nach dem Prinzip der Mehrwertabschöpfung zu formieren. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Die europäische Handelspolitik reproduziert die aus dem kolonial Zeitalter stammenden ökonomischen (und damit einhergehenden politischen) Abhängigkeiten der üblicherweise afrikanischen Staaten in der Regel nicht mehr mit Belagerungen und Bajonenten sondern mit Schutzzöllen und Handelsabkommen. Viele der Afrikanischen Staaten sind daher immer noch kaum mehr als Rohstoffquellen für die europäische Produktion. Dieses neomerkantilistische Verhältnis ist durch niedrige Zölle auf Rohstoffe, die nach Europa kommen, und Subventionen und niedrige Zölle für veredelte Produkte, also solche aus den der Mehrwert abgeschöpft wurde, die Europa verlassen, forciert. Eine Sache hat sich allerdings bedeutend seit der Kolonialisierung Afrikas geändert: Nicht mehr werden nur die afrikanischen Rohstoffe  in Massen exportiert, sondern billige die lokale Produktion oft vernichtende Produkte, welche oft auch noch von schlechterer Qualität sind, werden in Afrika verkauft. Exemplarisch kann man hierfür die Handelsbeziehung Ghanas mit der EU beobachten: Ghana exportiert in die EU hauptsächlich Gold für nichtmonitäre Zwecke, Erdöl und Agrarprodukte die in Europa nicht produziert werden können. Die EU hingegen exportiert nach Ghana Maschinen und Fahrzeuge, Getreide und Eisen. Klassisches Beispiel von Rohstoffe raus - Produkte rein. Trotz des großen natürlichen Reichtums Ghanas befindet sich das Land laut des Human Development Reports mit einem HDI von  0.632 im unteren Drittel des internationale Vergleichs, den Ghana kann aufgrund dieser Handelspolitik nicht von seinem eigenen Reichtum profitieren. 
-
-Diese Strategie ist nicht nur moralisch mehr als Fragwürdig sondern auch im Widerspruch zu den Erklärten Zielen der EU. 
-
-Auf der anderen Seite schmückt sich die EU ganzbesonders und die anderen europäischen Handelsorganisation ebenfalls mit ihren sozialen Engament. So schreibt das Europäische Parlament auf ihrer Website zum Thema Entwicklungshilfen: "Die Europäische Union unterstützt Entwicklungsländer, indem sie nachhaltige Entwicklung und Stabilität fördert. Das langfristige Ziel besteht darin, die Armut zu beseitigen." Man habe 2021 insgesamt über 70,2 Mrd. € an öffentlicher Entwicklungshifle bereit gestellt.
-
-Diese Zahlen sind jedoch unbedeutend wenn sie mit dem Maßstab der aus Afrika gewonnenen Werte vergleicht. Laut einer Studie von 2022 ist der Verlust den der Globale Süden durch sein Handel mit dem Norden erfährt etwa 30 mal größer als ihr Gewinn durch Entwicklungshilfen (https://www.sciencedirect.com/science/article/pii/S095937802200005X). 
-
-Desweiteren ist die Handelspolitik auch noch mehr als Zölle und Subventionen. Mit der starken ökonomischen Macht Europas über Afrika geht auch eine signifakte politische einher. Bezeichnent für diesen Anspekt des Verhältnisses sind die Putchs und Coups gegen demokratischgewählte Regierung in Afrika durch Kräfte die von Europa und ihren Verbündeten finanziert oder unterstütz werden. Denn diese Regierungen versuchen oft die heimische Wirtschaft vor europäischem Einfluss zuschützen um diese zu entwicklen und selbstständig zu machen. Anstatt diese Anliegen zu unterstützen werden reaktionäre Organisation bewaffnet und finanziert oder ein korruptes Militär instrumentalisiert um eine Regierung den ehemaligen Kolonialherren gegenüber freundlich zustimmen. So beispielsweise im Kongo und Angola.
-
+Zusammenfassend bestätigen die hier angeführten Tatsachen die Einschätzung Franziska Müllers über die Europäische Handelswirtschaft. Der AEU-Vertrag scheint zum Mindestens in diesen Entwicklungspolitischen Aspekten nicht hinreichend Beachtung zu bekommen, da dies mit den handelspolitischen Interessen der EU in zu starken Konflikt stünde.
