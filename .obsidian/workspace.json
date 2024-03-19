@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3b32f4c13e2295a4",
+        "id": "a3ac49c29d8112e7",
         "type": "tabs",
         "children": [
           {
-            "id": "5460695d4a1f47f5",
+            "id": "d32af2f6d619111b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "13. Jahrgang/Politik/Außenhandel/Protektionismus und Freihandel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a92249aeae1209ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "13. Jahrgang/Politik/Außenhandel/Unvereinbar.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cc65e00363902932",
@@ -107,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13. Jahrgang/Politik/Außenhandel/Unvereinbar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "13. Jahrgang/Politik/Außenhandel/Unvereinbar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "13. Jahrgang/Politik/Außenhandel/Unvereinbar.md"
-              }
+              "state": {}
             }
           },
           {
@@ -191,13 +169,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a92249aeae1209ae",
+  "active": "d32af2f6d619111b",
   "lastOpenFiles": [
+    "13. Jahrgang/Politik/Außenhandel/Protektionismus und Freihandel.md",
+    "12. Jahrgang/Politik & Wirtschaft/Digitale Medien - Chancen und Gefahren.pdf",
+    "12. Jahrgang/Politik & Wirtschaft/Berurteilung der Durchsetzungschancen der Verbände DUH und des  Automobilverbands.md",
+    "12. Jahrgang/Politik & Wirtschaft/Anwendung der Medientheorien.md",
+    "12. Jahrgang/Politik & Wirtschaft/AB Partizipation - Engagement.pdf",
+    "13. Jahrgang/Politik/Außenhandel/Unvereinbar.md",
     "13. Jahrgang/Politik/Außenhandel/WTO - eine demokratische Arena zur Gestaltung des fairen Welthandels?.md",
     "13. Jahrgang/Politik/Außenhandel/Indikatoren der Globalisierung.md",
-    "13. Jahrgang/Politik/Außenhandel/Unvereinbar.md",
     "13. Jahrgang/Politik/Außenhandel/Konzept einer Weltordnung.md",
-    "13. Jahrgang/Politik/Außenhandel/Protektionismus und Freihandel.md",
     "13. Jahrgang/Politik/Außenhandel/EU-Außenpolitik.md",
     "conflict-files-obsidian-git.md",
     "13. Jahrgang/Politik/Außenhandel/EU.md",
@@ -222,14 +204,9 @@
     "13. Jahrgang/Deutsch/Die Abenteur des Werner Holt/Historischer Hintergrund.md",
     "13. Jahrgang/Deutsch/Die Abenteur des Werner Holt/Arbeitsblatt.md",
     "13. Jahrgang/Deutsch/Die Abenteur des Werner Holt/Erwartungshorizont.md",
-    "13. Jahrgang/Deutsch/Die Abenteur des Werner Holt/Interview mit Werner Holt.md",
-    "13. Jahrgang/Politik/Friedenssicherung/BW-Einsätze (Beispiel MINUSMA) Contra (Frieden, Rechtmäßigkeit).md",
-    "13. Jahrgang/Politik/Friedenssicherung/Legitimation und Zeile der MINUSMA.md",
     "13. Jahrgang/Deutsch/Die Abenteur des Werner Holt",
     "13. Jahrgang/Politik/Aktuelle 15min.odp",
     "13. Jahrgang/Englisch",
-    "13. Jahrgang/Deutsch/Denken - Sprechen - Wirklichkeit",
-    "13. Jahrgang/Deutsch/Fraulein Else",
     "Untitled.canvas",
     "12. Jahrgang/Seminarfach/Facharbeit/Verhältnisgraph.png",
     "12. Jahrgang/Seminarfach/Facharbeit/Konzentration der Produktion in der Energieproduktion 2011- Pareto.png",
