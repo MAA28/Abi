@@ -13,10 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13. Jahrgang/Politik/Lernzettel für die letzte Klausur.md",
+                "file": "13. Jahrgang/Politik/Außenhandel/Protektionismus und Freihandel.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "bc019468454f88fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9edb9ae1ccf64bf",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {}
             }
           }
         ]
@@ -93,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13. Jahrgang/Politik/Lernzettel für die letzte Klausur.md",
+                "file": "13. Jahrgang/Politik/Außenhandel/Protektionismus und Freihandel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "13. Jahrgang/Politik/Lernzettel für die letzte Klausur.md",
+                "file": "13. Jahrgang/Politik/Außenhandel/Protektionismus und Freihandel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "13. Jahrgang/Politik/Lernzettel für die letzte Klausur.md"
+                "file": "13. Jahrgang/Politik/Außenhandel/Protektionismus und Freihandel.md"
               }
             }
           },
@@ -179,6 +193,11 @@
   },
   "active": "d32af2f6d619111b",
   "lastOpenFiles": [
+    "13. Jahrgang/Politik/Außenhandel/WTO - eine demokratische Arena zur Gestaltung des fairen Welthandels?.md",
+    "13. Jahrgang/Politik/Außenhandel/Unvereinbar.md",
+    "13. Jahrgang/Politik/Außenhandel/Protektionismus und Freihandel.md",
+    "13. Jahrgang/Politik/Außenhandel/Indikatoren der Globalisierung.md",
+    "13. Jahrgang/Politik/Lernzettel für die letzte Klausur.md",
     "13. Jahrgang/Politik/Friedenssicherung/Zerfallender Staat.md",
     "13. Jahrgang/Politik/Friedenssicherung/Verteilung von Kriegen und Konflikten in Amerika.md",
     "13. Jahrgang/Politik/Friedenssicherung/Ursachen des Konflikts in Mali.md",
@@ -200,11 +219,6 @@
     "12. Jahrgang/Politik & Wirtschaft/Anwendung der Medientheorien.md",
     "12. Jahrgang/Politik & Wirtschaft/Ziele der Wirtschaftsordnung.md",
     "12. Jahrgang/Politik & Wirtschaft/Ziele der Sozialen Marktwirtschaft.md",
-    "12. Jahrgang/Politik & Wirtschaft/Zeitungsartikel.md",
-    "12. Jahrgang/Politik & Wirtschaft/Zeitungartikel.md",
-    "12. Jahrgang/Politik & Wirtschaft/Untitled.md",
-    "12. Jahrgang/Politik & Wirtschaft/Umweltprobleme Klimawandel.md",
-    "12. Jahrgang/Politik & Wirtschaft/Sachurteil - Rolle der Medien in einer Demokratie.md",
     "12. Jahrgang/Politik & Wirtschaft/Mitmachen in der Demokratie.pdf",
     "12. Jahrgang/Politik & Wirtschaft/Funktionen.pdf",
     "12. Jahrgang/Politik & Wirtschaft/AB Partizipation - Engagement.pdf",
