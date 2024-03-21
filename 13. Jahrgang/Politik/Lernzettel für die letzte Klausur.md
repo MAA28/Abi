@@ -1,4 +1,4 @@
-# Bundeswehr 
+ # Bundeswehr 
 + Mali-Einsatz
 	+ Hauptsächlich unterstützte die BW das französische Heer im Auftrag der UNO 
 		+ Führungs-, Beobachtungs- und Beratungsaufgaben
